@@ -1,75 +1,168 @@
 <!DOCTYPE html>
 
+<!DOCTYPE html>
 <html lang="pt-br">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Rádio Bunda de Vaca</title>
+
 <style>
-body { font-family: Arial, sans-serif; background:#111; color:#eee; margin:0; text-align:center; }
-header { background:#1a1a1a; padding:30px 20px; }
-h1 { color:#ffcc00; }
-section { padding:30px 20px; }
-.card { background:#222; max-width:600px; margin:20px auto; padding:20px; border-radius:12px; }
-audio { width:100%; margin-top:10px; }
-.pix { background:#1a1a1a; padding:25px; margin-top:30px; }
-small { color:#aaa; }
+body {
+  font-family: Arial, sans-serif;
+  background:#111;
+  color:#eee;
+  margin:0;
+  text-align:center;
+}
+
+header {
+  background:#1a1a1a;
+  padding:30px 20px;
+}
+
+h1 {
+  color:#ffcc00;
+}
+
+section {
+  padding:30px 20px;
+}
+
+.card {
+  background:#222;
+  max-width:650px;
+  margin:20px auto;
+  padding:20px;
+  border-radius:12px;
+}
+
+.card h3 {
+  color:#ffcc00;
+  margin-bottom:10px;
+}
+
+audio {
+  width:100%;
+  margin-top:10px;
+}
+
+.pix {
+  background:#1a1a1a;
+  padding:25px;
+  margin-top:30px;
+}
+
+small {
+  color:#aaa;
+}
 </style>
 </head>
+
 <body>
 
 <header>
-<h1>🎶 Rádio Bunda de Vaca</h1>
-<p>Beradeiras, experimentos tropicais e variações musicais do Brasil e do mundo.</p>
+  <h1>🎶 Rádio Bunda de Vaca</h1>
+  <p>Beradeiras, experimentos tropicais e variações musicais do Brasil e do mundo.</p>
 </header>
 
 <section>
-<h2>🎧 Beradeiras</h2>
-
-<div class="card">
-<h3>Beradeiras — Faixa 01</h3>
-<audio controls>
-  <source src="musicas/Caboco_Peregrino_bera001.MP3" type="audio/mpeg">
-</audio>
-</div>
+  <h2>🎧 Beradeiras</h2>
+  <div id="beradeiras"></div>
 </section>
 
 <section>
-<h2>📻 Rádio Bunda de Vaca</h2>
-<p>Uma mesma composição recriada em diferentes estilos musicais.</p>
-
-<div class="card">
-<h3>Bunda de Vaca — Forró</h3>
-  
-<audio controls>
-  <source s
-    rc="musicas/BVaca_sertanejo_1GO.MP3" type="audio/mpeg">
-</audio>
-  
-<audio controls>
-  <source src="musicas/AGRONEJO_fem1.mp3" type="audio/mpeg">
-</audio>
-
-<audio controls>
-  <source src="musicas/BLUE_eua1.mp3" type="audio/mpeg">
-</audio>
-
-<audio controls>
-  <source src="musicas/TWIST_fem1.mp3" type="audio/mpeg">
-</audio>
-  
-</div>
+  <h2>📻 Rádio Bunda de Vaca</h2>
+  <p>Uma mesma composição recriada em diferentes estilos musicais.</p>
+  <div id="bvaca"></div>
 </section>
 
 <div class="pix">
-<h3>💛 Apoie o projeto</h3>
-<p>Contribua via Pix para fortalecer esta rádio autoral independente.</p>
-<p><strong>Sua chave Pix aqui</strong></p>
+  <h3>💛 Apoie o projeto</h3>
+  <p>Contribua via Pix para fortalecer esta rádio autoral independente.</p>
+  <p><strong>Sua chave Pix aqui</strong></p>
 </div>
 
 <footer>
-<p><small>© José Berlange Andrade — Rádio Bunda de Vaca</small></p>
+  <p><small>© José Berlange Andrade — Rádio Bunda de Vaca</small></p>
 </footer>
+
+<script>
+const usuarioGitHub = "jberlange";
+const repositorio = "-radio-bunda-de-vaca";
+const pasta = "musicas";
+
+const apiURL = `https://api.github.com/repos/${usuarioGitHub}/${repositorio}/contents/${pasta}`;
+
+function limparTitulo(nomeArquivo) {
+  let nome = nomeArquivo.replace(/\.[^/.]+$/, "");
+  let partes = nome.split("__");
+
+  let estilo = partes[1] || "Desconhecido";
+  let descricao = partes[2] || "";
+
+  estilo = estilo.replace(/_/g, " ");
+  descricao = descricao.replace(/_/g, " ");
+
+  return {
+    estilo: estilo,
+    descricao: descricao
+  };
+}
+
+function criarPlayer(arquivo, destino) {
+  const card = document.createElement("div");
+  card.className = "card";
+
+  const dados = limparTitulo(arquivo.name);
+
+  const titulo = document.createElement("h3");
+  titulo.textContent = dados.estilo;
+
+  const desc = document.createElement("p");
+  desc.textContent = dados.descricao;
+
+  const audio = document.createElement("audio");
+  audio.controls = true;
+
+  const source = document.createElement("source");
+  source.src = arquivo.download_url;
+  source.type = "audio/mpeg";
+
+  audio.appendChild(source);
+
+  card.appendChild(titulo);
+  card.appendChild(desc);
+  card.appendChild(audio);
+
+  destino.appendChild(card);
+}
+
+fetch(apiURL)
+  .then(resposta => resposta.json())
+  .then(arquivos => {
+    const beradeiras = document.getElementById("beradeiras");
+    const bvaca = document.getElementById("bvaca");
+
+    arquivos
+      .filter(arquivo => arquivo.name.toLowerCase().endsWith(".mp3"))
+      .forEach(arquivo => {
+        const nome = arquivo.name.toUpperCase();
+
+        if (nome.startsWith("BERADEIRAS__")) {
+          criarPlayer(arquivo, beradeiras);
+        }
+
+        if (nome.startsWith("BVACA__")) {
+          criarPlayer(arquivo, bvaca);
+        }
+      });
+  })
+  .catch(erro => {
+    document.body.innerHTML += "<p>Erro ao carregar músicas.</p>";
+    console.error(erro);
+  });
+</script>
 
 </body>
 </html>
