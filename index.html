@@ -83,7 +83,7 @@ small {
   width: 260px;
   left: 40px;
   top: 55px;
-  transform-origin: 45px 45px;
+  transform-origin: 35px 25px;
   transition: transform 0.08s linear;
   z-index: 10;
 }
@@ -212,8 +212,8 @@ function animarRabo() {
     cancelAnimationFrame(animacaoRabo);
     return;
   }
-
-  const tempo = Date.now() / 180;
+ 
+  const tempo = Date.now() / 260;
   const angulo = Math.sin(tempo) * 4;
 
   raboVaca.style.transform = `rotate(${angulo}deg)`;
