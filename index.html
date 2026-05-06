@@ -150,6 +150,8 @@ function criarPlayer(arquivo, destino) {
   const card = document.createElement("div");
   card.className = "card";
 
+  
+
   const dados = limparTitulo(arquivo.name);
 
   const titulo = document.createElement("h3");
@@ -160,7 +162,8 @@ function criarPlayer(arquivo, destino) {
 
   const audio = document.createElement("audio");
   audio.controls = true;
-
+  conectarRaboAoAudio(audio);
+  
   const source = document.createElement("source");
   source.src = arquivo.download_url;
   source.type = "audio/mpeg";
