@@ -199,11 +199,12 @@ fetch(apiURL)
     console.error(erro);
   });
 
-  const raboVaca = document.getElementById("raboVaca");
+const raboVaca = document.getElementById("raboVaca");
 let animacaoRabo;
+let audioAtivo = null;
 
 function animarRabo() {
-  if (player.paused || player.ended) {
+  if (!audioAtivo || audioAtivo.paused || audioAtivo.ended) {
     raboVaca.style.transform = "rotate(0deg)";
     cancelAnimationFrame(animacaoRabo);
     return;
@@ -213,22 +214,24 @@ function animarRabo() {
   const angulo = Math.sin(tempo) * 18;
 
   raboVaca.style.transform = `rotate(${angulo}deg)`;
-
   animacaoRabo = requestAnimationFrame(animarRabo);
 }
 
-player.addEventListener("play", () => {
-  cancelAnimationFrame(animacaoRabo);
-  animarRabo();
-});
+function conectarRaboAoAudio(audio) {
+  audio.addEventListener("play", () => {
+    audioAtivo = audio;
+    cancelAnimationFrame(animacaoRabo);
+    animarRabo();
+  });
 
-player.addEventListener("pause", () => {
-  raboVaca.style.transform = "rotate(0deg)";
-});
+  audio.addEventListener("pause", () => {
+    raboVaca.style.transform = "rotate(0deg)";
+  });
 
-player.addEventListener("ended", () => {
-  raboVaca.style.transform = "rotate(0deg)";
-});
+  audio.addEventListener("ended", () => {
+    raboVaca.style.transform = "rotate(0deg)";
+  });
+}
 </script>
 
 </body>
