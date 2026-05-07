@@ -227,10 +227,24 @@ small {
 </footer>
 
 <script>
+ 
 const usuarioGitHub = "jberlange";
 const repositorio = "-radio-bunda-de-vaca";
 const pasta = "musicas";
 
+  const limiteHome = 5;
+
+// Se quiser escolher manualmente as 5 obras, coloque aqui os nomes EXATOS dos arquivos:
+const destaqueBD = [
+  // "BD__CABOCO_PEREGRINO__VERSAO_ORIGINAL.MP3",
+  // "BD__NOME_DA_MUSICA__DESCRICAO.MP3"
+];
+
+const destaqueBV = [
+  // "BV__SERTANEJO__RAIZ_GOIANO_CLASSICO.MP3",
+  // "BV__FORRO__PE_DE_SERRA_TRADICIONAL.MP3"
+];
+  
 const apiURL = `https://api.github.com/repos/${usuarioGitHub}/${repositorio}/contents/${pasta}`;
 
 function limparTitulo(nomeArquivo) {
@@ -351,21 +365,39 @@ fetch(apiURL)
   .then(arquivos => {
     const beradeiras = document.getElementById("beradeiras");
     const bvaca = document.getElementById("bvaca");
+//* ======
+const todosMp3 = arquivos
+  .filter(arquivo => arquivo.name.toLowerCase().endsWith(".mp3"));
 
-    arquivos
-      .filter(arquivo => arquivo.name.toLowerCase().endsWith(".mp3"))
-      .forEach(arquivo => {
-        const nome = arquivo.name.toUpperCase();
+const arquivosBD = todosMp3
+  .filter(arquivo => arquivo.name.toUpperCase().startsWith("BD__"));
 
-        if (nome.startsWith("BD__")) {
-          criarPlayer(arquivo, beradeiras);
-        }
+const arquivosBV = todosMp3
+  .filter(arquivo => arquivo.name.toUpperCase().startsWith("BV__"));
 
-        if (nome.startsWith("BV__")) {
-          criarPlayer(arquivo, bvaca);
-        }
-      });
+function selecionarDestaques(listaArquivos, destaqueManual) {
+  if (destaqueManual.length > 0) {
+    return destaqueManual
+      .map(nome => listaArquivos.find(arquivo => arquivo.name === nome))
+      .filter(Boolean)
+      .slice(0, limiteHome);
+  }
+
+  return listaArquivos
+    .slice()
+    .reverse()
+    .slice(0, limiteHome);
+}
+
+selecionarDestaques(arquivosBD, destaqueBD)
+  .forEach(arquivo => criarPlayer(arquivo, beradeiras));
+
+selecionarDestaques(arquivosBV, destaqueBV)
+  .forEach(arquivo => criarPlayer(arquivo, bvaca));
+    //*----
   })
+
+  
   .catch(erro => {
     document.body.innerHTML += "<p>Erro ao carregar músicas.</p>";
     console.error(erro);
