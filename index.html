@@ -157,6 +157,25 @@ small {
 .controles-radio button:hover {
   background: #ffaa00;
 }
+
+  .oculta {
+  display: none;
+}
+
+.botao-lista {
+  background: #333;
+  color: #ffcc00;
+  border: 1px solid #ffcc00;
+  padding: 10px 15px;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.botao-lista:hover {
+  background: #444;
+}
+  
   
 </style>
 </head>
@@ -181,11 +200,19 @@ small {
   <section>
     <h2>🎧 Beradeiras</h2>
     <div id="beradeiras"></div>
+    <button class="botao-lista" onclick="toggleLista('beradeiras')">
+   Ver mais músicas
+</button>
   </section>
+  
 
+  
   <section>
     <h2>📻 Rádio Bunda de Vaca</h2>
     <div id="bvaca"></div>
+    <button class="botao-lista" onclick="toggleLista('bvaca')">
+  Ver mais músicas
+</button>
   </section>
 </div>
 
@@ -224,6 +251,7 @@ function limparTitulo(nomeArquivo) {
 
 let listaAudios = [];
 let indiceAtual = -1;
+const limiteInicial = 5;
   
 function criarPlayer(arquivo, destino) {
   const card = document.createElement("div");
@@ -273,7 +301,12 @@ audio.addEventListener("play", () => {
   card.appendChild(titulo);
   card.appendChild(desc);
   card.appendChild(audio);
+  
+ const totalAtual = destino.children.length;
 
+if (totalAtual >= limiteInicial) {
+  card.classList.add("oculta");
+}
   destino.appendChild(card);
 }
 
@@ -371,6 +404,30 @@ function conectarRaboAoAudio(audio) {
     raboVaca.style.transform = "rotate(0deg)";
   });
 }
+
+  function toggleLista(idLista) {
+
+  const lista = document.getElementById(idLista);
+
+  const ocultas = lista.querySelectorAll(".oculta");
+
+  const botao = lista.nextElementSibling;
+
+  const escondidas = [...ocultas].some(item =>
+    item.style.display !== "block"
+  );
+
+  ocultas.forEach(item => {
+    item.style.display =
+      escondidas ? "block" : "none";
+  });
+
+  botao.textContent =
+    escondidas
+      ? "Mostrar menos"
+      : "Ver mais músicas";
+}
+  
 </script>
 
 </body>
