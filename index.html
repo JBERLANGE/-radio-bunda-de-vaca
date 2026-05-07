@@ -1,11 +1,31 @@
 <!DOCTYPE html>
 <html>
 <header>
+ <div class="painel-radio">
+
+<header>
   <div class="logo-area">
-    <img class="logo-base" src="assets/vaca-base.png" alt="Logo Rádio Bunda de Vaca">
+    <img class="logo-base" src="assets/logo-base.png" alt="Logo Rádio Bunda de Vaca">
     <img class="logo-rabo" id="raboVaca" src="assets/rabo.png" alt="">
-    <link rel="icon" type="image/x-icon" href="favicon.ico">
-    
+  </div>
+
+  <h1>RÁDIO BUNDA DE VACA</h1>
+  <p class="subtitulo">Cow's Butt Radio</p>
+</header>
+
+<div class="tocando-agora">
+  <h2>🎙️ Tocando agora</h2>
+  <h3 id="musicaAtual">Nenhuma música em execução</h3>
+  <p id="descricaoAtual">Escolha uma faixa nas listas abaixo.</p>
+
+  <div class="controles-radio">
+    <button onclick="voltarMusica()">⏮ Voltar</button>
+    <button onclick="pararMusica()">⏸ Parar</button>
+    <button onclick="avancarMusica()">⏭ Avançar</button>
+  </div>
+</div>
+
+</div>
   </div>
 
 <!--   <h1></h1>
@@ -197,6 +217,62 @@ small {
   background: #444;
 }
   
+ .painel-radio {
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  background: #111;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #333;
+}
+
+.listas-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  max-width: 1400px;
+  margin: 20px auto;
+  padding: 0 15px;
+}
+
+.lista-scroll {
+  max-height: 65vh;
+  overflow-y: auto;
+  padding-right: 5px;
+}
+
+@media (max-width: 800px) {
+  .listas-container {
+    grid-template-columns: 1fr;
+  }
+
+  .painel-radio {
+    position: sticky;
+    top: 0;
+  }
+
+  .logo-area {
+    width: 220px;
+  }
+
+  h1 {
+    font-size: 28px;
+  }
+
+  .tocando-agora {
+    margin: 5px auto 10px auto;
+    padding: 10px;
+  }
+
+  #musicaAtual {
+    font-size: 18px;
+  }
+
+  .controles-radio button {
+    padding: 12px 14px;
+    font-size: 15px;
+  }
+}
   
 </style>
 </head>
@@ -220,27 +296,14 @@ small {
 
   <section>
     <h2>🎧 Beradeiras</h2>
-    <div id="beradeiras"></div>
-    <button class="botao-lista" onclick="toggleLista('beradeiras')">
-   Ver mais músicas
-</button>
+    <div id="beradeiras" class="lista-scroll"></div>
   </section>
-  
 
-  
   <section>
-    <h2>📻 Rádio Bunda de Vaca</h2>
-    <div id="bvaca"></div>
-    <button class="botao-lista" onclick="toggleLista('bvaca')">
-  Ver mais músicas
-</button>
+    <h2>📻 Bunda de Vaca</h2>
+    <div id="bvaca" class="lista-scroll"></div>
   </section>
-</div>
 
-<div class="pix">
-  <h3>💛 Apoie o projeto</h3>
-  <p>Contribua via Pix para fortalecer esta rádio autoral independente.</p>
-  <p><strong>vacacowmusic@gmail.com</strong></p>
 </div>
 
 <footer>
@@ -317,9 +380,11 @@ function criarPlayer(arquivo, destino) {
   estilo: dados.estilo,
   descricao: dados.descricao
 });
-
-audio.addEventListener("play", () => {
-  indiceAtual = indiceMusica;
+indiceAtual = indiceMusica;
+audio.addEventListener("ended", () => {
+  avancarMusica();
+});
+  
 
   document.getElementById("musicaAtual").textContent = dados.estilo;
   document.getElementById("descricaoAtual").textContent = dados.descricao || "Sem descrição cadastrada.";
