@@ -117,13 +117,65 @@ small {
     grid-template-columns: 1fr;
   }
 }
+
+  .tocando-agora {
+  background: #222;
+  max-width: 760px;
+  margin: 25px auto;
+  padding: 22px;
+  border-radius: 16px;
+  box-shadow: 0 0 18px rgba(255, 204, 0, 0.15);
+}
+
+.tocando-agora h2 {
+  color: #ffcc00;
+  margin-top: 0;
+}
+
+#musicaAtual {
+  color: #f5c542;
+  font-size: 24px;
+  margin-bottom: 5px;
+}
+
+#descricaoAtual {
+  color: #ddd;
+  font-style: italic;
+}
+
+.controles-radio button {
+  background: #ffcc00;
+  color: #000;
+  border: none;
+  padding: 10px 16px;
+  margin: 8px;
+  border-radius: 10px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.controles-radio button:hover {
+  background: #ffaa00;
+}
+  
 </style>
 </head>
 
 <body>
 
 <header>
- 
+
+  <div class="tocando-agora">
+  <h2>🎙️ Tocando agora</h2>
+  <h3 id="musicaAtual">Nenhuma música em execução</h3>
+  <p id="descricaoAtual">Escolha uma faixa nas listas abaixo.</p>
+
+  <div class="controles-radio">
+    <button onclick="voltarMusica()">⏮ Voltar</button>
+    <button onclick="avancarMusica()">⏭ Avançar</button>
+  </div>
+</div>
+  
 <div class="listas-container">
 
   <section>
@@ -170,6 +222,9 @@ function limparTitulo(nomeArquivo) {
   };
 }
 
+let listaAudios = [];
+let indiceAtual = -1;
+  
 function criarPlayer(arquivo, destino) {
   const card = document.createElement("div");
   card.className = "card";
@@ -177,7 +232,9 @@ function criarPlayer(arquivo, destino) {
   
 
   const dados = limparTitulo(arquivo.name);
-
+  
+  const indiceMusica = listaAudios.length;
+  
   const titulo = document.createElement("h3");
   titulo.textContent = dados.estilo;
 
@@ -187,6 +244,25 @@ function criarPlayer(arquivo, destino) {
   const audio = document.createElement("audio");
   audio.controls = true;
   conectarRaboAoAudio(audio);
+
+  listaAudios.push({
+  audio: audio,
+  estilo: dados.estilo,
+  descricao: dados.descricao
+});
+
+audio.addEventListener("play", () => {
+  indiceAtual = indiceMusica;
+
+  document.getElementById("musicaAtual").textContent = dados.estilo;
+  document.getElementById("descricaoAtual").textContent = dados.descricao || "Sem descrição cadastrada.";
+
+  listaAudios.forEach((item, i) => {
+    if (i !== indiceAtual) {
+      item.audio.pause();
+    }
+  });
+});
   
   const source = document.createElement("source");
   source.src = arquivo.download_url;
@@ -201,6 +277,42 @@ function criarPlayer(arquivo, destino) {
   destino.appendChild(card);
 }
 
+function avancarMusica() {
+  if (listaAudios.length === 0) return;
+
+  if (indiceAtual < 0) {
+    indiceAtual = 0;
+  } else {
+    listaAudios[indiceAtual].audio.pause();
+    indiceAtual = (indiceAtual + 1) % listaAudios.length;
+  }
+
+  tocarMusicaAtual();
+}
+
+function voltarMusica() {
+  if (listaAudios.length === 0) return;
+
+  if (indiceAtual < 0) {
+    indiceAtual = 0;
+  } else {
+    listaAudios[indiceAtual].audio.pause();
+    indiceAtual = (indiceAtual - 1 + listaAudios.length) % listaAudios.length;
+  }
+
+  tocarMusicaAtual();
+}
+
+function tocarMusicaAtual() {
+  const item = listaAudios[indiceAtual];
+
+  document.getElementById("musicaAtual").textContent = item.estilo;
+  document.getElementById("descricaoAtual").textContent = item.descricao || "Sem descrição cadastrada.";
+
+  item.audio.play();
+}
+  
+  
 fetch(apiURL)
   .then(resposta => resposta.json())
   .then(arquivos => {
