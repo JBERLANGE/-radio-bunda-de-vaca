@@ -208,6 +208,20 @@ small {
   padding:5px;
   margin-top:5px;
   }
+
+  .titulo-lista {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+}
+
+.icone-lista {
+  width: 52px;
+  height: 52px;
+  object-fit: contain;
+}
+  
 </style>
 </head>
 
@@ -243,14 +257,17 @@ small {
 <div class="listas-container">
 
   <section>
-    <h2><img class="beraico" id="icoBera" src="assets/favicon_bera.ico" alt=""> Beradeiras</h2>
-    <img class="beraico" id="icoBera" src="assets/favicon_bera.ico" alt="">
-    <div id="beradeiras" class="lista-scroll"></div>
-  </section>
+    <h2 class="titulo-lista">
+  <img src="assets/beravax.png" class="icone-lista">
+  Beradeiras
+  </h2>
+   </section>
 
   <section>
-    <h2> <img class="vacaico" id="icoVaca" src="assets/favicon_bera.ico" alt=""> Bunda de Vaca</h2>
-    <div id="bvaca" class="lista-scroll"></div>
+    <h2 class="titulo-lista">
+   <img src="assets/bundax.png" class="icone-lista">
+   Bunda de Vaca
+   </h2>
   </section>
 
 </div>
