@@ -17,7 +17,7 @@ body {
 }
 
 .painel-radio {
-  position: relative;
+  position: stick;
   top: 0;
   z-index: 999;
   background:#111;
@@ -238,7 +238,46 @@ small {
 #botaoRadio:hover {
   background: #ffaa00;
 }
-  
+
+
+.tooltip-radio {
+  position: absolute;
+  left: 50%;
+  top: 100%;
+  transform: translateX(-50%);
+  background: rgba(20, 20, 20, 0.96);
+  color: #eee;
+  border: 1px solid #ffcc00;
+  border-radius: 12px;
+  padding: 10px 14px;
+  width: min(90vw, 420px);
+  box-shadow: 0 0 18px rgba(255, 204, 0, 0.25);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+  z-index: 2000;
+}
+
+.tooltip-radio.visivel {
+  opacity: 1;
+}
+
+.tooltip-radio strong {
+  display: block;
+  color: #ffcc00;
+  margin-bottom: 4px;
+}
+
+.tooltip-radio span {
+  display: block;
+  font-size: 14px;
+  line-height: 1.35;
+}
+
+.painel-radio {
+  position: sticky;
+}
+
 </style>
 </head>
   
@@ -246,7 +285,7 @@ small {
         async src="//gc.zgo.at/count.js"></script>
 <body>
 
-<div class="painel-radio">
+<div class="painel-radio"> <-- ini
 
   <header>
     <div class="logo-area">
@@ -254,7 +293,7 @@ small {
       <img class="logo-rabo" id="raboVaca" src="assets/rabo.png" alt="">
     </div>
     
-   </header>
+ </header>
 
   <div class="tocando-agora">
     <h2>🎙️ Tocando agora</h2>
@@ -270,11 +309,15 @@ small {
     </div>
   </div>
 
+</div> <-- fim tocando agora
+
+ <div id="tooltipRadio" class="tooltip-radio">
+  <strong id="tooltipTitulo">Tocando agora</strong>
+  <span id="tooltipDescricao">Selecione uma música nas listas.</span>
 </div>
-
+ <-- includ
   
-
-  
+ 
 <div class="listas-container">
 
   <section>
@@ -378,6 +421,21 @@ function criarPlayer(arquivo, destino) {
     document.getElementById("musicaAtual").textContent = dados.estilo;
     document.getElementById("descricaoAtual").textContent =
       dados.descricao || "Sem descrição cadastrada.";
+    
+    mostrarTooltipRadio(dados.estilo, dados.descricao);
+    document.querySelector(".painel-radio").addEventListener("mouseenter", () => {
+  const titulo = document.getElementById("musicaAtual").textContent;
+  const descricao = document.getElementById("descricaoAtual").textContent;
+
+  mostrarTooltipRadio(titulo, descricao);
+});
+
+document.querySelector(".painel-radio").addEventListener("touchstart", () => {
+  const titulo = document.getElementById("musicaAtual").textContent;
+  const descricao = document.getElementById("descricaoAtual").textContent;
+
+  mostrarTooltipRadio(titulo, descricao);
+});
 
     listaAudios.forEach((item, i) => {
       if (i !== indiceAtual) {
@@ -565,6 +623,26 @@ function conectarRaboAoAudio(audio) {
     raboVaca.style.transform = "rotate(0deg)";
   });
 }
+
+let tempoTooltip;
+
+function mostrarTooltipRadio(titulo, descricao) {
+  const tooltip = document.getElementById("tooltipRadio");
+  const tooltipTitulo = document.getElementById("tooltipTitulo");
+  const tooltipDescricao = document.getElementById("tooltipDescricao");
+
+  tooltipTitulo.textContent = titulo || "Tocando agora";
+  tooltipDescricao.textContent = descricao || "Sem descrição  cadastrada.";
+
+  tooltip.classList.add("visivel");
+
+  clearTimeout(tempoTooltip);
+
+  tempoTooltip = setTimeout(() => {
+    tooltip.classList.remove("visivel");
+  }, 3000);
+}
+
 </script>
 
 </body>
