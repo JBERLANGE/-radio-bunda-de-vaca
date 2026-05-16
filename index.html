@@ -25,6 +25,10 @@ body {
   padding-bottom:15px;
 }
 
+  .tooltip-radio {
+  top: 260px;
+}
+
 header {
   background:#1a1a1a;
   padding:10px 5px;
@@ -240,7 +244,7 @@ small {
 }
 
 
-.tooltip-radio {
+.tooltip-radio { 
   position: fixed;
   left: 50%;
   top: 20px;
@@ -532,6 +536,11 @@ function ligarRadio() {
 
   document.getElementById("descricaoAtual").textContent =
     "Selecione uma música ou estilo musical nas listas.";
+  
+  mostrarTooltipRadio(
+  "Abertura da Rádio",
+  "Selecione uma música ou estilo musical nas listas."
+);
 
   document.getElementById("botaoRadio").style.display = "none";
 }
@@ -540,7 +549,10 @@ function ligarRadio() {
 function tocarAbertura() {
 
   audioAbertura.src = aberturas[indiceAbertura];
-
+mostrarTooltipRadio(
+  "Abertura da Rádio",
+  "Programação instrumental de abertura."
+);
   audioAbertura.play();
 
   conectarRaboAoAudio(audioAbertura);
