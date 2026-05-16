@@ -17,7 +17,7 @@ body {
 }
 
 .painel-radio {
-  position: sticky;
+  position: relative;
   top: 0;
   z-index: 999;
   background:#111;
@@ -241,9 +241,10 @@ small {
 
 
 .tooltip-radio {
-  position: absolute;
+ .tooltip-radio {
+  position: fixed;
   left: 50%;
-  top: 100%;
+  top: 12px;
   transform: translateX(-50%);
   background: rgba(20, 20, 20, 0.96);
   color: #eee;
@@ -256,7 +257,7 @@ small {
   pointer-events: none;
   transition: opacity 0.3s ease;
   z-index: 2000;
-}
+} 
 
 .tooltip-radio.visivel {
   opacity: 1;
@@ -272,10 +273,6 @@ small {
   display: block;
   font-size: 14px;
   line-height: 1.35;
-}
-
-.painel-radio {
-  position: sticky;
 }
 
 </style>
