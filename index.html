@@ -241,26 +241,24 @@ small {
 
 
 .tooltip-radio {
- .tooltip-radio {
   position: fixed;
   left: 50%;
-  top: 12px;
+  top: 20px;
   transform: translateX(-50%);
-  background: rgba(20, 20, 20, 0.96);
+  background: rgba(20,20,20,0.96);
   color: #eee;
   border: 1px solid #ffcc00;
   border-radius: 12px;
   padding: 10px 14px;
   width: min(90vw, 420px);
-  box-shadow: 0 0 18px rgba(255, 204, 0, 0.25);
-  opacity: 0;
-  pointer-events: none;
-  transition: opacity 0.3s ease;
-  z-index: 2000;
-} 
+  box-shadow: 0 0 18px rgba(255,204,0,0.25);
+  z-index: 5000;
+
+  display: none;
+}
 
 .tooltip-radio.visivel {
-  opacity: 1;
+  display: block;
 }
 
 .tooltip-radio strong {
