@@ -443,11 +443,23 @@ function tocarMusicaAtual() {
   item.audio.play();
 }
 
-const aberturas = [
-  "assets/abertura1.mp3",
-  "assets/abertura2.mp3",
-  "assets/abertura3.mp3"
-];
+let aberturas = [];
+let audioAbertura = new Audio();
+let radioLigada = false;
+let indiceAbertura = 0;
+
+const apiAssetsURL = `https://api.github.com/repos/${usuarioGitHub}/${repositorio}/contents/assets`;
+
+fetch(apiAssetsURL)
+  .then(resposta => resposta.json())
+  .then(arquivos => {
+    aberturas = arquivos
+      .filter(arquivo =>
+        arquivo.name.toLowerCase().startsWith("abertura") &&
+        arquivo.name.toLowerCase().endsWith(".mp3")
+      )
+      .map(arquivo => arquivo.download_url);
+  });
 
 let audioAbertura = new Audio();
 let radioLigada = false;
@@ -457,8 +469,12 @@ function ligarRadio() {
 
   if (radioLigada) return;
 
-  radioLigada = true;
+  if (aberturas.length === 0) {
+    alert("Nenhuma música de abertura encontrada.");
+    return;
+  }
 
+  radioLigada = true;
   tocarAbertura();
 
   document.getElementById("musicaAtual").textContent =
