@@ -297,7 +297,7 @@ small {
   <div class="tocando-agora">
     <h2>🎙️ Tocando agora</h2>
     <h3 id="musicaAtual">Nenhuma música em execução</h3>
-   <p id="descricaoAtual">acervo musical autoral amazônida-beradeiro </p> <!==Escolha uma faixa nas listas abaixo. -->
+   <p id="descricaoAtual">acervo musical autoral amazônida-beradeiro </p> 
   <button id="botaoRadio" onclick="ligarRadio()">
   ▶ Ligar Rádio
   </button>
@@ -312,7 +312,7 @@ small {
 
  <div id="tooltipRadio" class="tooltip-radio">
   <strong id="tooltipTitulo">Tocando agora</strong>
-  <span id="tooltipDescricao">acervo musical autoral amazônida-beradeiro</span>  <!--Selecione uma música nas listas.-->
+  <span id="tooltipDescricao">acervo musical autoral amazônida-beradeiro</span> 
 </div>
   
  
@@ -590,21 +590,25 @@ function tocarJingle() {
 
   audioJingle.src = jingles[indiceJingle];
 
-  audioJingle.play();
-
   mostrarTooltipRadio(
     "Rádio Bunda de Vaca",
     "Vinheta de transmissão"
   );
 
-  indiceJingle =
-    (indiceJingle + 1) % jingles.length;
+  indiceJingle = (indiceJingle + 1) % jingles.length;
 
   audioJingle.onended = () => {
     avancarMusica();
   };
-}
 
+  audioJingle.onerror = () => {
+    avancarMusica();
+  };
+
+  audioJingle.play().catch(() => {
+    avancarMusica();
+  });
+}
 function tocarAbertura() {
 
   audioAbertura.src = aberturas[indiceAbertura];
