@@ -453,7 +453,15 @@ document.querySelector(".painel-radio").addEventListener("touchstart", () => {
 
 
   audio.addEventListener("ended", () => {
-  raboVaca.style.transform = "rotate(0deg)";
+  contadorMusicas++;
+
+  if (contadorMusicas >= 2) {
+    contadorMusicas = 0;
+    tocarJingle();
+  } else {
+    avancarMusica();
+  }
+});
    
 });
 
@@ -677,16 +685,10 @@ function conectarRaboAoAudio(audio) {
   });
 
   audio.addEventListener("ended", () => {
-    raboVaca.style.transform = "rotate(0deg)";
-    contadorMusicas++;
+  raboVaca.style.transform = "rotate(0deg)";
+});
 
-if (contadorMusicas >= 4) {
-   tocarJingle();
-   contadorMusicas = 0;
-} else {
-   avancarMusica();
-}
-  });
+  
 }
 
 let tempoTooltip;
