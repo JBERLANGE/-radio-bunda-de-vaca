@@ -447,8 +447,10 @@ document.querySelector(".painel-radio").addEventListener("touchstart", () => {
   });
 
   audio.addEventListener("ended", () => {
+    
+     avancarMusica();
     contadorMusicas++;
-      avancarMusica();
+     
 if (contadorMusicas >= 4) {
    tocarJingle();
    contadorMusicas = 0;
