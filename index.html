@@ -366,7 +366,8 @@ const destaqueBV = ["BV__ ORQUESTRAL__Harmonia e percussão dialogando sem preci
 
 let listaAudios = [];
 let indiceAtual = -1;
-
+let contadorMusicas = 0;
+  
 function limparTitulo(nomeArquivo) {
   let nome = nomeArquivo.replace(/\.[^/.]+$/, "");
   let partes = nome.split("__");
@@ -447,6 +448,15 @@ document.querySelector(".painel-radio").addEventListener("touchstart", () => {
 
   audio.addEventListener("ended", () => {
     avancarMusica();
+    contadorMusicas++;
+
+if (contadorMusicas >= 4) {
+   tocarJingle();
+   contadorMusicas = 0;
+} else {
+   avancarMusica();
+}
+    
   });
 
   card.appendChild(titulo);
