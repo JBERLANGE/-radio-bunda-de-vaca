@@ -383,6 +383,9 @@ function limparTitulo(nomeArquivo) {
   return { estilo, descricao };
 }
 
+
+  
+
 function criarPlayer(arquivo, destino) {
   const card = document.createElement("div");
   card.className = "card";
@@ -450,20 +453,8 @@ document.querySelector(".painel-radio").addEventListener("touchstart", () => {
 
 
   audio.addEventListener("ended", () => {
-
-  contadorMusicas++;
-
-  if (contadorMusicas >= 2) {
-
-    contadorMusicas = 0;
-    tocarJingle();
-
-  } else {
-
-    avancarMusica();
-
-  }
-
+  raboVaca.style.transform = "rotate(0deg)";
+   
 });
 
   card.appendChild(titulo);
@@ -471,8 +462,6 @@ document.querySelector(".painel-radio").addEventListener("touchstart", () => {
   card.appendChild(audio);
   destino.appendChild(card);
 }
-
-
 
 
 
