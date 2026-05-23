@@ -357,7 +357,9 @@ Mais do que tecnologia, aqui existe presença, originalidade e alma criativa.”
 <small></P>
   </I></footer>
 
+
 <script>
+
 const usuarioGitHub = "jberlange";
 const repositorio = "-radio-bunda-de-vaca";
 const pasta = "musicas";
@@ -446,25 +448,33 @@ document.querySelector(".painel-radio").addEventListener("touchstart", () => {
     });
   });
 
+
   audio.addEventListener("ended", () => {
-    
-     avancarMusica();
-    contadorMusicas++;
-     
-if (contadorMusicas >= 4) {
-   tocarJingle();
-   contadorMusicas = 0;
-} else {
-   avancarMusica();
-}
-    
-  });
+
+  contadorMusicas++;
+
+  if (contadorMusicas >= 4) {
+
+    contadorMusicas = 0;
+    tocarJingle();
+
+  } else {
+
+    avancarMusica();
+
+  }
+
+});
 
   card.appendChild(titulo);
   card.appendChild(desc);
   card.appendChild(audio);
   destino.appendChild(card);
 }
+
+
+
+
 
 function avancarMusica() {
   if (listaAudios.length === 0) return;
@@ -531,7 +541,21 @@ fetch(apiAssetsURL)
       .map(arquivo => arquivo.download_url);
   });
 
+const apiJinglesURL =
+  `https://api.github.com/repos/${usuarioGitHub}/${repositorio}/contents/assets/jingles`;
 
+fetch(apiJinglesURL)
+  .then(resposta => resposta.json())
+  .then(arquivos => {
+
+    jingles = arquivos
+      .filter(arquivo =>
+        arquivo.name.toUpperCase().startsWith("JG__") &&
+        arquivo.name.toLowerCase().endsWith(".mp3")
+      )
+      .map(arquivo => arquivo.download_url);
+
+  });
 
 function ligarRadio() {
 
@@ -560,6 +584,30 @@ function ligarRadio() {
 }
 
 
+function tocarJingle() {
+
+  if (jingles.length === 0) {
+    avancarMusica();
+    return;
+  }
+
+  audioJingle.src = jingles[indiceJingle];
+
+  audioJingle.play();
+
+  mostrarTooltipRadio(
+    "Rádio Bunda de Vaca",
+    "Vinheta de transmissão"
+  );
+
+  indiceJingle =
+    (indiceJingle + 1) % jingles.length;
+
+  audioJingle.onended = () => {
+    avancarMusica();
+  };
+}
+
 function tocarAbertura() {
 
   audioAbertura.src = aberturas[indiceAbertura];
@@ -580,7 +628,10 @@ mostrarTooltipRadio(
   };
 }
 
-  
+let jingles = [];
+let audioJingle = new Audio();
+let indiceJingle = 0;
+
 fetch(apiURL)
   .then(resposta => resposta.json())
   .then(arquivos => {
