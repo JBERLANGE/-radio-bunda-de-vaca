@@ -307,12 +307,11 @@ small {
       <button onclick="avancarMusica()">⏭ Avançar</button>
     </div>
   </div>
-
-</div>  
-  
 <button onclick="tocarJingle()">
 🎙 Testar Jingle
 </button>
+</div>  
+  
   
  <div id="tooltipRadio" class="tooltip-radio">
   <strong id="tooltipTitulo">Tocando agora</strong>
@@ -551,6 +550,8 @@ fetch(apiJinglesURL)
 
   });
 
+  
+
 function ligarRadio() {
 
   if (radioLigada) return;
@@ -577,7 +578,7 @@ function ligarRadio() {
   document.getElementById("botaoRadio").style.display = "none";
 }
 
-
+  
 function tocarJingle() {
 
   if (jingles.length === 0) {
@@ -592,7 +593,8 @@ function tocarJingle() {
     "Vinheta de transmissão"
   );
 
-  indiceJingle = (indiceJingle + 1) % jingles.length;
+  indiceJingle =
+    (indiceJingle + 1) % jingles.length;
 
   audioJingle.onended = () => {
     avancarMusica();
@@ -606,6 +608,8 @@ function tocarJingle() {
     avancarMusica();
   });
 }
+
+  
 function tocarAbertura() {
 
   audioAbertura.src = aberturas[indiceAbertura];
