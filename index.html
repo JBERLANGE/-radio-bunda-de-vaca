@@ -515,7 +515,7 @@ function tocarMusicaAtual() {
   item.audio.onended = () => {
     contadorMusicas++;
 
-    if (contadorMusicas >= 5) {
+    if (contadorMusicas >= 3) {
       contadorMusicas = 0;
       tocarJingle();
     } else {
