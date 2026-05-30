@@ -452,16 +452,7 @@ document.querySelector(".painel-radio").addEventListener("touchstart", () => {
   });
 
 
-  audio.addEventListener("ended", () => {
-  contadorMusicas++;
 
-  if (contadorMusicas >= 2) {
-    contadorMusicas = 0;
-    tocarJingle();
-  } else {
-    avancarMusica();
-  }
-});
    
 
 
@@ -516,6 +507,21 @@ function tocarMusicaAtual() {
   document.getElementById("musicaAtual").textContent = item.estilo;
   document.getElementById("descricaoAtual").textContent =
     item.descricao || "Sem descrição cadastrada.";
+
+  // Remove listener anterior para não acumular
+  item.audio.onended = null;
+
+  // Controle centralizado de jingle
+  item.audio.onended = () => {
+    contadorMusicas++;
+
+    if (contadorMusicas >= 5) {
+      contadorMusicas = 0;
+      tocarJingle();
+    } else {
+      avancarMusica();
+    }
+  };
 
   item.audio.play();
 }
