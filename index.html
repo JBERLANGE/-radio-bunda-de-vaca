@@ -540,12 +540,16 @@ fetch(apiJinglesURL)
   .then(resposta => resposta.json())
   .then(arquivos => {
 
+    console.log("Arquivos de jingle:", arquivos);
+
     jingles = arquivos
       .filter(arquivo =>
         arquivo.name.toUpperCase().startsWith("JG__") &&
         arquivo.name.toLowerCase().endsWith(".mp3")
       )
       .map(arquivo => arquivo.download_url);
+
+    console.log("Jingles carregados:", jingles);
 
   });
 
