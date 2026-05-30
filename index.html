@@ -362,13 +362,14 @@ Mais do que tecnologia, aqui existe presença, originalidade e alma criativa.”
 
 
 <script>
-const apiJinglesURL = `https://api.github.com/repos/${usuarioGitHub}/${repositorio}/contents/jingles`;
+
 const usuarioGitHub = "jberlange";
 const repositorio = "-radio-bunda-de-vaca";
 const pasta = "musicas";
 const apiURL = `https://api.github.com/repos/${usuarioGitHub}/${repositorio}/contents/${pasta}`;
 const destaqueBV = ["BV__ ORQUESTRAL__Harmonia e percussão dialogando sem precisar de palavras..mp3"];
-
+const apiJinglesURL = `https://api.github.com/repos/${usuarioGitHub}/${repositorio}/contents/jingles`;
+  
 let listaAudios = [];
 let indiceAtual = -1;
 let contadorMusicas = 0;
