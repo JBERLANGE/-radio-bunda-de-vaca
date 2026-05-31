@@ -368,7 +368,7 @@ const repositorio = "-radio-bunda-de-vaca";
 const pasta = "musicas";
 const apiURL = `https://api.github.com/repos/${usuarioGitHub}/${repositorio}/contents/${pasta}`;
 const destaqueBV = ["BV__ ORQUESTRAL__Harmonia e percussão dialogando sem precisar de palavras..mp3"];
-const apiJinglesURL = `https://api.github.com/repos/${usuarioGitHub}/${repositorio}/contents/jingles`;
+ 
   
 let listaAudios = [];
 let indiceAtual = -1;
@@ -456,7 +456,7 @@ document.querySelector(".painel-radio").addEventListener("touchstart", () => {
   });
 
 
- audio.addEventListener("ended", () => {
+audio.addEventListener("ended", () => {
   contadorMusicas++;
 
   if (contadorMusicas >= 2) {
@@ -547,7 +547,6 @@ fetch(apiAssetsURL)
 fetch(apiJinglesURL)
   .then(resposta => resposta.json())
   .then(arquivos => {
-
     console.log("Arquivos de jingle:", arquivos);
 
     jingles = arquivos
@@ -558,7 +557,6 @@ fetch(apiJinglesURL)
       .map(arquivo => arquivo.download_url);
 
     console.log("Jingles carregados:", jingles);
-
   });
 
   
@@ -641,10 +639,17 @@ mostrarTooltipRadio(
   };
 }
 
-let jingles = [];
+let jingles = [
+  "jingles/JG__001.mp3",
+  "jingles/JG__002.mp3",
+  "jingles/JG__003.mp3",
+  "jingles/JG__004.mp3"
+];
+
 let audioJingle = new Audio();
 let indiceJingle = 0;
 
+  
 fetch(apiURL)
   .then(resposta => resposta.json())
   .then(arquivos => {
