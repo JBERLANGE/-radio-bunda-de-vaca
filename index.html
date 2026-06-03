@@ -1,11 +1,17 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html>
+<header>
+  <div class="logo-area">
+    <img class="logo-base" src="assets/vaca-base.png" alt="Logo Rádio Bunda de Vaca">
+    <img class="logo-rabo" id="raboVaca" src="assets/rabo.png" alt="">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    
+  </div>
 
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Rádio Bunda de Vaca</title>
-<link rel="icon" type="image/x-icon" href="favicon.ico">
+  <h1></h1>
+  <p class="subtitulo">Cow's Butt Radio</p>
+ <!-- <p>Beradeiras, experimentos tropicais e variações musicais do Brasil e do mundo.</p> -->
+</header>
 
 <style>
 body {
@@ -16,116 +22,30 @@ body {
   text-align:center;
 }
 
-.painel-radio {
-  position: relative;
-  top: 0;
-  z-index: 999;
-  background:#111;
-  border-bottom:1px solid #333;
-  padding-bottom:15px;
-}
-
-  .tooltip-radio {
-  top: 260px;
-}
-
 header {
   background:#1a1a1a;
-  padding:10px 5px;
+  padding:30px 20px;
 }
 
-.logo-area {
-  position: relative;
-  width: 95vw;
-  max-width: 95%;
-  min-height: 160px;
-  margin: 0 auto 5px auto;
+
+h1{  color:#f5c542;  font-size:48px;  
+margin-bottom:5px;  letter-spacing:2px;
 }
-  
-.logo-base {
-  width: 100%;
-  display: block;
+.subtitulo
+{  font-size:20px;  color:#ddd; 
+ font-style:italic;  letter-spacing:3px;
 }
 
-.logo-rabo {
-  position: absolute;
-  width: 25vw;
-  left: 35vw;
-  top: 3vw;
-  height: 40vw;
-  transform-origin: 35px 25px;
-  transition: transform 0.08s linear;
-  z-index: 10;
-}
-
-.tocando-agora {
-  background:#222;
-  max-width:460px;
-  margin:2px auto 4px auto;
-  padding:2px 4px;
-  border-radius:5px;
-  box-shadow:0 0 18px rgba(255,204,0,0.15);
-}
-
-.tocando-agora h2 {
-  color:#ffcc00;
-  margin:0 0 1px 0;
-  font-size:18px;
-}
-
-#musicaAtual {
-  color:#f5c542;
-  margin:3px 0;
-  font-size:16px;
-}
-
-#descricaoAtual {
-  color:#ddd;
-  font-style:italic;
-  margin:3px 0 6px 0;
-}
-
-.controles-radio button {
-  background:#ffcc00;
-  color:#000;
-  border:none;
-  padding:10px 16px;
-  margin:5px;
-  border-radius:10px;
-  font-weight:bold;
-  cursor:pointer;
-}
-
-.controles-radio button:hover {
-  background:#ffaa00;
-}
-
-.listas-container {
-  display:grid;
-  grid-template-columns:1fr 1fr;
-  gap:20px;
-  max-width:1400px;
-  margin:20px auto;
-  padding:0 15px;
-  align-items:start;
-}
 
 section {
-  padding:10px 5px;
-}
-
-.lista-scroll {
-  min-height: 300px;
-  max-height: 70vh;
-  overflow-y: auto;
-  padding-right: 5px;
+  padding:30px 20px;
 }
 
 .card {
   background:#222;
   max-width:650px;
-  margin:16px auto;
-  padding:10px;
+  margin:20px auto;
+  padding:20px;
   border-radius:12px;
 }
 
@@ -134,246 +54,200 @@ section {
   margin-bottom:10px;
 }
 
-.titulo-musica {
-  cursor:pointer;
-  padding:12px;
-  border-radius:10px;
-}
-
-.titulo-musica:hover {
-  background:#333;
-}
-
 audio {
   width:100%;
   margin-top:10px;
 }
 
 .pix {
-  text-align: center;
-}
-
-.pix strong {
-  display: block;
-  margin-top: 8px;
-  font-size: 16px;
-}
-
-footer {
-  clear:both;
-  width:100%;
-  padding:25px 0;
+  background:#1a1a1a;
+  padding:25px;
+  margin-top:30px;
 }
 
 small {
   color:#aaa;
 }
 
-@media (max-width:800px) {
-  .listas-container {
-    grid-template-columns:1fr;
-  }
-
   .logo-area {
-    width:220px;
-  }
+  position: relative;
+  width: 640px;
+  max-width: 180vw;
+  margin: 0 auto 15px auto;
+}
 
-  .logo-rabo {
-    width:55px;
-    left:80px;
-    top:7px;
-    transform-origin:12px 10px;
+.logo-base {
+  width: 100%;
+ /* display: block; */
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+ 
+.logo-rabo {
+  position: absolute;
+  width: 160px;
+  left: 248px;
+  top: 20px;
+  transform-origin: 35px 25px;
+  transition: transform 0.08s linear;
+  z-index: 10;
+}
+
+  
+.subtitulo {
+  font-size: 20px;
+  color: #ddd;
+  font-style: italic;
+  letter-spacing: 3px;
+  margin-top: -5px;
+}
+
+  .listas-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  align-items: start;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+  @media (max-width: 900px) {
+  .listas-container {
+    grid-template-columns: 1fr;
   }
+}
 
   .tocando-agora {
-    max-width:92vw;
-    padding:8px;
-  }
-
-  #musicaAtual {
-    font-size:18px;
-  }
-
-  .controles-radio button {
-    padding:12px 14px;
-    font-size:15px;
-  }
-
-  .titulo-musica {
-    font-size:22px;
-    padding:18px 10px;
-  }
-
-  audio {
-    height:44px;
-  }
+  background: #222;
+  max-width: 760px;
+  margin: 25px auto;
+  padding: 22px;
+  border-radius: 16px;
+  box-shadow: 0 0 18px rgba(255, 204, 0, 0.15);
 }
 
-  .PIXbundadevaca.png{
-  padding:5px;
-  margin-top:5px;
-  }
-
-  .titulo-lista {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 12px;
+.tocando-agora h2 {
+  color: #ffcc00;
+  margin-top: 0;
 }
 
-.icone-lista {
-  width: 52px;
-  height: 52px;
-  object-fit: contain;
+#musicaAtual {
+  color: #f5c542;
+  font-size: 24px;
+  margin-bottom: 5px;
 }
 
-#botaoRadio {
+#descricaoAtual {
+  color: #ddd;
+  font-style: italic;
+}
+
+.controles-radio button {
   background: #ffcc00;
   color: #000;
   border: none;
-  padding: 14px 22px;
-  border-radius: 12px;
-  font-size: 18px;
+  padding: 10px 16px;
+  margin: 8px;
+  border-radius: 10px;
   font-weight: bold;
   cursor: pointer;
-  margin: 12px 0;
 }
 
-#botaoRadio:hover {
+.controles-radio button:hover {
   background: #ffaa00;
 }
 
-
-.tooltip-radio { 
-  position: fixed;
-  left: 50%;
-  top: 20px;
-  transform: translateX(-50%);
-  background: rgba(20,20,20,0.96);
-  color: #eee;
-  border: 1px solid #ffcc00;
-  border-radius: 12px;
-  padding: 10px 14px;
-  width: min(90vw, 420px);
-  box-shadow: 0 0 18px rgba(255,204,0,0.25);
-  z-index: 5000;
-
+  .oculta {
   display: none;
 }
 
-.tooltip-radio.visivel {
-  display: block;
-}
-
-.tooltip-radio strong {
-  display: block;
+.botao-lista {
+  background: #333;
   color: #ffcc00;
-  margin-bottom: 4px;
+  border: 1px solid #ffcc00;
+  padding: 10px 15px;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-top: 10px;
 }
 
-.tooltip-radio span {
-  display: block;
-  font-size: 14px;
-  line-height: 1.35;
+.botao-lista:hover {
+  background: #444;
 }
-
+  
+  
 </style>
 </head>
-  
-<script data-goatcounter="https://jberlange.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
+
 <body>
 
-<div class="painel-radio">  
+<header>
 
-  <header>
-    <div class="logo-area">
-      <img class="logo-base" src="assets/vaca-base.png" alt="Logo Rádio Bunda de Vaca">
-      <img class="logo-rabo" id="raboVaca" src="assets/rabo.png" alt="">
-    </div>
-    
- </header>
- 
   <div class="tocando-agora">
-    <h2>🎙️ Tocando agora</h2>
-    <h3 id="musicaAtual">Nenhuma música em execução</h3>
-   <p id="descricaoAtual">acervo musical autoral amazônida-beradeiro </p> 
-  <button id="botaoRadio" onclick="ligarRadio()">
-  ▶ Ligar Rádio
-  </button>
-    <div class="controles-radio">
-      <button onclick="voltarMusica()">⏮ Voltar</button>
-      <button onclick="pararMusica()">⏸ Parar</button>
-      <button onclick="avancarMusica()">⏭ Avançar</button>
-    </div>
+  <h2>🎙️ Tocando agora</h2>
+  <h3 id="musicaAtual">Nenhuma música em execução</h3>
+  <p id="descricaoAtual">Escolha uma faixa nas listas abaixo.</p>
+
+  <div class="controles-radio">
+    <button onclick="voltarMusica()">⏮ Voltar</button>
+    <button onclick="avancarMusica()">⏭ Avançar</button>
   </div>
-<button onclick="tocarJingle()">
-🎙 Testar Jingle
-</button>
-</div>  
-  
-  
- <div id="tooltipRadio" class="tooltip-radio">
-  <strong id="tooltipTitulo">Tocando agora</strong>
-  <span id="tooltipDescricao">acervo musical autoral amazônida-beradeiro</span> 
 </div>
   
- 
 <div class="listas-container">
- 
-  <section>
- 
-    <h2 class="titulo-lista">
-      <img src="assets/beravax.png" class="icone-lista">
-      Beradeiras
-    </h2>
-
-    <div id="beradeiras" class="lista-scroll"></div>
-  </section>
 
   <section>
-
-    <h2 class="titulo-lista">
-      <img src="assets/bundax.png" class="icone-lista">
-      Bunda de Vaca
-    </h2>
-
-    <div id="bvaca" class="lista-scroll"></div>
+    <h2>🎧 Beradeiras</h2>
+    <div id="beradeiras"></div>
+    <button class="botao-lista" onclick="toggleLista('beradeiras')">
+   Ver mais músicas
+</button>
   </section>
-
-</div>
+  
 
   
+  <section>
+    <h2>📻 Rádio Bunda de Vaca</h2>
+    <div id="bvaca"></div>
+    <button class="botao-lista" onclick="toggleLista('bvaca')">
+  Ver mais músicas
+</button>
+  </section>
+</div>
+
 <div class="pix">
   <h3>💛 Apoie o projeto</h3>
   <p>Contribua via Pix para fortalecer esta rádio autoral independente.</p>
   <p><strong>vacacowmusic@gmail.com</strong></p>
-  <img class="qrcodepix" src="assets/PIXbundadevaca.png" alt="PIX Rádio Bunda de Vaca">
-   
-
 </div>
 
 <footer>
   <p><small>© José Berlange Andrade — Rádio Bunda de Vaca</small></p>
-  <P><small><I>Esta rádio nasceu do encontro entre imaginação humana, sensibilidade artística e cooperação inteligente entre homem e IA.
-Mais do que tecnologia, aqui existe presença, originalidade e alma criativa.”
-<small></P>
-  </I></footer>
-
+</footer>
 
 <script>
-
+ 
 const usuarioGitHub = "jberlange";
 const repositorio = "-radio-bunda-de-vaca";
 const pasta = "musicas";
+
+  const limiteHome = 5;
+
+// Se quiser escolher manualmente as 5 obras, coloque aqui os nomes EXATOS dos arquivos:
+const destaqueBD = [
+  // "BD__CABOCO_PEREGRINO__VERSAO_ORIGINAL.MP3",
+  // "BD__NOME_DA_MUSICA__DESCRICAO.MP3"
+];
+
+const destaqueBV = [
+  // "BV__SERTANEJO__RAIZ_GOIANO_CLASSICO.MP3",
+  // "BV__FORRO__PE_DE_SERRA_TRADICIONAL.MP3"
+];
+  
 const apiURL = `https://api.github.com/repos/${usuarioGitHub}/${repositorio}/contents/${pasta}`;
-const destaqueBV = ["BV__ ORQUESTRAL__Harmonia e percussão dialogando sem precisar de palavras..mp3"];
- 
-  
-let listaAudios = [];
-let indiceAtual = -1;
-let contadorMusicas = 0;
-  
+
 function limparTitulo(nomeArquivo) {
   let nome = nomeArquivo.replace(/\.[^/.]+$/, "");
   let partes = nome.split("__");
@@ -384,22 +258,28 @@ function limparTitulo(nomeArquivo) {
   estilo = estilo.replace(/_/g, " ");
   descricao = descricao.replace(/_/g, " ");
 
-  return { estilo, descricao };
+  return {
+    estilo: estilo,
+    descricao: descricao
+  };
 }
 
-
+let listaAudios = [];
+let indiceAtual = -1;
+const limiteInicial = 5;
   
-
 function criarPlayer(arquivo, destino) {
   const card = document.createElement("div");
   card.className = "card";
 
-  const dados = limparTitulo(arquivo.name);
-  const indiceMusica = listaAudios.length;
+  
 
+  const dados = limparTitulo(arquivo.name);
+  
+  const indiceMusica = listaAudios.length;
+  
   const titulo = document.createElement("h3");
-  titulo.textContent = "▶ " + dados.estilo;
-  titulo.className = "titulo-musica";
+  titulo.textContent = dados.estilo;
 
   const desc = document.createElement("p");
   desc.textContent = dados.descricao;
@@ -408,74 +288,42 @@ function criarPlayer(arquivo, destino) {
   audio.controls = true;
   conectarRaboAoAudio(audio);
 
+  listaAudios.push({
+  audio: audio,
+  estilo: dados.estilo,
+  descricao: dados.descricao
+});
+
+audio.addEventListener("play", () => {
+  indiceAtual = indiceMusica;
+
+  document.getElementById("musicaAtual").textContent = dados.estilo;
+  document.getElementById("descricaoAtual").textContent = dados.descricao || "Sem descrição cadastrada.";
+
+  listaAudios.forEach((item, i) => {
+    if (i !== indiceAtual) {
+      item.audio.pause();
+    }
+  });
+});
+  
   const source = document.createElement("source");
   source.src = arquivo.download_url;
   source.type = "audio/mpeg";
 
   audio.appendChild(source);
 
-  listaAudios.push({
-    audio: audio,
-    estilo: dados.estilo,
-    descricao: dados.descricao
-  });
-
-  titulo.onclick = () => {
-    audio.play();
-  };
-
-  audio.addEventListener("play", () => {
-    audioAbertura.pause();
-    audioAbertura.currentTime = 0;
-    indiceAtual = indiceMusica;
-
-    document.getElementById("musicaAtual").textContent = dados.estilo;
-    document.getElementById("descricaoAtual").textContent =
-      dados.descricao || "Sem descrição cadastrada.";
-    
-    mostrarTooltipRadio(dados.estilo, dados.descricao);
-    document.querySelector(".painel-radio").addEventListener("mouseenter", () => {
-  const titulo = document.getElementById("musicaAtual").textContent;
-  const descricao = document.getElementById("descricaoAtual").textContent;
-
-  mostrarTooltipRadio(titulo, descricao);
-});
-
-document.querySelector(".painel-radio").addEventListener("touchstart", () => {
-  const titulo = document.getElementById("musicaAtual").textContent;
-  const descricao = document.getElementById("descricaoAtual").textContent;
-
-  mostrarTooltipRadio(titulo, descricao);
-});
-
-    listaAudios.forEach((item, i) => {
-      if (i !== indiceAtual) {
-        item.audio.pause();
-      }
-    });
-  });
-
-
-audio.addEventListener("ended", () => {
-  contadorMusicas++;
-
-  if (contadorMusicas >= 2) {
-    contadorMusicas = 0;
-    tocarJingle();
-  } else {
-    avancarMusica();
-  }
-});
-   
-
-
   card.appendChild(titulo);
   card.appendChild(desc);
   card.appendChild(audio);
+  
+ const totalAtual = destino.children.length;
+
+if (totalAtual >= limiteInicial) {
+  card.classList.add("oculta");
+}
   destino.appendChild(card);
 }
-
-
 
 function avancarMusica() {
   if (listaAudios.length === 0) return;
@@ -503,174 +351,54 @@ function voltarMusica() {
   tocarMusicaAtual();
 }
 
-function pararMusica() {
-  if (indiceAtual < 0 || !listaAudios[indiceAtual]) return;
-
-  listaAudios[indiceAtual].audio.pause();
-  listaAudios[indiceAtual].audio.currentTime = 0;
-
-  document.getElementById("musicaAtual").textContent = "Rádio em pausa";
-  document.getElementById("descricaoAtual").textContent =
-    "Escolha uma faixa ou avance para continuar.";
-}
-
 function tocarMusicaAtual() {
   const item = listaAudios[indiceAtual];
 
   document.getElementById("musicaAtual").textContent = item.estilo;
-  document.getElementById("descricaoAtual").textContent =
-    item.descricao || "Sem descrição cadastrada.";
+  document.getElementById("descricaoAtual").textContent = item.descricao || "Sem descrição cadastrada.";
 
   item.audio.play();
 }
-
-let aberturas = [];
-let audioAbertura = new Audio();
-let radioLigada = false;
-let indiceAbertura = 0;
-
-const apiAssetsURL = `https://api.github.com/repos/${usuarioGitHub}/${repositorio}/contents/assets`;
-
-fetch(apiAssetsURL)
-  .then(resposta => resposta.json())
-  .then(arquivos => {
-    aberturas = arquivos
-      .filter(arquivo =>
-        arquivo.name.toLowerCase().startsWith("abertura") &&
-        arquivo.name.toLowerCase().endsWith(".mp3")
-      )
-      .map(arquivo => arquivo.download_url);
-  });
-
-
-
-fetch(apiJinglesURL)
-  .then(resposta => resposta.json())
-  .then(arquivos => {
-    console.log("Arquivos de jingle:", arquivos);
-
-    jingles = arquivos
-      .filter(arquivo =>
-        arquivo.name.toUpperCase().startsWith("JG__") &&
-        arquivo.name.toLowerCase().endsWith(".mp3")
-      )
-      .map(arquivo => arquivo.download_url);
-
-    console.log("Jingles carregados:", jingles);
-  });
-
   
-
-function ligarRadio() {
-
-  if (radioLigada) return;
-
-  if (aberturas.length === 0) {
-    alert("Nenhuma música de abertura encontrada.");
-    return;
-  }
-
-  radioLigada = true;
-  tocarAbertura();
-
-  document.getElementById("musicaAtual").textContent =
-    "Abertura da Rádio";
-
-  document.getElementById("descricaoAtual").textContent =
-    "Selecione uma música ou estilo musical nas listas.";
-  
-  mostrarTooltipRadio(
-  "Abertura da Rádio",
-  "Selecione uma música ou estilo musical nas listas."
-);
-
-  document.getElementById("botaoRadio").style.display = "none";
-}
-
-  
-function tocarJingle() {
-
-  if (jingles.length === 0) {
-    avancarMusica();
-    return;
-  }
-
-  audioJingle.src = jingles[indiceJingle];
-
-  mostrarTooltipRadio(
-    "Rádio Bunda de Vaca",
-    "Vinheta de transmissão"
-  );
-
-  indiceJingle =
-    (indiceJingle + 1) % jingles.length;
-
-  audioJingle.onended = () => {
-    avancarMusica();
-  };
-
-  audioJingle.onerror = () => {
-    avancarMusica();
-  };
-
-  audioJingle.play().catch(() => {
-    avancarMusica();
-  });
-}
-
-  
-function tocarAbertura() {
-
-  audioAbertura.src = aberturas[indiceAbertura];
-mostrarTooltipRadio(
-  "Abertura da Rádio",
-  "Programação instrumental de abertura."
-);
-  audioAbertura.play();
-
-  conectarRaboAoAudio(audioAbertura);
-
-  audioAbertura.onended = () => {
-
-    indiceAbertura =
-      (indiceAbertura + 1) % aberturas.length;
-
-    tocarAbertura();
-  };
-}
-
-let jingles = [
-  "jingles/JG__001.mp3",
-  "jingles/JG__002.mp3",
-  "jingles/JG__003.mp3",
-  "jingles/JG__004.mp3"
-];
-
-let audioJingle = new Audio();
-let indiceJingle = 0;
-
   
 fetch(apiURL)
   .then(resposta => resposta.json())
   .then(arquivos => {
     const beradeiras = document.getElementById("beradeiras");
     const bvaca = document.getElementById("bvaca");
+//* ======
+const todosMp3 = arquivos
+  .filter(arquivo => arquivo.name.toLowerCase().endsWith(".mp3"));
 
-    arquivos
-      .filter(arquivo => arquivo.name.toLowerCase().endsWith(".mp3"))
-      .reverse()
-      .forEach(arquivo => {
-        const nome = arquivo.name.toUpperCase();
+const arquivosBD = todosMp3
+  .filter(arquivo => arquivo.name.toUpperCase().startsWith("BD__"));
 
-        if (nome.startsWith("BD__")) {
-          criarPlayer(arquivo, beradeiras);
-        }
+const arquivosBV = todosMp3
+  .filter(arquivo => arquivo.name.toUpperCase().startsWith("BV__"));
 
-        if (nome.startsWith("BV__")) {
-          criarPlayer(arquivo, bvaca);
-        }
-      });
+function selecionarDestaques(listaArquivos, destaqueManual) {
+  if (destaqueManual.length > 0) {
+    return destaqueManual
+      .map(nome => listaArquivos.find(arquivo => arquivo.name === nome))
+      .filter(Boolean)
+      .slice(0, limiteHome);
+  }
+
+  return listaArquivos
+    .slice()
+    .reverse()
+    .slice(0, limiteHome);
+}
+
+selecionarDestaques(arquivosBD, destaqueBD)
+  .forEach(arquivo => criarPlayer(arquivo, beradeiras));
+
+selecionarDestaques(arquivosBV, destaqueBV)
+  .forEach(arquivo => criarPlayer(arquivo, bvaca));
+    //*----
   })
+
+  
   .catch(erro => {
     document.body.innerHTML += "<p>Erro ao carregar músicas.</p>";
     console.error(erro);
@@ -686,7 +414,7 @@ function animarRabo() {
     cancelAnimationFrame(animacaoRabo);
     return;
   }
-
+ 
   const tempo = Date.now() / 260;
   const angulo = Math.sin(tempo) * 4;
 
@@ -701,45 +429,38 @@ function conectarRaboAoAudio(audio) {
     animarRabo();
   });
 
+  audio.addEventListener("pause", () => {
+    raboVaca.style.transform = "rotate(0deg)";
+  });
+
   audio.addEventListener("ended", () => {
-  raboVaca.style.transform = "rotate(0deg)";
-});
+    raboVaca.style.transform = "rotate(0deg)";
+  });
+}
 
+  function toggleLista(idLista) {
+
+  const lista = document.getElementById(idLista);
+
+  const ocultas = lista.querySelectorAll(".oculta");
+
+  const botao = lista.nextElementSibling;
+
+  const escondidas = [...ocultas].some(item =>
+    item.style.display !== "block"
+  );
+
+  ocultas.forEach(item => {
+    item.style.display =
+      escondidas ? "block" : "none";
+  });
+
+  botao.textContent =
+    escondidas
+      ? "Mostrar menos"
+      : "Ver mais músicas";
+}
   
-}
-
-let tempoTooltip;
-
-function mostrarTooltipRadio(titulo, descricao) {
-  const tooltip = document.getElementById("tooltipRadio");
-  const tooltipTitulo = document.getElementById("tooltipTitulo");
-  const tooltipDescricao = document.getElementById("tooltipDescricao");
-
-  tooltipTitulo.textContent = titulo || "Tocando agora";
-  tooltipDescricao.textContent = descricao || "Sem descrição  cadastrada.";
-
-  tooltip.classList.add("visivel");
-
-  clearTimeout(tempoTooltip);
-
-  tempoTooltip = setTimeout(() => {
-    tooltip.classList.remove("visivel");
-  }, 3000);
-}
-
-document.querySelector(".painel-radio").addEventListener("mouseenter", () => {
-  const titulo = document.getElementById("musicaAtual").textContent;
-  const descricao = document.getElementById("descricaoAtual").textContent;
-
-  mostrarTooltipRadio(titulo, descricao);
-});
-
-document.querySelector(".painel-radio").addEventListener("touchstart", () => {
-  const titulo = document.getElementById("musicaAtual").textContent;
-  const descricao = document.getElementById("descricaoAtual").textContent;
-
-  mostrarTooltipRadio(titulo, descricao);
-});
 </script>
 
 </body>
