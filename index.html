@@ -680,7 +680,14 @@ function conectarRaboAoAudio(audio) {
   });
 
   audio.addEventListener("ended", () => {
-  raboVaca.style.transform = "rotate(0deg)";
+  contadorMusicas++;
+
+  if (contadorMusicas >= 4) {
+    contadorMusicas = 0;
+    tocarJingle();
+  } else {
+    avancarMusica();
+  }
 });
 
   
