@@ -408,6 +408,14 @@ function criarPlayer(arquivo, destino) {
   audio.controls = true;
   conectarRaboAoAudio(audio);
 
+   audio.setAttribute(
+  "controlsList",
+  "nodownload noplaybackrate");
+
+   audio.disablePictureInPicture = true;
+
+
+  
   const source = document.createElement("source");
   source.src = arquivo.download_url;
   source.type = "audio/mpeg";
