@@ -1,1 +1,1 @@
-site da Rádio Bunda de Vaca - toca música beradeira, nacional e internacional.
+Rádio Bunda de Vaca - Da Beira do Rio Madeira para o Fundo do Coração do Mundo
