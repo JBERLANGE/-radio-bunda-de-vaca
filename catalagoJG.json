@@ -1,0 +1,32 @@
+﻿[
+  {
+    "tituloID": "JG__001",
+    "titulo": "JG__001.mp3",
+    "autor": "Zeca Berlange",
+    "estilo": "Jingle""descricao": "ElzaSoars-Darkiana",
+    "imagem": ""
+  },
+  {
+    "tituloID": "JG__002",
+    "titulo": "JG__002.mp3",
+    "autor": "Zeca Berlange",
+    "estilo": "Jingle",
+    "descricao": "HitDoTimMaia",
+    "imagem": ""
+  },
+  {
+    "tituloID": "JG__003",
+    "titulo": "JG__003.mp3",
+    "autor": "Zecsa Berlange",
+    "estilo": "Jingle""descricao": "ZeroSeteDown",
+    "imagem": ""
+  },
+  {
+    "tituloID": "JG__004",
+    "titulo": "JG__004.mp3",
+    "autor": "Zeca Berlange",
+    "estilo": "Jingle",
+    "descricao": "CantoArrastado",
+    "imagem": ""
+  }
+]
