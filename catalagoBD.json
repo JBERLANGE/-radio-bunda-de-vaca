@@ -2,112 +2,112 @@
   {
     "tituloID": "BD__001",
     "titulo": "A Poesia de Cada Dia",
-    "autor": "Antônio D'Amaral Basinho",
+    "autor": "Antônio D'Amaral Basinho & Zeca Berlange",
     "estilo": "Valsa",
-    "descricao": "Música de Zeca Berlange; Letra de Antonio D'Aamaral Basinho",
-   "imagem":""
+    "descricao": "",
+   "imagem":"Música de Zeca Berlange; Letra de Antonio D'Aamaral Basinho"
   },
   {
     "tituloID": "BD__002",
-    "titulo": "Adnaloy.mp3",
+    "titulo": "Adnaloy",
     "autor": "Zeca Berlange",
-    "estilo": "",
+    "estilo": "Sertanejo",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__003",
-    "titulo": "Amigos Do sBons Tempos.mp3",
+    "titulo": "Amigos DosB ons Tempos",
     "autor": "Zeca Berlange",
-    "estilo": "",
+    "estilo": "Samba pantaneiro",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__004",
-    "titulo": "Ayete, Caminho de Graça.mp3",
+    "titulo": "Ayete, Caminho de Graça",
     "autor": "Zeca Berlange",
-    "estilo": "",
+    "estilo": "Forró",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__005",
     "titulo": "O Amor Paira No Ar",
-    "autor": "Zeca Berlange & Zé Maria Ortiz.mp3",
+    "autor": "Zeca Berlange & Zé Maria Ortiz",
     "estilo": "MPB",
-    "descricao": "Autores: José Berlange Andrade & José Maria Ortiz de Carvalho",
-   "imagem":""
+    "descricao": "",
+   "imagem":"Autores: José Berlange Andrade & José Maria Ortiz de Carvalho"
   },
   {
     "tituloID": "BD__006",
-    "titulo": "Boteco.mp3",
+    "titulo": "Boteco",
     "autor": "Zé Maria Ortiz",
-    "estilo": "",
+    "estilo": "Samba",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__007",
-    "titulo": "Caboco Peregrino do Norte.mp3",
+    "titulo": "Caboco Peregrino do Norte",
     "autor": "Antônio D'Amaral Basinho & Zeca Berlange",
-    "estilo": "",
+    "estilo": "Forró",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__008",
-    "titulo": "Canto Para Tia Isinha.mp3",
+    "titulo": "Canto Para Tia Isinha",
     "autor": "Zeca Berlange & Zé Maria Ortiz",
-    "estilo": "",
+    "estilo": "Valsa",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__009",
-    "titulo": "Cartinha ao Mano Velho.mp3",
+    "titulo": "Cartinha ao Mano Velho",
     "autor": "Antônio D'Amaral Basinho",
-    "estilo": "",
+    "estilo": "MPB",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__010",
-    "titulo": "Concentra Mas Não Sai.mp3",
+    "titulo": "Concentra Mas Não Sai",
     "autor": "Zé Maria Ortiz",
-    "estilo": "",
+    "estilo": "Marchinha",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__011",
-    "titulo": "Condicional.mp3",
+    "titulo": "Condicional",
     "autor": "Antônio D'Amaral Basinho & Zeca Berlange",
-    "estilo": "",
+    "estilo": "Samba beradeiro",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__012",
-    "titulo": "Curador Infante.mp3",
-    "autor": "Antônio D'Amaral Basinho & Zeca Berlabnge",
-    "estilo": "",
+    "titulo": "Curador Infante",
+    "autor": "Antônio D'Amaral Basinho & Zeca Berlange",
+    "estilo": "Forró",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__013",
-    "titulo": "Decisão.mp3",
+    "titulo": "Decisão",
     "autor": "Zé Maria Ortiz",
-    "estilo": "",
+    "estilo": "Samba",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__014",
-    "titulo": "Despeja a Dor.mp3",
+    "titulo": "Despeja a Dor",
     "autor": "Antônio D'Amaral Basinho & Zeca Berlange",
-    "estilo": "",
+    "estilo": "Sertanejo sofrência",
     "descricao": "",
    "imagem":""
   },
@@ -115,39 +115,39 @@
     "tituloID": "BD__015",
     "titulo": "Divinding Street  Na Beira do Madeira",
     "autor": "Zeca Berlange",
-    "estilo": "Toadarimbó Amazônico inflenciado pelo Reggae",
-    "descricao": "Mistura de Carimbó, Toada de Boi-Bumbá e Reggae",
-   "imagem":""
+    "estilo": "Toadarimbó Amazônico mix com Reggae",
+    "descricao": "",
+   "imagem":"Mistura de Carimbó, Toada de Boi-Bumbá e Reggae"
   },
   {
     "tituloID": "BD__016",
-    "titulo": "Engenheiro do Forró.mp3",
+    "titulo": "Engenheiro do Forró",
     "autor": "Zeca Berlange",
-    "estilo": "",
+    "estilo": "Forró",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__017",
-    "titulo": "Estação Beradeira.mp3",
+    "titulo": "Estação Beradeira",
     "autor": "Antônio D'Amaral Basinho",
-    "estilo": "",
+    "estilo": "Samba beradeiro",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__018",
-    "titulo": "Estrela do Amanhecer.mp3",
+    "titulo": "Estrela do Amanhecer",
     "autor": "Zeca Berlange",
-    "estilo": "",
+    "estilo": "Bossa Nova",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__019",
-    "titulo": "Farol da Madrugada.mp3",
+    "titulo": "Farol da Madrugada",
     "autor": "Zeca Berlange",
-    "estilo": "",
+    "estilo": "Bossa Nova",
     "descricao": "",
    "imagem":""
   },
@@ -155,7 +155,7 @@
     "tituloID": "BD__020",
     "titulo": "Filho é Rock and Roll",
     "autor": "Antônio D'Amaral Basinho & Zeca Berlange",
-    "estilo": "",
+    "estilo": "Rock and Roll",
     "descricao": "",
    "imagem":""
   },
@@ -164,76 +164,76 @@
     "titulo": "Forró da Vânia Rita",
     "autor": "Zeca Berlange",
     "estilo": "Forró",
-    "descricao": "Homenagem aos 70 anos da irmã Vânia",
-   "imagem":""
+    "descricao": "",
+   "imagem":"Homenagem aos 70 anos da irmã Vânia"
   },
   {
     "tituloID": "BD__022",
-    "titulo": "Gratidão Gaya.mp3",
+    "titulo": "Gratidão Gaya",
     "autor": "Zeca Berlange",
-    "estilo": "",
+    "estilo": "Gospel pop",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__023",
-    "titulo": "Gratidão Planeta Terra.mp3",
+    "titulo": "Gratidão Planeta Terra",
     "autor": "Zeca Berlange",
-    "estilo": "",
+    "estilo": "Gospel pop",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__024",
-    "titulo": "Grito de Solidão.mp3",
+    "titulo": "Grito de Solidão",
     "autor": "Heitor Almeida",
-    "estilo": "",
+    "estilo": "MPB beradeira",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__025",
-    "titulo": "Helena, Alma Gemea do Amor.mp3.mp3",
+    "titulo": "Helena, Alma Gemea do Amor",
     "autor": "Zé Maria Ortiz & Zeca Berlange",
-    "estilo": "",
+    "estilo": "Infantojuvenil",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__026",
-    "titulo": "Ipê Dourado (Saudade que Canta).mp3",
+    "titulo": "Ipê Dourado (Saudade que Canta)",
     "autor": "Pedro Batistote Jr & Zeca Berlange",
-    "estilo": "",
-    "descricao": "",
+    "estilo": "Sertanejo Universitário",
+    "descricao": "", 
    "imagem":""
   },
   {
     "tituloID": "BD__027",
-    "titulo": "Iracema Eu Vi o Mar.mp3",
+    "titulo": "Iracema Eu Vi o Mar",
     "autor": "Antônio D'Amaral Basinho",
-    "estilo": "",
+    "estilo": "Folk NE",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__028",
-    "titulo": "Irmão da Estrada.mp3",
+    "titulo": "Irmão da Estrada",
     "autor": "Zeca Berlange",
-    "estilo": "",
+    "estilo": "Bossa Nova",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__029",
-    "titulo": "Joana, Luz e Poesia.mp3.mp3",
+    "titulo": "Joana, Luz e Poesia",
     "autor": "Zé Maria Ortiz & Zeca Berlange",
-    "estilo": "",
+    "estilo": "infantojuvenil",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__030",
-    "titulo": "Karapanã Infernal.mp3",
+    "titulo": "Karapanã Infernal",
     "autor": "Zeca Berlange",
     "estilo": "",
     "descricao": "",
@@ -241,25 +241,25 @@
   },
   {
     "tituloID": "BD__031",
-    "titulo": "Lembranças platávicas.mp3",
-    "autor": "Zeca Berlange",
-    "estilo": "",
+    "titulo": "Lembranças platávicas",
+    "autor": "Antony Medina & Zeca Berlange",
+    "estilo": "MPB",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__032",
-    "titulo": "Lágrimas Sentidas.mp3",
+    "titulo": "Lágrimas Sentidas",
     "autor": "Zeca Berlange & Zé Maria Ortiz",
-    "estilo": "",
+    "estilo": "MPB beradeira",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__033",
-    "titulo": "Madeira Meu Lugar.mp3",
+    "titulo": "Madeira Meu Lugar",
     "autor": "Igor Lucdena",
-    "estilo": "",
+    "estilo": "beradeira",
     "descricao": "",
    "imagem":""
   },
@@ -269,60 +269,61 @@
     "autor": "Zeca Berlange",
     "estilo": "Ode Gospel Pop",
     "descricao": ""
+    "imagem":""
   },
   {
     "tituloID": "BD__035",
-    "titulo": "Metade Do Que Sou.mp3",
+    "titulo": "Metade Do Que Sou",
     "autor": "Antônio D'Amaral Basinho & Zeca Berlange",
-    "estilo": "",
+    "estilo": "MPB beradeira",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__036",
-    "titulo": "Mitsue.mp3",
+    "titulo": "Mitsue",
     "autor": "Edgley Queiroz",
-    "estilo": "",
+    "estilo": "Samba exaltação",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__037",
-    "titulo": "Muiraquitãns.mp3",
+    "titulo": "Muiraquitãs",
     "autor": "Antônio D'Amaral Basinho, Zeca Berlange & Dimes Braga",
-    "estilo": "Toada do norte",
-    "descricao": "Autoria: Antônio Serpa do Amaral Filho + José Berlange Andrade + Dimes Braga",
-   "imagem":""
+    "estilo": "MBP-Toada bumbá",
+    "descricao": "",
+   "imagem":"Autoria: Antônio Serpa do Amaral Filho + José Berlange Andrade + Dimes Braga"
   },
   {
     "tituloID": "BD__038",
-    "titulo": "Nosso Amor é Diferente.mp3",
+    "titulo": "Nosso Amor é Diferente",
     "autor": "Zé Maria Ortiz & Zeca Berlange",
-    "estilo": "",
+    "estilo": "Samba-canção",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__039",
-    "titulo": "O Amor Paira No Ar.mp3",
+    "titulo": "O Amor Paira No Ar",
     "autor": "Zé Maria Ortiz & Zeca Berlange",
-    "estilo": "",
+    "estilo": "Sertanejo patriota",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__040",
-    "titulo": "O Barqueiro Encantado.mp3",
+    "titulo": "O Barqueiro Encantado",
     "autor": "Antônio D'Amaral Basinho & Zeca Berlange",
-    "estilo": "",
+    "estilo": "MPB beradeira",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__041",
-    "titulo": "O Sol da Liberdade.mp3",
+    "titulo": "O Sol da Liberdade",
     "autor": "Zé Maria Ortiz & Zeca Berlange",
-    "estilo": "",
+    "estilo": "Axé music",
     "descricao": "",
    "imagem":""
   },
@@ -331,22 +332,22 @@
     "titulo": "Ode ao Centro do Mundo",
     "autor": "Zeca Berlange",
     "estilo": "Ode Gospel",
-    "descricao": "Autoria: José Berlange Andrade; harmonização instrumental ia",
-   "imagem":""
+    "descricao": "",
+   "imagem":"Autoria: José Berlange Andrade; harmonização instrumental ia"
   },
   {
     "tituloID": "BD__043",
-    "titulo": "Onde o Sol Chega Primeiro.mp3",
+    "titulo": "Onde o Sol Chega Primeiro",
     "autor": "Zeca Berlange",
-    "estilo": "",
+    "estilo": "Forró",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__044",
-    "titulo": "Pantaneira.mp3",
+    "titulo": "Pantaneira",
     "autor": "Antônio D'Amaral Basinho & Zeca Berlange",
-    "estilo": "",
+    "estilo": "Pantaneiro",
     "descricao": "",
    "imagem":""
   },
@@ -354,7 +355,7 @@
     "tituloID": "BD__045",
     "titulo": "Por do Sol Carmim",
     "autor": "Zeca Berlange",
-    "estilo": "",
+    "estilo": "MPB beradeira",
     "descricao": "autoria: jose berlange andrfade",
    "imagem":""
   },
@@ -362,87 +363,87 @@
     "tituloID": "BD__046",
     "titulo": "Pula no Meu Peito Morena",
     "autor": "Zeca Berlange & Wagner Sávio",
-    "estilo": "Guarânia+Toada",
-    "descricao": "José Berlange Andrade & Wagner Sávio Severino",
-   "imagem":""
+    "estilo": "Guarânia+Toada-bumbá",
+    "descricao": "",
+   "imagem":"José Berlange Andrade & Wagner Sávio Severino"
   },
   {
     "tituloID": "BD__047",
-    "titulo": "Puxou a Cortina do Sol.mp3",
+    "titulo": "Puxou a Cortina do Sol",
     "autor": "Antônio D'Amaral Basinho",
-    "estilo": "",
+    "estilo": "Samba",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__048",
-    "titulo": "Que fazer_.mp3",
+    "titulo": "Que fazer?,
     "autor": "Zeca Berlange",
-    "estilo": "",
+    "estilo": "Reggae beradeiro",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__049",
-    "titulo": "Quem Apanha Nunca Esquece.mp3",
+    "titulo": "Quem Apanha Nunca Esquece",
     "autor": "Zé Maria Ortiz",
-    "estilo": "",
+    "estilo": "Samba",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__050",
-    "titulo": "Refletir  é Bom.mp3",
+    "titulo": "Refletir  é Bom",
     "autor": "Zé Maria Ortiz",
-    "estilo": "",
+    "estilo": "Samba",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__051",
-    "titulo": "Sentimentos transformam vidas.mp3",
+    "titulo": "Sentimentos transformam vidas",
     "autor": "Marcos Capu & Zeca Berlange",
-    "estilo": "",
+    "estilo": "Gospel pop",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__052",
-    "titulo": "Ser é Semear em Terra Seca.mp3",
+    "titulo": "Ser é Semear em Terra Seca",
     "autor": "Hamilton M Batista & Zeca Berlange",
-    "estilo": "",
+    "estilo": "Infantojuvenil",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__053",
-    "titulo": "Soberba.mp3",
+    "titulo": "Soberba",
     "autor": "Zé Maria Ortiz",
-    "estilo": "",
+    "estilo": "Samba",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__054",
-    "titulo": "Solitude é Acalanto.mp3",
+    "titulo": "Solitude é Acalanto",
     "autor": "Antônio D'Amaral Basinho & Zeca Berlange",
-    "estilo": "",
+    "estilo": "MPB beradeira",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__055",
-    "titulo": "Tamos Juntos, Irmão.mp3",
+    "titulo": "Tamos Juntos, Irmão",
     "autor": "Zeca Berlange",
-    "estilo": "",
+    "estilo": "Toada=bumbá",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__056",
-    "titulo": "Terra Rara e Caos (laranjat).mp3",
+    "titulo": "Terra Rara e Caos Alaranjado",
     "autor": "Zeca Berlange",
-    "estilo": "",
+    "estilo": "Reggae + toada-bumbá",
     "descricao": "",
    "imagem":""
   },
@@ -450,23 +451,23 @@
     "tituloID": "BD__057",
     "titulo": "Travessia Musical",
     "autor": "Hélio D'Rosa Machado & Zeca Berlange",
-    "estilo": "",
-    "descricao": "Letra inspirada num texto de Hélio Machado e melodia de Zeca Berlange",
-   "imagem":""
+    "estilo": "MPB mineira",
+    "descricao": "",
+   "imagem":"Letra inspirada num texto de Hélio Machado e melodia de Zeca Berlange"
   },
   {
     "tituloID": "BD__058",
-    "titulo": "Uma Alma Livre na Dança.mp3",
+    "titulo": "Uma Alma Livre na Dança",
     "autor": "Jorge M Batista & Zeca Berlange",
-    "estilo": "",
+    "estilo": "Setanejo universitário",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__059",
-    "titulo": "Valsa para Vo Negrinha.mp3",
+    "titulo": "Valsa para Vo Negrinha",
     "autor": "Antônio D'Amaral Basinho & Zeca Berlange",
-    "estilo": "",
+    "estilo": "Valsa",
     "descricao": "",
    "imagem":""
   },
@@ -474,23 +475,23 @@
     "tituloID": "BD__060",
     "titulo": "Vida Vivente da Estrada",
     "autor": "Zeca Berlange & Paulo Brum",
-    "estilo": "Cauchesca",
-    "descricao": "José Berlange Andade & Paulo Roberto Brum",
-   "imagem":""
+    "estilo": "chamamé",
+    "descricao": "",
+   "imagem":"José Berlange Andade & Paulo Roberto Brum"
   },
   {
     "tituloID": "BD__061",
     "titulo": "Vira Perereca Morena",
     "autor": "Zeca Berlange.mp3",
-    "estilo": "",
+    "estilo": "Guarânia-toada bumbá",
     "descricao": "",
    "imagem":""
   },
   {
     "tituloID": "BD__062",
-    "titulo": "Volta ao Lar.mp3",
+    "titulo": "Volta ao Lar",
     "autor": "Antônio D'Amaral Basinho",
-    "estilo": "",
+    "estilo": "Samba-Canção",
     "descricao": "",
    "imagem":""
   },
@@ -504,7 +505,7 @@
   },
   {
     "tituloID": "BD__064",
-    "titulo": "Volta, Conquistador (Berlange, Bolero).mp3",
+    "titulo": "Volta, Conquistador (Bolero)",
     "autor": "Zeca Berlange",
     "estilo": "",
     "descricao": "",
@@ -512,7 +513,7 @@
   },
   {
     "tituloID": "BD__065",
-    "titulo": "Volta, conquistador(Darkiana, Sertanejo).mp3",
+    "titulo": "Volta, conquistador(Darkiana, Sertanejo)",
     "autor": "Zeca Berlange",
     "estilo": "",
     "descricao": "",
@@ -520,7 +521,7 @@
   },
   {
     "tituloID": "BD__066",
-    "titulo": "Voz que Voa.mp3",
+    "titulo": "Voz que Voa",
     "autor": "Antônio D'Amaral Basinho",
     "estilo": "",
     "descricao": "",
@@ -528,7 +529,7 @@
   },
   {
     "tituloID": "BD__067",
-    "titulo": "Yolanda e as Três Marias.mp3",
+    "titulo": "Yolanda e as Três Marias",
     "autor": "Zeca Berlange",
     "estilo": "",
     "descricao": "",
