@@ -529,28 +529,26 @@ function tocarMusicaAtual() {
   item.audio.play();
 }
 
+  
 let aberturas = [];
 let audioAbertura = new Audio();
 let radioLigada = false;
 let indiceAbertura = 0;
 
-const apiAssetsURL = `https://api.github.com/repos/${usuarioGitHub}/${repositorio}/contents/assets`;
-
-fetch(apiAssetsURL)
-  .then(resposta => resposta.json())
-  .then(arquivos => {
-    aberturas = arquivos
-      .filter(arquivo =>
-        arquivo.name.toLowerCase().startsWith("abertura") &&
-        arquivo.name.toLowerCase().endsWith(".mp3")
-      )
-      .map(arquivo => arquivo.download_url);
+fetch("catalagoBA.json")
+  .then(r => r.json())
+  .then(catalogoBA => {
+    aberturas = catalogoBA;
   });
+  
+audioAbertura.addEventListener("ended", () => {
+  tocarAbertura();
+});
+  
 
 
 
   
-
 function ligarRadio() {
 
   if (radioLigada) return;
@@ -610,23 +608,24 @@ function tocarJingle() {
 
   
 function tocarAbertura() {
+  if (aberturas.length === 0) return;
 
-  audioAbertura.src = aberturas[indiceAbertura];
-mostrarTooltipRadio(
-  "Abertura da Rádio",
-  "Programação instrumental de abertura."
-);
+  const item = aberturas[indiceAbertura];
+
+  audioAbertura.src = "musicas/" + item.tituloID + ".mp3";
+
+  document.getElementById("musicaAtual").textContent =
+    item.titulo;
+
+  document.getElementById("descricaoAtual").textContent =
+    [item.autor, item.estilo, item.descricao]
+      .filter(Boolean)
+      .join(" • ");
+
   audioAbertura.play();
-
   conectarRaboAoAudio(audioAbertura);
 
-  audioAbertura.onended = () => {
-
-    indiceAbertura =
-      (indiceAbertura + 1) % aberturas.length;
-
-    tocarAbertura();
-  };
+  indiceAbertura = (indiceAbertura + 1) % aberturas.length;
 }
 
 let jingles = [
