@@ -366,7 +366,8 @@ Mais do que tecnologia, aqui existe presença, originalidade e alma criativa.”
 const usuarioGitHub = "jberlange";
 const repositorio = "-radio-bunda-de-vaca";
 const pasta = "musicas";
-const apiURL = `https://api.github.com/repos/${usuarioGitHub}/${repositorio}/contents/${pasta}`;
+const baseMusicas = "musicas/";
+  
 const destaqueBV = ["BV__ ORQUESTRAL__Harmonia e percussão dialogando sem precisar de palavras..mp3"];
  
   
@@ -518,9 +519,12 @@ function pararMusica() {
 function tocarMusicaAtual() {
   const item = listaAudios[indiceAtual];
 
-  document.getElementById("musicaAtual").textContent = item.estilo;
+  document.getElementById("musicaAtual").textContent = item.titulo;
+
   document.getElementById("descricaoAtual").textContent =
-    item.descricao || "Sem descrição cadastrada.";
+    [item.autor, item.estilo, item.descricao]
+      .filter(Boolean)
+      .join(" • ");
 
   item.audio.play();
 }
@@ -635,33 +639,105 @@ let jingles = [
 let audioJingle = new Audio();
 let indiceJingle = 0;
 
-  
-fetch(apiURL)
-  .then(resposta => resposta.json())
-  .then(arquivos => {
-    const beradeiras = document.getElementById("beradeiras");
-    const bvaca = document.getElementById("bvaca");
 
-    arquivos
-      .filter(arquivo => arquivo.name.toLowerCase().endsWith(".mp3"))
-      .reverse()
-      .forEach(arquivo => {
-        const nome = arquivo.name.toUpperCase();
+  function criarPlayerCatalogo(item, destino) {
+  const card = document.createElement("div");
+  card.className = "card";
 
-        if (nome.startsWith("BD__")) {
-          criarPlayer(arquivo, beradeiras);
-        }
+  const indiceMusica = listaAudios.length;
 
-        if (nome.startsWith("BV__")) {
-          criarPlayer(arquivo, bvaca);
-        }
-      });
-  })
-  .catch(erro => {
-    document.body.innerHTML += "<p>Erro ao carregar músicas.</p>";
-    console.error(erro);
+  const titulo = document.createElement("h3");
+  titulo.textContent = "▶ " + item.titulo;
+  titulo.className = "titulo-musica";
+
+  const autor = document.createElement("p");
+  autor.textContent = item.autor || "";
+
+  const desc = document.createElement("p");
+  desc.textContent = item.descricao || item.estilo || "";
+
+  const audio = document.createElement("audio");
+  audio.controls = true;
+  audio.setAttribute("controlsList", "nodownload noplaybackrate");
+  audio.disablePictureInPicture = true;
+
+  conectarRaboAoAudio(audio);
+
+  const source = document.createElement("source");
+  source.src = baseMusicas + item.tituloID + ".mp3";
+  source.type = "audio/mpeg";
+
+  audio.appendChild(source);
+
+  listaAudios.push({
+    audio: audio,
+    titulo: item.titulo,
+    autor: item.autor || "",
+    descricao: item.descricao || "",
+    estilo: item.estilo || ""
   });
 
+  titulo.onclick = () => {
+    audio.play();
+  };
+
+  audio.addEventListener("play", () => {
+    audioAbertura.pause();
+    audioAbertura.currentTime = 0;
+
+    indiceAtual = indiceMusica;
+
+    document.getElementById("musicaAtual").textContent = item.titulo;
+
+    document.getElementById("descricaoAtual").textContent =
+      [item.autor, item.estilo, item.descricao]
+        .filter(Boolean)
+        .join(" • ");
+
+    listaAudios.forEach((faixa, i) => {
+      if (i !== indiceAtual) {
+        faixa.audio.pause();
+      }
+    });
+  });
+
+  audio.addEventListener("ended", () => {
+    avancarMusica();
+  });
+
+  card.appendChild(titulo);
+  card.appendChild(autor);
+  card.appendChild(desc);
+  card.appendChild(audio);
+
+  destino.appendChild(card);
+}
+  
+  
+Promise.all([
+  fetch("catalagoBD.json").then(r => r.json()),
+  fetch("catalagoBV.json").then(r => r.json())
+])
+.then(([catalogoBD, catalogoBV]) => {
+
+  const beradeiras = document.getElementById("beradeiras");
+  const bvaca = document.getElementById("bvaca");
+
+  catalogoBD.forEach(item => {
+    criarPlayerCatalogo(item, beradeiras);
+  });
+
+  catalogoBV.forEach(item => {
+    criarPlayerCatalogo(item, bvaca);
+  });
+
+})
+.catch(erro => {
+  document.body.innerHTML += "<p>Erro ao carregar catálogo musical.</p>";
+  console.error(erro);
+});
+  
+ 
 const raboVaca = document.getElementById("raboVaca");
 let animacaoRabo;
 let audioAtivo = null;
