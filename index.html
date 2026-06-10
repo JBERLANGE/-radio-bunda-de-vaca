@@ -535,6 +535,18 @@ let audioAbertura = new Audio();
 let radioLigada = false;
 let indiceAbertura = 0;
 
+let jingles = [];
+let indiceJingle = 0;
+let audioJingle = new Audio();
+
+  
+fetch("catalagoJG.json")
+  .then(r => r.json())
+  .then(catalogoJG => {
+    jingles = catalogoJG;
+  });
+
+  
 fetch("catalagoBA.json")
   .then(r => r.json())
   .then(catalogoBA => {
@@ -545,7 +557,6 @@ audioAbertura.addEventListener("ended", () => {
   tocarAbertura();
 });
   
-
 
 
   
@@ -583,28 +594,23 @@ function tocarJingle() {
     return;
   }
 
-  audioJingle.src = jingles[indiceJingle];
+  const item = jingles[indiceJingle];
 
-  mostrarTooltipRadio(
-    "Rádio Bunda de Vaca",
-    "Vinheta de transmissão"
-  );
+  audioJingle.src =
+    "musicas/" + item.tituloID + ".mp3";
+
+  document.getElementById("musicaAtual").textContent =
+    "📻 " + item.descricao;
+
+  document.getElementById("descricaoAtual").textContent =
+    "Vinheta institucional";
+
+  audioJingle.play();
 
   indiceJingle =
     (indiceJingle + 1) % jingles.length;
-
-  audioJingle.onended = () => {
-    avancarMusica();
-  };
-
-  audioJingle.onerror = () => {
-    avancarMusica();
-  };
-
-  audioJingle.play().catch(() => {
-    avancarMusica();
-  });
 }
+
 
   
 function tocarAbertura() {
@@ -628,17 +634,17 @@ function tocarAbertura() {
   indiceAbertura = (indiceAbertura + 1) % aberturas.length;
 }
 
-let jingles = [
-  "jingles/JG__001.mp3",
-  "jingles/JG__002.mp3",
-  "jingles/JG__003.mp3",
-  "jingles/JG__004.mp3"
-];
 
+  
 let audioJingle = new Audio();
 let indiceJingle = 0;
 
 
+audioJingle.addEventListener("ended", () => {
+  avancarMusica();
+});
+  
+  
   function criarPlayerCatalogo(item, destino) {
   const card = document.createElement("div");
   card.className = "card";
@@ -765,7 +771,7 @@ function conectarRaboAoAudio(audio) {
   audio.addEventListener("ended", () => {
   contadorMusicas++;
 
-  if (contadorMusicas >= 2) {
+  if (contadorMusicas >= 3) {
     contadorMusicas = 0;
     tocarJingle();
   } else {
