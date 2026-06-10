@@ -407,31 +407,20 @@ function criarPlayer(arquivo, destino) {
 
   const audio = document.createElement("audio");
   audio.controls = true;
-  conectarRaboAoAudio(audio);
-
-   audio.setAttribute(
-  "controlsList",
-  "nodownload noplaybackrate");
-
-   audio.disablePictureInPicture = true;
-
-
   
-  const source = document.createElement("source");
-  source.src = arquivo.download_url;
-  source.type = "audio/mpeg";
+  function conectarRaboAoAudio(audio) {
 
-  audio.appendChild(source);
-
-  listaAudios.push({
-    audio: audio,
-    estilo: dados.estilo,
-    descricao: dados.descricao
+  audio.addEventListener("play", () => {
+    audioAtivo = audio;
+    cancelAnimationFrame(animacaoRabo);
+    animarRabo();
   });
 
-  titulo.onclick = () => {
-    audio.play();
-  };
+  audio.addEventListener("ended", () => {
+    raboVaca.style.transform = "rotate(0deg)";
+  });
+
+}
 
   audio.addEventListener("play", () => {
     audioAbertura.pause();
@@ -701,7 +690,7 @@ audioJingle.addEventListener("ended", () => {
         faixa.audio.pause();
       }
     });
-  });
+ 
 
   audio.addEventListener("ended", () => {
   contadorMusicas++;
@@ -714,7 +703,7 @@ audioJingle.addEventListener("ended", () => {
   }
 });
     
-  });
+  
 
   
   card.appendChild(titulo);
