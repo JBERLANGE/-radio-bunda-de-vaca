@@ -636,9 +636,6 @@ function tocarAbertura() {
 
 
   
-let audioJingle = new Audio();
-let indiceJingle = 0;
-
 
 audioJingle.addEventListener("ended", () => {
   avancarMusica();
@@ -707,9 +704,19 @@ audioJingle.addEventListener("ended", () => {
   });
 
   audio.addEventListener("ended", () => {
+  contadorMusicas++;
+
+  if (contadorMusicas >= 3) {
+    contadorMusicas = 0;
+    tocarJingle();
+  } else {
     avancarMusica();
+  }
+});
+    
   });
 
+  
   card.appendChild(titulo);
   card.appendChild(autor);
   card.appendChild(desc);
@@ -769,14 +776,10 @@ function conectarRaboAoAudio(audio) {
   });
 
   audio.addEventListener("ended", () => {
-  contadorMusicas++;
+  raboVaca.style.transform = "rotate(0deg)";
+});
 
-  if (contadorMusicas >= 3) {
-    contadorMusicas = 0;
-    tocarJingle();
-  } else {
-    avancarMusica();
-  }
+  
 });
 
   
