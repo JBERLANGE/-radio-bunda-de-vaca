@@ -17,7 +17,7 @@
   },
   {
     "tituloID": "BD__003",
-    "titulo": "Amigos Do sBons Tempos",
+    "titulo": "Amigos Dos Bons Tempos",
     "autor": "Zeca Berlange",
     "estilo": "",
     "descricao": "",
@@ -115,7 +115,7 @@
     "tituloID": "BD__015",
     "titulo": "Divinding Street  Na Beira do Madeira",
     "autor": "Zeca Berlange",
-    "estilo": "Toadarimbó Amazônico mix de Reggae",
+    "estilo": "Toadarimbó+Reggae",
     "descricao": "",
    "imagem":"Mistura de Carimbó, Toada de Boi-Bumbá e Reggae"
   },
@@ -147,7 +147,7 @@
     "tituloID": "BD__019",
     "titulo": "Farol da Madrugada",
     "autor": "Zeca Berlange",
-    "estilo": "",
+    "estilo": "Bossa Nova",
     "descricao": "",
    "imagem":""
   },
