@@ -456,9 +456,10 @@ fetch("catalagoJG.json")
   .then(r => r.json())
   .then(catalogoJG => {
     jingles = catalogoJG;
-    alert("Jingles carregados: " + jingles.length);
+    
   });
 
+  alert("Jingles carregados: " + jingles.length);
   
 fetch("catalagoBA.json")
   .then(r => r.json())
@@ -505,9 +506,11 @@ function tocarJingle() {
   if (jingles.length === 0) {
     avancarMusica();
     return;
+    
   }
 
-  const item = jingles[indiceJingle];
+  
+ 
 
   audioJingle.src =
     "musicas/" + item.tituloID + ".mp3";
