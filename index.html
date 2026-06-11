@@ -389,18 +389,6 @@ function limparTitulo(nomeArquivo) {
 }
 
 
-  
-
-
-   
-
-
-  card.appendChild(titulo);
-  card.appendChild(desc);
-  card.appendChild(audio);
-  destino.appendChild(card);
-}
-
 
 
 function avancarMusica() {
@@ -565,7 +553,83 @@ audioJingle.addEventListener("ended", () => {
   avancarMusica();
 });
   
-  
+
+
+function criarPlayerCatalogo(item, destino) {
+  const card = document.createElement("div");
+  card.className = "card";
+
+  const indiceMusica = listaAudios.length;
+
+  const titulo = document.createElement("h3");
+  titulo.textContent = "▶ " + item.titulo;
+  titulo.className = "titulo-musica";
+
+  const autor = document.createElement("p");
+  autor.textContent = item.autor || "";
+
+  const desc = document.createElement("p");
+  desc.textContent = item.descricao || item.estilo || "";
+
+  const audio = document.createElement("audio");
+  audio.controls = true;
+  audio.setAttribute("controlsList", "nodownload noplaybackrate");
+  audio.disablePictureInPicture = true;
+
+  conectarRaboAoAudio(audio);
+
+  const source = document.createElement("source");
+  source.src = baseMusicas + item.tituloID + ".mp3";
+  source.type = "audio/mpeg";
+  audio.appendChild(source);
+
+  listaAudios.push({
+    audio: audio,
+    titulo: item.titulo,
+    autor: item.autor || "",
+    descricao: item.descricao || "",
+    estilo: item.estilo || ""
+  });
+
+  titulo.onclick = () => {
+    audio.play();
+  };
+
+  audio.addEventListener("play", () => {
+    audioAbertura.pause();
+    audioAbertura.currentTime = 0;
+    indiceAtual = indiceMusica;
+
+    document.getElementById("musicaAtual").textContent = item.titulo;
+    document.getElementById("descricaoAtual").textContent =
+      [item.autor, item.estilo, item.descricao]
+        .filter(Boolean)
+        .join(" • ");
+
+    listaAudios.forEach((faixa, i) => {
+      if (i !== indiceAtual) faixa.audio.pause();
+    });
+  });
+
+  audio.addEventListener("ended", () => {
+    contadorMusicas++;
+
+    if (contadorMusicas >= 3) {
+      contadorMusicas = 0;
+      tocarJingle();
+    } else {
+      avancarMusica();
+    }
+  });
+
+  card.appendChild(titulo);
+  card.appendChild(autor);
+  card.appendChild(desc);
+  card.appendChild(audio);
+
+  destino.appendChild(card);
+}
+
 function conectarRaboAoAudio(audio) {
   audio.addEventListener("play", () => {
     audioAtivo = audio;
@@ -576,28 +640,6 @@ function conectarRaboAoAudio(audio) {
   audio.addEventListener("ended", () => {
     raboVaca.style.transform = "rotate(0deg)";
   });
-}
-
-  audio.addEventListener("ended", () => {
-  contadorMusicas++;
-
-  if (contadorMusicas >= 3) {
-    contadorMusicas = 0;
-    tocarJingle();
-  } else {
-    avancarMusica();
-  }
-});
-    
-  
-
-  
-  card.appendChild(titulo);
-  card.appendChild(autor);
-  card.appendChild(desc);
-  card.appendChild(audio);
-
-  destino.appendChild(card);
 }
   
   
@@ -645,20 +687,7 @@ function animarRabo() {
 
 function conectarRaboAoAudio(audio) {
   audio.addEventListener("play", () => {
-    audioAtivo = audio;
-    cancelAnimationFrame(animacaoRabo);
-    animarRabo();
-  });
-
-  audio.addEventListener("ended", () => {
-  raboVaca.style.transform = "rotate(0deg)";
-});
-
   
-});
-
-  
-}
 
 let tempoTooltip;
 
