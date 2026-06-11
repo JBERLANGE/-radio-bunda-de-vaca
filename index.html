@@ -515,7 +515,9 @@ function tocarJingle() {
 
   audioJingle.src =
     "musicas/" + item.tituloID + ".mp3";
-
+  
+console.log("Tocando jingle:", audioJingle.src);
+  
   document.getElementById("musicaAtual").textContent =
     "📻 " + item.descricao;
 
