@@ -1,268 +1,50 @@
-[
-  {
-    "tituloID": "BV__001",
-    "titulo": "ORQUESTRAL I",
+
     "autor": "Zeca Berlange",
-    "estilo": "ORQUESTRAL I",
-    "descricao": "Harmonia e percussão conversando sem precisar das pala",
-   "imagem":""
-  },
-  {
-    "tituloID": "BV__002",
-    "titulo": "ORQUESTRAL I",
-    "autor": "Zeca Berlange",
-    "estilo": "ORQUESTRAL I",
-    "descricao": "Harmonia e percussão interagindo sem precisar de pal",
-   "imagem":""
-  },
-  {
-    "tituloID": "BV__003",
-    "titulo": "ORQUESTRAL I",
-    "autor": "Zeca Berlange",
-    "estilo": "ORQUESTRAL I",
-    "descricao": "Harmonia e percussão interagindo sem precisar de pala",
-   "imagem":""
-  },
-  {
-    "tituloID": "BV__004",
-    "titulo": "ORQUESTRAL I",
-    "autor": "Zeca Berlange",
-    "estilo": "ORQUESTRAL I",
-    "descricao": "pgd Harmonia e percussão conversando sem precisar de pal",
-   "imagem":""
-  },
-  {
-    "tituloID": "BV__005",
-    "titulo": "ORQUESTRAL",
-    "autor": "Zeca Berlange",
-    "estilo": "ORQUESTRAL",
-    "descricao": "Harmonia e percussão conversando sem precisar de palav",
-   "imagem":""
-  },
-  {
-    "tituloID": "BV__006",
-    "titulo": "ORQUESTRAL",
-    "autor": "Zeca Berlange",
-    "estilo": "ORQUESTRAL",
-    "descricao": "Harmonia e percussão dialogando sem precisar de palav",
-   "imagem":""
-  },
-  {
-    "tituloID": "BV__007",
-    "titulo": "PAGODE AMBIENTE",
-    "autor": "Zeca Berlange",
-    "estilo": "PAGODE AMBIENTE",
-    "descricao": "Churrasco, cerveja  e samba correndo solto na vara",
-   "imagem":""
-  },
-  {
-    "tituloID": "BV__008",
-    "titulo": "PAGODE AMBIENTE",
-    "autor": "Zeca Berlange",
-    "estilo": "PAGODE AMBIENTE",
-    "descricao": "Churrasco, cerveja  e samba correndo solto na var",
-   "imagem":""
-  },
-  {
-    "tituloID": "BV__009",
-    "titulo": "PAGODE AMBIENTE",
-    "autor": "Zeca Berlange",
-    "estilo": "PAGODE AMBIENTE",
-    "descricao": "Churrasco, cerveja  e samba rolando solto na var",
-   "imagem":""
-  },
-  {
-    "tituloID": "BV__010",
-    "titulo": "PAGODE AMBIENTE",
-    "autor": "Zeca Berlange",
-    "estilo": "PAGODE AMBIENTE",
-    "descricao": "Churrasco, cerveja  gelada e samba rolando solto na ",
-   "imagem":""
-  },
-  {
-    "tituloID": "BV__011",
-    "titulo": "PAGODE DE RAIZ",
-    "autor": "Zeca Berlange",
-    "estilo": "PAGODE DE RAIZ",
-    "descricao": "Samba de mesa, amizade e batucada nascida no subúrbio c",
-   "imagem":""
-  },
-  {
-    "tituloID": "BV__012",
-    "titulo": "PAGODE DE RAIZ",
-    "autor": "Zeca Berlange",
-    "estilo": "PAGODE DE RAIZ",
-    "descricao": "Samba de raiz, amizade e batucada nascida no subúrbio d",
-   "imagem":""
-  },
-  {
-    "tituloID": "BV__013",
-    "titulo": "PAGODE INSTRUMENTAL",
-    "autor": "Zeca Berlange",
-    "estilo": "PAGODE INSTRUMENTAL",
-    "descricao": "Acordes e percussão dialogando sem precisar de pala",
-   "imagem":""
-  },
-  {
-    "tituloID": "BV__014",
-    "titulo": "PAGODE INSTRUMENTAL",
-    "autor": "Zeca Berlange",
-    "estilo": "PAGODE INSTRUMENTAL",
-    "descricao": "Acordes e percussão dialogando sem precisar de pal",
-   "imagem":""
-  },
-  {
-    "tituloID": "BV__015",
-    "titulo": "PAGODE INSTRUMENTAL",
-    "autor": "Zeca Berlange",
-    "estilo": "PAGODE INSTRUMENTAL",
-    "descricao": "Harmonia e percussão conversando sem precisar de pal",
-   "imagem":""
-  },
-  {
-    "tituloID": "BV__016",
-    "titulo": "PAGODE INSTRUMENTAL",
-    "autor": "Zeca Berlange",
-    "estilo": "PAGODE INSTRUMENTAL",
-    "descricao": "Harmonia e percussão conversando sem precisar de pala",
-   "imagem":""
-  },
-  {
-    "tituloID": "BV__017",
-    "titulo": "PAGODE INSTRUMENTAL",
-    "autor": "Zeca Berlange",
-    "estilo": "PAGODE INSTRUMENTAL",
-    "descricao": "Harmonia e percussão dialogando sem precisar de pa",
-   "imagem":""
-  },
-  {
-    "tituloID": "BV__018",
-    "titulo": "PAGODE INSTRUMENTAL",
-    "autor": "Zeca Berlange",
-    "estilo": "PAGODE INSTRUMENTAL",
-    "descricao": "Harmonia e percussão dialogando sem precisar de pala",
-   "imagem":""
-  },
-  {
-    "tituloID": "BV__019",
-    "titulo": "PAGODE INSTRUMENTAL",
-    "autor": "Zeca Berlange",
-    "estilo": "PAGODE INSTRUMENTAL",
-    "descricao": "Harmonia e percussão dialogando sem precisar de pal",
-   "imagem":""
-  },
-  {
-    "tituloID": "BV__020",
-    "titulo": "PAGODE INSTRUMENTAL",
-    "autor": "Zeca Berlange",
-    "estilo": "PAGODE INSTRUMENTAL",
-    "descricao": "Harmonia e percussão dialogando sem precisar de palav",
-   "imagem":""
-  },
-  {
-    "tituloID": "BV__021",
-    "titulo": "PAGODE INSTRUMENTAL",
-    "autor": "Zeca Berlange",
-    "estilo": "PAGODE INSTRUMENTAL",
-    "descricao": "Harmonia e percussão dialogando sem precisar de pala",
-   "imagem":""
-  },
-  {
-    "tituloID": "BV__022",
-    "titulo": "PAGODE INSTRUMENTAL",
-    "autor": "Zeca Berlange",
-    "estilo": "PAGODE INSTRUMENTAL",
-    "descricao": "Harmonia e percussão interagindo sem precisar de pal",
-   "imagem":""
-  },
-  {
-    "tituloID": "BV__023",
-    "titulo": "PAGODE RAIZ",
-    "autor": "Zeca Berlange",
-    "estilo": "PAGODE RAIZ",
-    "descricao": "Samba de mesa, amizade e batucada nascida no subúrbio do",
-   "imagem":""
-  },
-  {
-    "tituloID": "BV__024",
-    "titulo": "PAGODE RAIZ",
-    "autor": "Zeca Berlange",
-    "estilo": "PAGODE RAIZ",
-    "descricao": "Samba de raiz, amizade e batucada nascida no subúrbio ca",
-   "imagem":""
-  },
-  {
-    "tituloID": "BV__025",
-    "titulo": "PAGODE ROMÂNTICO",
-    "autor": "Zeca Berlange",
-    "estilo": "PAGODE ROMÂNTICO",
-    "descricao": "Amor, refrão marcante e samba com perfume pop ano",
-   "imagem":""
-  },
-  {
-    "tituloID": "BV__026",
-    "titulo": "PAGODE ROMÂNTICO",
-    "autor": "Zeca Berlange",
-    "estilo": "PAGODE ROMÂNTICO",
-    "descricao": "Amor, refrão marcante e samba com perfume pop dos ano",
-   "imagem":""
-  },
-  {
-    "tituloID": "BV__027",
-    "titulo": "PAGODE ROMÂNTICO",
-    "autor": "Zeca Berlange",
-    "estilo": "PAGODE ROMÂNTICO",
-    "descricao": "Amor, refrém marcante e samba com perfume pop ano",
-   "imagem":""
-  },
-  {
-    "tituloID": "BV__028",
-    "titulo": "PAGODE ROMÂNTICO",
-    "autor": "Zeca Berlange",
-    "estilo": "PAGODE ROMÂNTICO",
-    "descricao": "Amor, refrém marcante e samba com perfume pop dos ano",
-   "imagem":""
+    "estilo": "BOSSA NOVA_INSTRUMENTAL",
+    "descricao": "orquestral inspirada em trilhas sonoras emotivas.",
+    "imagem": ""
   },
   {
     "tituloID": "BV__029",
-    "titulo": "AFRO- SAMBA",
+    "titulo": "BOSSA NOVA_INSTRUMENTAL",
     "autor": "Zeca Berlange",
-    "estilo": "AFRO- SAMBA",
-    "descricao": "Místico, afro-brasileiro, litúrgico e meditat",
-   "imagem":""
+    "estilo": "BOSSA NOVA_INSTRUMENTAL",
+    "descricao": "orquestral inspirada em trilhas sonoras emotivas",
+    "imagem": ""
   },
   {
     "tituloID": "BV__030",
-    "titulo": "AFRO- SAMBA",
+    "titulo": "CALYPSO",
     "autor": "Zeca Berlange",
-    "estilo": "AFRO- SAMBA",
-    "descricao": "Místico, afro-brasileiro, litúrgico e medita",
-   "imagem":""
+    "estilo": "CALYPSO",
+    "descricao": "Humor, festa e tambores ecoando de Trinidad Tobago",
+    "imagem": ""
   },
   {
     "tituloID": "BV__031",
-    "titulo": "AFRO- SAMBA",
+    "titulo": "CALYPSO",
     "autor": "Zeca Berlange",
-    "estilo": "AFRO- SAMBA",
-    "descricao": "Místico, afro-brasileiro, ritualístico e contemplat",
-   "imagem":""
+    "estilo": "CALYPSO",
+    "descricao": "Humor, festa e tambores ecoando de Trinidad",
+    "imagem": ""
   },
   {
     "tituloID": "BV__032",
-    "titulo": "AFRO- SAMBA",
+    "titulo": "CARIMBÓ",
     "autor": "Zeca Berlange",
-    "estilo": "AFRO- SAMBA",
-    "descricao": "Místico, afro-brasileiro, ritualístico e contempla",
-   "imagem":""
+    "estilo": "CARIMBÓ",
+    "descricao": "ança de roda paraense com origens afro-indígenas e europeias",
+    "imagem": ""
   },
   {
     "tituloID": "BV__033",
-    "titulo": "AXÉ MUSIC",
+    "titulo": "CARIMBÓ",
     "autor": "Zeca Berlange",
-    "estilo": "AXÉ MUSIC",
-    "descricao": "Movimento musical nascido nos anos 80, híbrido de ritmos como frevo, samba, reggae, salsa e mere",
-   "imagem":""
+    "estilo": "CARIMBÓ",
+    "descricao": "Dança de roda paraense com raízes afro-indígenas e europeias",
+    "imagem": ""
   },
+
   {
     "tituloID": "BV__034",
     "titulo": "AXÉ MUSIC",
