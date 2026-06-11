@@ -391,83 +391,7 @@ function limparTitulo(nomeArquivo) {
 
   
 
-function criarPlayer(arquivo, destino) {
-  const card = document.createElement("div");
-  card.className = "card";
 
-  const dados = limparTitulo(arquivo.name);
-  const indiceMusica = listaAudios.length;
-
-  const titulo = document.createElement("h3");
-  titulo.textContent = "▶ " + dados.estilo;
-  titulo.className = "titulo-musica";
-
-  const desc = document.createElement("p");
-  desc.textContent = dados.descricao;
-
-  const audio = document.createElement("audio");
-  audio.controls = true;
-  conectarRaboAoAudio(audio);
-
-   audio.setAttribute(
-  "controlsList",
-  "nodownload noplaybackrate");
-
-   audio.disablePictureInPicture = true;
-
-
-  
-  const source = document.createElement("source");
-  source.src = arquivo.download_url;
-  source.type = "audio/mpeg";
-
-  audio.appendChild(source);
-
-  listaAudios.push({
-    audio: audio,
-    estilo: dados.estilo,
-    descricao: dados.descricao
-  });
-
-  titulo.onclick = () => {
-    audio.play();
-  };
-
-  audio.addEventListener("play", () => {
-    audioAbertura.pause();
-    audioAbertura.currentTime = 0;
-    indiceAtual = indiceMusica;
-
-    document.getElementById("musicaAtual").textContent = dados.estilo;
-    document.getElementById("descricaoAtual").textContent =
-      dados.descricao || "Sem descrição cadastrada.";
-    
-    mostrarTooltipRadio(dados.estilo, dados.descricao);
-    document.querySelector(".painel-radio").addEventListener("mouseenter", () => {
-  const titulo = document.getElementById("musicaAtual").textContent;
-  const descricao = document.getElementById("descricaoAtual").textContent;
-
-  mostrarTooltipRadio(titulo, descricao);
-});
-
-document.querySelector(".painel-radio").addEventListener("touchstart", () => {
-  const titulo = document.getElementById("musicaAtual").textContent;
-  const descricao = document.getElementById("descricaoAtual").textContent;
-
-  mostrarTooltipRadio(titulo, descricao);
-});
-
-    listaAudios.forEach((item, i) => {
-      if (i !== indiceAtual) {
-        item.audio.pause();
-      }
-    });
-  });
-
-
-audio.addEventListener("ended", () => {
-  avancarMusica();
-});
    
 
 
@@ -535,6 +459,18 @@ let audioAbertura = new Audio();
 let radioLigada = false;
 let indiceAbertura = 0;
 
+let jingles = [];
+let indiceJingle = 0;
+let audioJingle = new Audio();
+
+  
+fetch("catalagoJG.json")
+  .then(r => r.json())
+  .then(catalogoJG => {
+    jingles = catalogoJG;
+  });
+
+  
 fetch("catalagoBA.json")
   .then(r => r.json())
   .then(catalogoBA => {
@@ -545,7 +481,6 @@ audioAbertura.addEventListener("ended", () => {
   tocarAbertura();
 });
   
-
 
 
   
@@ -583,28 +518,23 @@ function tocarJingle() {
     return;
   }
 
-  audioJingle.src = jingles[indiceJingle];
+  const item = jingles[indiceJingle];
 
-  mostrarTooltipRadio(
-    "Rádio Bunda de Vaca",
-    "Vinheta de transmissão"
-  );
+  audioJingle.src =
+    "musicas/" + item.tituloID + ".mp3";
+
+  document.getElementById("musicaAtual").textContent =
+    "📻 " + item.descricao;
+
+  document.getElementById("descricaoAtual").textContent =
+    "Vinheta institucional";
+
+  audioJingle.play();
 
   indiceJingle =
     (indiceJingle + 1) % jingles.length;
-
-  audioJingle.onended = () => {
-    avancarMusica();
-  };
-
-  audioJingle.onerror = () => {
-    avancarMusica();
-  };
-
-  audioJingle.play().catch(() => {
-    avancarMusica();
-  });
 }
+
 
   
 function tocarAbertura() {
@@ -628,82 +558,40 @@ function tocarAbertura() {
   indiceAbertura = (indiceAbertura + 1) % aberturas.length;
 }
 
-let jingles = [
-  "jingles/JG__001.mp3",
-  "jingles/JG__002.mp3",
-  "jingles/JG__003.mp3",
-  "jingles/JG__004.mp3"
-];
 
-let audioJingle = new Audio();
-let indiceJingle = 0;
+  
 
-
-  function criarPlayerCatalogo(item, destino) {
-  const card = document.createElement("div");
-  card.className = "card";
-
-  const indiceMusica = listaAudios.length;
-
-  const titulo = document.createElement("h3");
-  titulo.textContent = "▶ " + item.titulo;
-  titulo.className = "titulo-musica";
-
-  const autor = document.createElement("p");
-  autor.textContent = item.autor || "";
-
-  const desc = document.createElement("p");
-  desc.textContent = item.descricao || item.estilo || "";
-
-  const audio = document.createElement("audio");
-  audio.controls = true;
-  audio.setAttribute("controlsList", "nodownload noplaybackrate");
-  audio.disablePictureInPicture = true;
-
-  conectarRaboAoAudio(audio);
-
-  const source = document.createElement("source");
-  source.src = baseMusicas + item.tituloID + ".mp3";
-  source.type = "audio/mpeg";
-
-  audio.appendChild(source);
-
-  listaAudios.push({
-    audio: audio,
-    titulo: item.titulo,
-    autor: item.autor || "",
-    descricao: item.descricao || "",
-    estilo: item.estilo || ""
-  });
-
-  titulo.onclick = () => {
-    audio.play();
-  };
-
+audioJingle.addEventListener("ended", () => {
+  avancarMusica();
+});
+  
+  
+function conectarRaboAoAudio(audio) {
   audio.addEventListener("play", () => {
-    audioAbertura.pause();
-    audioAbertura.currentTime = 0;
-
-    indiceAtual = indiceMusica;
-
-    document.getElementById("musicaAtual").textContent = item.titulo;
-
-    document.getElementById("descricaoAtual").textContent =
-      [item.autor, item.estilo, item.descricao]
-        .filter(Boolean)
-        .join(" • ");
-
-    listaAudios.forEach((faixa, i) => {
-      if (i !== indiceAtual) {
-        faixa.audio.pause();
-      }
-    });
+    audioAtivo = audio;
+    cancelAnimationFrame(animacaoRabo);
+    animarRabo();
   });
 
   audio.addEventListener("ended", () => {
-    avancarMusica();
+    raboVaca.style.transform = "rotate(0deg)";
   });
+}
 
+  audio.addEventListener("ended", () => {
+  contadorMusicas++;
+
+  if (contadorMusicas >= 3) {
+    contadorMusicas = 0;
+    tocarJingle();
+  } else {
+    avancarMusica();
+  }
+});
+    
+  
+
+  
   card.appendChild(titulo);
   card.appendChild(autor);
   card.appendChild(desc);
@@ -763,14 +651,10 @@ function conectarRaboAoAudio(audio) {
   });
 
   audio.addEventListener("ended", () => {
-  contadorMusicas++;
+  raboVaca.style.transform = "rotate(0deg)";
+});
 
-  if (contadorMusicas >= 2) {
-    contadorMusicas = 0;
-    tocarJingle();
-  } else {
-    avancarMusica();
-  }
+  
 });
 
   
