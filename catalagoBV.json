@@ -1,4 +1,221 @@
-
+[
+  {
+    "tituloID": "BV__001",
+    "titulo": "ORQUESTRAL I",
+    "autor": "Zeca Berlange",
+    "estilo": "ORQUESTRAL I",
+    "descricao": "Harmonia e percussão interagindo sem precisar de palavra",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BV__002",
+    "titulo": "ORQUESTRAL II",
+    "autor": "Zeca Berlange",
+    "estilo": "ORQUESTRAL II",
+    "descricao": "Harmonia e percussão interagindo sem precisar de palavras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BV__003",
+    "titulo": "ORQUESTRAL II",
+    "autor": "Zeca Berlange",
+    "estilo": "ORQUESTRAL II",
+    "descricao": "pgd Harmonia e percussão conversando sem precisar de palavra",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BV__004",
+    "titulo": "ORQUESTRAL III",
+    "autor": "Zeca Berlange",
+    "estilo": "ORQUESTRAL III",
+    "descricao": "Harmonia e percussão conversando sem precisar de palavras.",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BV__005",
+    "titulo": "ORQUESTRAL III",
+    "autor": "Zeca Berlange",
+    "estilo": "ORQUESTRAL III",
+    "descricao": "Harmonia e percussão dialogando sem precisar de palavras.",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BV__006",
+    "titulo": "PAGODE AMBIENTE",
+    "autor": "Zeca Berlange",
+    "estilo": "PAGODE AMBIENTE",
+    "descricao": "Churrasco, cerveja  e samba correndo solto na varanda,",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BV__007",
+    "titulo": "PAGODE AMBIENTE",
+    "autor": "Zeca Berlange",
+    "estilo": "PAGODE AMBIENTE",
+    "descricao": "Churrasco, cerveja  e samba correndo solto na varanda",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BV__008",
+    "titulo": "PAGODE DE RAIZ",
+    "autor": "Zeca Berlange",
+    "estilo": "PAGODE DE RAIZ",
+    "descricao": "Samba de mesa, amizade e batucada nascida no subúrbio cario",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BV__009",
+    "titulo": "PAGODE DE RAIZ",
+    "autor": "Zeca Berlange",
+    "estilo": "PAGODE DE RAIZ",
+    "descricao": "Samba de raiz, amizade e batucada nascida no subúrbio d Rio",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BV__010",
+    "titulo": "PAGODE INSTRUMENTAL",
+    "autor": "Zeca Berlange",
+    "estilo": "PAGODE INSTRUMENTAL",
+    "descricao": "Acordes e percussão dialogando sem precisar de palavas",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BV__011",
+    "titulo": "PAGODE INSTRUMENTAL",
+    "autor": "Zeca Berlange",
+    "estilo": "PAGODE INSTRUMENTAL",
+    "descricao": "Harmonia e percussão interagindo sem precisar de palavra",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BV__012",
+    "titulo": "PAGODE RAIZ",
+    "autor": "Zeca Berlange",
+    "estilo": "PAGODE RAIZ",
+    "descricao": "Samba de mesa, amizade e batucada nascida no subúrbio do Rio",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BV__013",
+    "titulo": "PAGODE RAIZ",
+    "autor": "Zeca Berlange",
+    "estilo": "PAGODE RAIZ",
+    "descricao": "Samba de raiz, amizade e batucada nascida no subúrbio carioc",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BV__014",
+    "titulo": "PAGODE ROMÂNTICO",
+    "autor": "Zeca Berlange",
+    "estilo": "PAGODE ROMÂNTICO",
+    "descricao": "Amor, refrão marcante e samba com perfume pop anos 90",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BV__015",
+    "titulo": "PAGODE ROMÂNTICO",
+    "autor": "Zeca Berlange",
+    "estilo": "PAGODE ROMÂNTICO",
+    "descricao": "Amor, refrão marcante e samba com perfume pop dos anos 90",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BV__016",
+    "titulo": "AFRO- SAMBA",
+    "autor": "Zeca Berlange",
+    "estilo": "AFRO- SAMBA",
+    "descricao": "Místico, afro-brasileiro, litúrgico e meditativo.",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BV__017",
+    "titulo": "AFRO- SAMBA",
+    "autor": "Zeca Berlange",
+    "estilo": "AFRO- SAMBA",
+    "descricao": "Místico, afro-brasileiro, litúrgico e meditativo",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BV__018",
+    "titulo": "AXÉ MUSIC",
+    "autor": "Zeca Berlange",
+    "estilo": "AXÉ MUSIC",
+    "descricao": "Movimento musical dos anos 80, mix de ritmos frevo, samba, reggae, salsa e merengue",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BV__019",
+    "titulo": "AXÉ MUSIC",
+    "autor": "Zeca Berlange",
+    "estilo": "AXÉ MUSIC",
+    "descricao": "BV",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BV__020",
+    "titulo": "BACHATA",
+    "autor": "Zeca Berlange",
+    "estilo": "BACHATA",
+    "descricao": "Romantismo caribenho a ser degustado com guitarra e saudade",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BV__021",
+    "titulo": "BACHATA",
+    "autor": "Zeca Berlange",
+    "estilo": "BACHATA",
+    "descricao": "Romantismo caribenho curtido com guitarra e saudade",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BV__022",
+    "titulo": "BLACK RIO",
+    "autor": "Zeca Berlange",
+    "estilo": "BLACK RIO",
+    "descricao": "Fusão de samba, soul e funk norte-americano com o groove carioca",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BV__023",
+    "titulo": "BLACK RIO",
+    "autor": "Zeca Berlange",
+    "estilo": "BLACK RIO",
+    "descricao": "2Fusão de samba, soul e funk norte-americano com o groove carioca",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BV__024",
+    "titulo": "BLUES",
+    "autor": "Zeca Berlange",
+    "estilo": "BLUES",
+    "descricao": "Dor, alma e guitarra juntadas nos vales do Mississippi- EUA",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BV__025",
+    "titulo": "BLUES",
+    "autor": "Zeca Berlange",
+    "estilo": "BLUES",
+    "descricao": "Dor, alma e guitarra nascidas no sul dos EUA",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BV__026",
+    "titulo": "BOLERO",
+    "autor": "Zeca Berlange",
+    "estilo": "BOLERO",
+    "descricao": "Romance lento cubano onde o coração sempre perde a discussão",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BV__027",
+    "titulo": "BOLERO",
+    "autor": "Zeca Berlange",
+    "estilo": "BOLERO",
+    "descricao": "Romance lento latino onde o coração sempre perde a discussão",
+    "imagem": ""
+  },
+TAL",
     "autor": "Zeca Berlange",
     "estilo": "BOSSA NOVA_INSTRUMENTAL",
     "descricao": "orquestral inspirada em trilhas sonoras emotivas.",
@@ -44,7 +261,6 @@
     "descricao": "Dança de roda paraense com raízes afro-indígenas e europeias",
     "imagem": ""
   },
-
   {
     "tituloID": "BV__034",
     "titulo": "AXÉ MUSIC",
