@@ -507,22 +507,25 @@ function tocarJingle() {
   if (jingles.length === 0) {
     avancarMusica();
     return;
-    
   }
 
-  
- 
+  const item = jingles[indiceJingle];
 
   audioJingle.src =
-    "musicas/" + item.tituloID + ".mp3";
-  
-console.log("Tocando jingle:", audioJingle.src);
-  
+    "jingles/" + item.tituloID + ".mp3";
+
+  console.log("Tocando jingle:", audioJingle.src);
+
   document.getElementById("musicaAtual").textContent =
     "📻 " + item.descricao;
 
   document.getElementById("descricaoAtual").textContent =
     "Vinheta institucional";
+
+  mostrarTooltipRadio(
+    "📻 " + item.descricao,
+    "Vinheta institucional"
+  );
 
   audioJingle.play();
 
@@ -560,7 +563,10 @@ audioJingle.addEventListener("ended", () => {
   avancarMusica();
 });
   
-
+audioJingle.addEventListener("error", () => {
+  console.log("Erro ao tocar jingle:", audioJingle.src);
+  avancarMusica();
+});
 
 function criarPlayerCatalogo(item, destino) {
   const card = document.createElement("div");
