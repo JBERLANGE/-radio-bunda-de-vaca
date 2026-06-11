@@ -457,7 +457,7 @@ fetch("catalagoJG.json")
   .then(catalogoJG => {
     jingles = catalogoJG;
   });
-
+alert("Jingles carregados: " + jingles.length);
   
 fetch("catalagoBA.json")
   .then(r => r.json())
