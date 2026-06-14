@@ -1,11 +1,59 @@
 [
   {
-    "tituloID": "BD__001",
-    "titulo": "A Poesia de Cada Dia",
-    "autor": "Antônio D'Amaral Basinho & Zeca Berlange",
-    "estilo": "Valsa",
+    "tituloID": "BD__042",
+    "titulo": "Ode ao Centro do Mundo",
+    "autor": "Zeca Berlange",
+    "estilo": "Gospel pop",
     "descricao": "",
-   "imagem":"Música de Zeca Berlange; Letra de Antonio D'Aamaral Basinho"
+   "imagem":"José Berlange Andrade & José Maria Ortiz de Carvalho"
+  },
+ {
+    "tituloID": "BD__022",
+    "titulo": "Gratidão Gaya",
+    "autor": "Zeca Berlange",
+    "estilo": "Gospel Pop",
+    "descricao": "",
+   "imagem":""
+  },
+ {
+    "tituloID": "BD__017",
+    "titulo": "Estação Beradeira",
+    "autor": "Antônio D'Amaral Basinho",
+    "estilo": "",
+    "descricao": "",
+   "imagem":""
+  },
+ {
+    "tituloID": "BD__032",
+    "titulo": "Lágrimas Sentidas",
+    "autor": "Zeca Berlange & Zé Maria Ortiz",
+    "estilo": "MPB",
+    "descricao": "",
+   "imagem":""
+  },
+ {
+    "tituloID": "BD__026",
+    "titulo": "Ipê Dourado",
+    "autor": "Pedro Batistote Jr & Zeca Berlange",
+    "estilo": "Sertanejo universtiário",
+    "descricao": "",
+   "imagem":""
+  },
+ {
+    "tituloID": "BD__024",
+    "titulo": "Grito de Solidão",
+    "autor": "Heitor Almeida",
+    "estilo": "MPB beradeira",
+    "descricao": "",
+   "imagem":""
+  },
+ {
+    "tituloID": "BD__033",
+    "titulo": "Madeira Meu Lugar",
+    "autor": "Igor Lucdena",
+    "estilo": "MPB beradeira",
+    "descricao": "",
+   "imagem":""
   },
   {
     "tituloID": "BD__002",
@@ -15,11 +63,35 @@
     "descricao": "",
    "imagem":""
   },
+ {
+    "tituloID": "BD__005",
+    "titulo": "O Amor Paira No Ar",
+    "autor": "Zeca Berlange & Zé Maria Ortiz",
+    "estilo": "MPB",
+    "descricao": "",
+   "imagem":"José Berlange Andrade & José Maria Ortiz de Carvalho"
+  },
   {
     "tituloID": "BD__003",
     "titulo": "Amigos Dos Bons Tempos",
     "autor": "Zeca Berlange",
     "estilo": "",
+    "descricao": "",
+   "imagem":""
+  },
+ {
+    "tituloID": "BD__016",
+    "titulo": "Engenheiro do Forró",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+   "imagem":""
+  },
+ {
+    "tituloID": "BD__038",
+    "titulo": "Nosso Amor é Diferente",
+    "autor": "Zé Maria Ortiz & Zeca Berlange",
+    "estilo": "Samba-Canção",
     "descricao": "",
    "imagem":""
   },
@@ -31,15 +103,7 @@
     "descricao": "",
    "imagem":""
   },
-  {
-    "tituloID": "BD__005",
-    "titulo": "O Amor Paira No Ar",
-    "autor": "Zeca Berlange & Zé Maria Ortiz",
-    "estilo": "MPB",
-    "descricao": "",
-   "imagem":"José Berlange Andrade & José Maria Ortiz de Carvalho"
-  },
-  {
+   {
     "tituloID": "BD__006",
     "titulo": "Boteco",
     "autor": "Zé Maria Ortiz",
@@ -120,22 +184,6 @@
    "imagem":"Mistura de Carimbó, Toada de Boi-Bumbá e Reggae"
   },
   {
-    "tituloID": "BD__016",
-    "titulo": "Engenheiro do Forró",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "",
-   "imagem":""
-  },
-  {
-    "tituloID": "BD__017",
-    "titulo": "Estação Beradeira",
-    "autor": "Antônio D'Amaral Basinho",
-    "estilo": "",
-    "descricao": "",
-   "imagem":""
-  },
-  {
     "tituloID": "BD__018",
     "titulo": "Estrela do Amanhecer",
     "autor": "Zeca Berlange & Antônio D'Amaral Basinho",
@@ -167,31 +215,7 @@
     "descricao": "",
    "imagem":"Homenagem aos 70 anos da irmã Vânia"
   },
-  {
-    "tituloID": "BD__022",
-    "titulo": "Gratidão Gaya",
-    "autor": "Zeca Berlange",
-    "estilo": "Gospel Pop",
-    "descricao": "",
-   "imagem":""
-  },
-  {
-    "tituloID": "BD__023",
-    "titulo": "Gratidão Planeta Terra",
-    "autor": "Zeca Berlange",
-    "estilo": "Gospel Pop",
-    "descricao": "",
-   "imagem":""
-  },
-  {
-    "tituloID": "BD__024",
-    "titulo": "Grito de Solidão",
-    "autor": "Heitor Almeida",
-    "estilo": "MPB beradeira",
-    "descricao": "",
-   "imagem":""
-  },
-  {
+       {
     "tituloID": "BD__025",
     "titulo": "Helena, Alma Gemea do Amor",
     "autor": "Zé Maria Ortiz & Zeca Berlange",
@@ -199,15 +223,7 @@
     "descricao": "",
    "imagem":""
   },
-  {
-    "tituloID": "BD__026",
-    "titulo": "Ipê Dourado (Saudade que Canta)",
-    "autor": "Pedro Batistote Jr & Zeca Berlange",
-    "estilo": "Sertanejo universtiário",
-    "descricao": "",
-   "imagem":""
-  },
-  {
+   {
     "tituloID": "BD__027",
     "titulo": "Iracema Eu Vi o Mar",
     "autor": "Antônio D'Amaral Basinho",
@@ -247,30 +263,7 @@
     "descricao": "",
    "imagem":""
   },
-  {
-    "tituloID": "BD__032",
-    "titulo": "Lágrimas Sentidas",
-    "autor": "Zeca Berlange & Zé Maria Ortiz",
-    "estilo": "MPB",
-    "descricao": "",
-   "imagem":""
-  },
-  {
-    "tituloID": "BD__033",
-    "titulo": "Madeira Meu Lugar",
-    "autor": "Igor Lucdena",
-    "estilo": "MPB beradeira",
-    "descricao": "",
-   "imagem":""
-  },
-  {
-    "tituloID": "BD__034",
-    "titulo": "Meditação Cósmica",
-    "autor": "Zeca Berlange",
-    "estilo": "Gospel Pop",
-    "descricao": ""
-  },
-  {
+ {
     "tituloID": "BD__035",
     "titulo": "Metade Do Que Sou",
     "autor": "Antônio D'Amaral Basinho & Zeca Berlange",
@@ -288,21 +281,13 @@
   },
   {
     "tituloID": "BD__037",
-    "titulo": "Muiraquitãns",
+    "titulo": "Muiraquitãs",
     "autor": "Antônio D'Amaral Basinho, Zeca Berlange & Dimes Braga",
     "estilo": "MPB mix Toada-bumbá",
     "descricao": "",
    "imagem":"Antônio Serpa do Amaral Filho + José Berlange Andrade + Dimes Braga"
   },
-  {
-    "tituloID": "BD__038",
-    "titulo": "Nosso Amor é Diferente",
-    "autor": "Zé Maria Ortiz & Zeca Berlange",
-    "estilo": "Samba-Canção",
-    "descricao": "",
-   "imagem":""
-  },
-  {
+   {
     "tituloID": "BD__039",
     "titulo": "O Amor Paira No Ar",
     "autor": "Zé Maria Ortiz & Zeca Berlange",
@@ -326,15 +311,7 @@
     "descricao": "",
    "imagem":""
   },
-  {
-    "tituloID": "BD__042",
-    "titulo": "Ode ao Centro do Mundo",
-    "autor": "Zeca Berlange",
-    "estilo": "Gospel pop",
-    "descricao": "",
-   "imagem":"José Berlange Andrade & José Maria Ortiz de Carvalho"
-  },
-  {
+    {
     "tituloID": "BD__043",
     "titulo": "Onde o Sol Chega Primeiro",
     "autor": "Zeca Berlange",
@@ -550,7 +527,7 @@
     "descricao": "",
    "imagem":""
   },
-{
+ {
     "tituloID": "BD__070",
     "titulo": "Ainda Há Verão No Coração",
     "autor": "Zeca Berlange",
