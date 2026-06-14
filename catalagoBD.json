@@ -536,10 +536,28 @@
   },
   {
     "tituloID": "BD__068",
+    "titulo": "¿Dónde está tu, Berlange?",
+    "autor": "Antônio D'Amaral Basinho",
+    "estilo": "",
+    "descricao": "",
+   "imagem":""
+  },
+ {
+    "tituloID": "BD__069",
     "titulo": "Musa Inspiradora",
     "autor": "Zé Maria Ortiz & Zeca Berlange",
     "estilo": "",
     "descricao": "",
    "imagem":""
+  },
+{
+    "tituloID": "BD__070",
+    "titulo": "Ainda Há Verão No Coração",
+    "autor": "Zeca Berlange",
+    "estilo": "Pagode Romântico",
+    "descricao": "",
+   "imagem":""
   }
 ]
+
+
