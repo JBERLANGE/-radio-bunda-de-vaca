@@ -110,7 +110,7 @@
     "estilo": "Pagode Romântico",
     "descricao": "",
    "imagem":""
- }.
+ },
  {
     "tituloID": "BD__040",
     "titulo": "O Barqueiro Encantado",
@@ -119,7 +119,7 @@
     "descricao": "",
    "imagem":""
   },
-   {
+  {
     "tituloID": "BD__006",
     "titulo": "Boteco",
     "autor": "Zé Maria Ortiz",
@@ -526,7 +526,7 @@
     "estilo": "MPB beradeira",
     "descricao": "",
    "imagem":""
-  },
+  }
  ]
 
 
