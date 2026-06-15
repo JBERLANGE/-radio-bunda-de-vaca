@@ -103,6 +103,22 @@
     "descricao": "",
    "imagem":""
   },
+ {
+    "tituloID": "BD__070",
+    "titulo": "Ainda Há Verão No Coração",
+    "autor": "Zeca Berlange",
+    "estilo": "Pagode Romântico",
+    "descricao": "",
+   "imagem":""
+  }.
+  {
+    "tituloID": "BD__040",
+    "titulo": "O Barqueiro Encantado",
+    "autor": "Antônio D'Amaral Basinho & Zeca Berlange",
+    "estilo": "Folk NE",
+    "descricao": "",
+   "imagem":""
+  },
    {
     "tituloID": "BD__006",
     "titulo": "Boteco",
@@ -182,6 +198,14 @@
     "estilo": "Toadarimbó+Reggae",
     "descricao": "",
    "imagem":"Mistura de Carimbó, Toada de Boi-Bumbá e Reggae"
+  },
+{
+    "tituloID": "BD__068",
+    "titulo": "¿Dónde está tu, Berlange?",
+    "autor": "Antônio D'Amaral Basinho",
+    "estilo": "",
+    "descricao": "",
+   "imagem":""
   },
   {
     "tituloID": "BD__018",
@@ -287,19 +311,11 @@
     "descricao": "",
    "imagem":"Antônio Serpa do Amaral Filho + José Berlange Andrade + Dimes Braga"
   },
-   {
-    "tituloID": "BD__039",
-    "titulo": "O Amor Paira No Ar",
-    "autor": "Zé Maria Ortiz & Zeca Berlange",
-    "estilo": "MPB saudosa",
-    "descricao": "",
-   "imagem":""
-  },
   {
-    "tituloID": "BD__040",
-    "titulo": "O Barqueiro Encantado",
-    "autor": "Antônio D'Amaral Basinho & Zeca Berlange",
-    "estilo": "Folk NE",
+    "tituloID": "BD__069",
+    "titulo": "Musa Inspiradora",
+    "autor": "Zé Maria Ortiz & Zeca Berlange",
+    "estilo": "",
     "descricao": "",
    "imagem":""
   },
@@ -511,30 +527,6 @@
     "descricao": "",
    "imagem":""
   },
-  {
-    "tituloID": "BD__068",
-    "titulo": "¿Dónde está tu, Berlange?",
-    "autor": "Antônio D'Amaral Basinho",
-    "estilo": "",
-    "descricao": "",
-   "imagem":""
-  },
- {
-    "tituloID": "BD__069",
-    "titulo": "Musa Inspiradora",
-    "autor": "Zé Maria Ortiz & Zeca Berlange",
-    "estilo": "",
-    "descricao": "",
-   "imagem":""
-  },
- {
-    "tituloID": "BD__070",
-    "titulo": "Ainda Há Verão No Coração",
-    "autor": "Zeca Berlange",
-    "estilo": "Pagode Romântico",
-    "descricao": "",
-   "imagem":""
-  }
-]
+ ]
 
 
