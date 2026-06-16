@@ -293,7 +293,25 @@ small {
     </div>
     
  </header>
- 
+
+
+<img id="capaDireita"
+     src="assets/capaBV.jpg">
+  
+<div class="painel-capa">
+  
+  <img id="capaEsquerda"
+      src="assets/capaBD.jpg"> 
+       alt="Capa esquerda">
+</div>
+
+<div class="painel-capa">
+  <img id="capaDireita"
+       src="assets/capaBV.jpg">   <!--src="assets/semcapa.jpg" -->
+       alt="Capa direita">
+</div>
+  
+  
   <div class="tocando-agora">
     <h2>🎙️ Tocando agora</h2>
     <h3 id="musicaAtual">Nenhuma música em execução</h3>
@@ -356,10 +374,12 @@ small {
   <P><small><I>Esta rádio nasceu do encontro entre imaginação humana, sensibilidade artística e cooperação inteligente entre homem e IA.
 Mais do que tecnologia, aqui existe presença, originalidade e alma criativa.”
 <small></P>
-  </I></footer>
+  </I>
+</footer>
 
+<script src="https://cdn.jsdelivr.net/npm/jsmediatags@3.9.7/dist/jsmediatags.min.js"></script>
 
-<script>
+  <script>
 
 const usuarioGitHub = "jberlange";
 const repositorio = "-radio-bunda-de-vaca";
@@ -367,7 +387,7 @@ const pasta = "musicas";
 const baseMusicas = "musicas/";
   
 const destaqueBV = ["BV__ ORQUESTRAL__Harmonia e percussão dialogando sem precisar de palavras..mp3"];
- 
+
   
 let listaAudios = [];
 let indiceAtual = -1;
@@ -607,6 +627,23 @@ function criarPlayerCatalogo(item, destino) {
   };
 
   audio.addEventListener("play", () => {
+    
+    if (item.lista === "BD") {
+
+  mostrarCapa(
+    source.src,
+    document.getElementById("capaEsquerda")
+  );
+
+} else if (item.lista === "BV") {
+
+  mostrarCapa(
+    source.src,
+    document.getElementById("capaDireita")
+  );
+
+}
+    
     audioAbertura.pause();
     audioAbertura.currentTime = 0;
     indiceAtual = indiceMusica;
@@ -729,7 +766,42 @@ document.querySelector(".painel-radio").addEventListener("touchstart", () => {
 
   mostrarTooltipRadio(titulo, descricao);
 });
-  
+
+
+function mostrarCapa(mp3, elementoImagem) {
+
+  jsmediatags.read(mp3, {
+
+    onSuccess: function(tag) {
+
+      const picture = tag.tags.picture;
+
+      if (!picture) return;
+
+      let base64String = "";
+
+      for (let i = 0; i < picture.data.length; i++) {
+        base64String += String.fromCharCode(
+          picture.data[i]
+        );
+      }
+
+      const imageUri =
+        "data:" +
+        picture.format +
+        ";base64," +
+        btoa(base64String);
+
+      elementoImagem.src = imageUri;
+    },
+
+    onError: function(error) {
+      console.log(error);
+    }
+  });
+}
+
+    
 </script>
 
 </body>
