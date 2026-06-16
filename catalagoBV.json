@@ -27,7 +27,7 @@
     "lista": "BV",
     "arquivo": "BV__011.mp3",
     "titulo": "PAGODE DE RAIZ",
-    "estilo": "Samba de mesa, amizade e batucada nascida no subúrbio cario",
+    "estilo": "Samba de mesa, amizade e batucada nascida no subúrbio carioca",
     "autor": "José Berlange Andrade",
     "descricao": ""
   },
@@ -35,7 +35,7 @@
     "lista": "BV",
     "arquivo": "BV__012.mp3",
     "titulo": "PAGODE DE RAIZ",
-    "estilo": "Samba de raiz, amizade e batucada nascida no subúrbio d Rio",
+    "estilo": "Samba de raiz, amizade e batucada nascida no subúrbio do Rio",
     "autor": "José Berlange Andrade",
     "descricao": ""
   },
@@ -506,7 +506,7 @@
   {
     "lista": "BV",
     "arquivo": "BV__179.mp3",
-    "titulo": "Manguebeat",
+    "titulo": "MANGUEBEAT",
     "estilo": "Movimento urbano de Recife dos anos 90, misturando ritmos regionais com rock e música eletrônica",
     "autor": "José Berlange Andrade",
     "descricao": ""
@@ -514,7 +514,7 @@
   {
     "lista": "BV",
     "arquivo": "BV__182.mp3",
-    "titulo": "Manguebeat",
+    "titulo": "MANGUEBEAT",
     "estilo": "Movimento urbano de Recife dos anos 90, misturando ritmos regionais com rock e música eletrônica",
     "autor": "José Berlange Andrade",
     "descricao": ""
@@ -618,8 +618,8 @@
   {
     "lista": "BV",
     "arquivo": "BV__203.mp3",
-    "titulo": "SAMBA DE GAFIEIRA_Elegante, sofisticado, dançante, urbano",
-    "estilo": "",
+    "titulo": "SAMBA DE GAFIEIRA",
+    "estilo": "Elegante, sofisticado, dançante, urbano",
     "autor": "José Berlange Andrade",
     "descricao": ""
   },
@@ -795,7 +795,7 @@
     "lista": "BV",
     "arquivo": "BV__241.mp3",
     "titulo": "SERTANEJO UNIVERSITÁRIO",
-    "estilo": "A moçada juntou a balada à pegada do Funk e apaixon",
+    "estilo": "A moçada juntou a balada à pegada do Funk e da paixão",
     "autor": "José Berlange Andrade",
     "descricao": ""
   },
@@ -803,7 +803,7 @@
     "lista": "BV",
     "arquivo": "BV__242.mp3",
     "titulo": "SERTANEJO UNIVERSITÁRIO",
-    "estilo": "O sertão juntou a balada à pegada do Funk e apaixon",
+    "estilo": "O sertão juntou a balada à pegada do Funk e da paixão",
     "autor": "José Berlange Andrade",
     "descricao": ""
   },
@@ -891,7 +891,7 @@
     "lista": "BV",
     "arquivo": "BV__263.mp3",
     "titulo": "TROPICÁLIA",
-    "estilo": "Criou nova estética ao unir cultura popular brasileira com vanguarda da música erudita.F",
+    "estilo": "Nova estética uniu cultura popular com vanguarda da música erudita",
     "autor": "José Berlange Andrade",
     "descricao": ""
   },
@@ -899,7 +899,7 @@
     "lista": "BV",
     "arquivo": "BV__266.mp3",
     "titulo": "TROPICÁLIA",
-    "estilo": "Devorou influências estrangeiras misturando-as com o samba, o baião e a bossa",
+    "estilo": "Devorou influências estrangeiras botando na panela do samba, do baião e da bossa",
     "autor": "José Berlange Andrade",
     "descricao": ""
   },
