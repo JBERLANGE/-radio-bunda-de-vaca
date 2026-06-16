@@ -1,6 +1,5 @@
-﻿[
+[
   {
-    "lista": "BV",
     "arquivo": "BV__002.mp3",
     "titulo": "VACA DA BALSA",
     "estilo": "Vaca com harmonia e percussão interagindo sem precisar de palavras",
@@ -8,7 +7,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__007.mp3",
     "titulo": "PAGODE AMBIENTE",
     "estilo": "Churrasco, cerveja  e samba correndo solto na varanda,",
@@ -16,7 +14,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__008.mp3",
     "titulo": "PAGODE AMBIENTE",
     "estilo": "Churrasco, cerveja  e samba correndo solto na varanda",
@@ -24,15 +21,13 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__011.mp3",
     "titulo": "PAGODE DE RAIZ",
     "estilo": "Samba de mesa, amizade e batucada nascida no subúrbio carioca",
     "autor": "José Berlange Andrade",
     "descricao": ""
   },
-  {
-    "lista": "BV",
+ {
     "arquivo": "BV__012.mp3",
     "titulo": "PAGODE DE RAIZ",
     "estilo": "Samba de raiz, amizade e batucada nascida no subúrbio do Rio",
@@ -40,7 +35,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__025.mp3",
     "titulo": "PAGODE ROMÂNTICO",
     "estilo": "Amor, refrão marcante e samba com perfume pop anos 90",
@@ -48,7 +42,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__026.mp3",
     "titulo": "PAGODE ROMÂNTICO",
     "estilo": "Amor, refrão marcante e samba com perfume pop dos anos 90",
@@ -56,7 +49,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__062.mp3",
     "titulo": "AFRO- SAMBA",
     "estilo": "Místico, afro-brasileiro, litúrgico e meditativo.",
@@ -64,7 +56,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__065.mp3",
     "titulo": "AFRO- SAMBA",
     "estilo": "Místico, afro-brasileiro, ritualístico e contemplativo",
@@ -72,7 +63,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__066.mp3",
     "titulo": "AXÉ MUSIC",
     "estilo": "Movimento musical dos anos 80, mix de ritmos: frevo, samba, reggae, salsa e merengue",
@@ -80,7 +70,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__069.mp3",
     "titulo": "AXÉ MUSIC",
     "estilo": "Movimento musical dos anos 80, mix de ritmos: frevo, samba, reggae, salsa e merengue",
@@ -88,7 +77,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__070.mp3",
     "titulo": "BACHATA",
     "estilo": "Romantismo caribenho a ser degustado com guitarra e saudade",
@@ -96,7 +84,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__073.mp3",
     "titulo": "BACHATA",
     "estilo": "Romantismo caribenho servido com guitarra e saudade",
@@ -104,7 +91,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__074.mp3",
     "titulo": "BLACK RIO",
     "estilo": "Fusão de samba, soul e funk norte-americano com o groove carioca",
@@ -112,7 +98,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__079.mp3",
     "titulo": "BLACK RIO",
     "estilo": "Fusão de samba, soul e funk norte-americano com o groove carioca",
@@ -120,7 +105,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__080.mp3",
     "titulo": "BLUES",
     "estilo": "Dor, alma e guitarra juntadas nos vales do Mississippi-EUA",
@@ -128,7 +112,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__083.mp3",
     "titulo": "BLUES",
     "estilo": "É dor, alma e guitarra nascidas no Sul dos EUA",
@@ -136,7 +119,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__084.mp3",
     "titulo": "BOLERO",
     "estilo": "Romance lento cubano onde o coração sempre perde a discussão",
@@ -144,7 +126,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__085.mp3",
     "titulo": "BOLERO",
     "estilo": "Romance lento latino onde o coração sempre perde a discussão",
@@ -152,7 +133,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__088.mp3",
     "titulo": "BOSSA NOVA",
     "estilo": "Funde a batida sincopada do samba carioca com a harmonia sofisticada do jazz.",
@@ -160,7 +140,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__091.mp3",
     "titulo": "BOSSA NOVA",
     "estilo": "Revolucionou ao introduzir canto falado - uma forma de cantar baixinho, intimista e sensual",
@@ -168,7 +147,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__092.mp3",
     "titulo": "CALYPSO",
     "estilo": "Humor, festa e tambores ecoando de Trinidad Tobago",
@@ -176,7 +154,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__095.mp3",
     "titulo": "CALYPSO",
     "estilo": "Humor, festa e tambores vindos de Trinidad & Tobago",
@@ -184,7 +161,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__096.mp3",
     "titulo": "CARIMBÓ",
     "estilo": "Dança de roda paraense com origens afro-indígenas e europeias",
@@ -192,7 +168,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__099.mp3",
     "titulo": "CARIMBÓ",
     "estilo": "Dança de roda paraense com raízes na hiléia e rios amazônicos",
@@ -200,7 +175,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__100.mp3",
     "titulo": "SERTANEJO CAIPIRA",
     "estilo": "Minas Gerais atracada em cordas, montanhas e canto da terra",
@@ -208,7 +182,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__102.mp3",
     "titulo": "SERTANEJO MODÃO",
     "estilo": "Sofrência clássica é amor perdido e viola consolando a alma",
@@ -216,7 +189,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__103.mp3",
     "titulo": "CHA-CHA-CHÁ",
     "estilo": "O salão cubano ensinando os pés a sorrirem",
@@ -224,7 +196,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__106.mp3",
     "titulo": "CHA-CHA-CHÁ",
     "estilo": "É o salão cubano ensinando os pés a sorrirem",
@@ -232,7 +203,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__107.mp3",
     "titulo": "CHILLOUT PRAIANO",
     "estilo": "Música para respirar devagar curtindo o azul do mar",
@@ -240,7 +210,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__110.mp3",
     "titulo": "CHILLOUT PRAIANO",
     "estilo": "Música para respirar devagar relaxando na  beira mar",
@@ -248,7 +217,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__111.mp3",
     "titulo": "CHORINHO",
     "estilo": "Música instrumental rápida e alegre, com improvisos e virtuosismo",
@@ -256,7 +224,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__114.mp3",
     "titulo": "CHORINHO",
     "estilo": "Música instrumental rápida e alegre, com improvisos e virtuosismo",
@@ -264,7 +231,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__115.mp3",
     "titulo": "CINE ORQUESTRAL",
     "estilo": "Música  para tocar o emocionar antes mesmo das palavras",
@@ -272,7 +238,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__118.mp3",
     "titulo": "CINE ORQUESTRAL",
     "estilo": "Música tocada para emocionar antes mesmo das palavras",
@@ -280,7 +245,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__119.mp3",
     "titulo": "CLUBE DA ESQUINA",
     "estilo": "Sons mineiros que unem MPB, jazz, rock e música erudita",
@@ -288,7 +252,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__122.mp3",
     "titulo": "CLUBE DA ESQUINA",
     "estilo": "Sons mineiros que unem MPB, jazz, rock e música erudita",
@@ -296,7 +259,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__123.mp3",
     "titulo": "COUNTRY",
     "estilo": "Estradas, amores e violões da América rural",
@@ -304,7 +266,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__126.mp3",
     "titulo": "COUNTRY",
     "estilo": "Estradas, amores e violões da América rural",
@@ -312,7 +273,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__127.mp3",
     "titulo": "DISCO- FUNK 70s",
     "estilo": "Brilho e suingue energético nas pistas de danças vibrantes",
@@ -320,7 +280,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__130.mp3",
     "titulo": "DISCO- FUNK 70s",
     "estilo": "Glitter e groove energético nas pistas de danças vibrantes",
@@ -328,7 +287,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__131.mp3",
     "titulo": "FADO",
     "estilo": "A saudade lusitana cantada à meia-luz",
@@ -336,7 +294,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__134.mp3",
     "titulo": "FADO",
     "estilo": "A saudade portuguesa encantando à meia-luz",
@@ -344,7 +301,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__135.mp3",
     "titulo": "FLAMENCO",
     "estilo": "Andaluzia arde em chamas, palmas e guitarras dramáticas",
@@ -352,7 +308,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__138.mp3",
     "titulo": "FLAMENCO",
     "estilo": "Andaluzia põe mundo em chamas, palmas e guitarras dramáticas",
@@ -360,7 +315,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__139.mp3",
     "titulo": "FORRÓ",
     "estilo": "Sanfona, suor e alegria do Nordeste brasileiro",
@@ -368,7 +322,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__142.mp3",
     "titulo": "FORRÓ",
     "estilo": "Sanfona, suor e alegria do Nordeste brasileiro",
@@ -376,7 +329,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__143.mp3",
     "titulo": "FUNK CARIOCA",
     "estilo": "Periférico do Rio com raízes no Miami bass: a realidade das favelas com dança, cultura e resistência",
@@ -384,7 +336,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__150.mp3",
     "titulo": "FUNK CARIOCA",
     "estilo": "Periférico do Rio com raízes no Miami bass: a realidade das favelas com dança, cultura e resistência",
@@ -392,7 +343,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__151.mp3",
     "titulo": "FUNK MELODY",
     "estilo": "Mistura a batida do funk com melodias românticas e dançantes",
@@ -400,7 +350,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__154.mp3",
     "titulo": "FUNK MELODY",
     "estilo": "Mistura a batida do funk com melodias românticas e dançantes",
@@ -408,7 +357,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__155.mp3",
     "titulo": "GOSPEL",
     "estilo": "Fé cantada em incrementos emocionais e corais vibrantes",
@@ -416,7 +364,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__158.mp3",
     "titulo": "GOSPEL",
     "estilo": "Fé cantada em amplificações  emocionais e corais vibrantes",
@@ -424,7 +371,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__159.mp3",
     "titulo": "IÊ-IÊ-IÊ",
     "estilo": "Influência de The Beatles adaptada por RC e Jovem Guarda",
@@ -432,7 +378,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__162.mp3",
     "titulo": "IÊ-IÊ-IÊ",
     "estilo": "Mistura inocência, romantismo adolescente e rebeldia leve",
@@ -440,7 +385,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__163.mp3",
     "titulo": "JOVEM GUARDA",
     "estilo": "Consolidou o uso de guitarras elétricas e bateria na música popular brasileira",
@@ -448,7 +392,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__166.mp3",
     "titulo": "JOVEM GUARDA",
     "estilo": "Foco no entretenimento, o ‘bicho’ e a ‘mina’ abordavam temas do cotidiano adolescente",
@@ -456,7 +399,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__167.mp3",
     "titulo": "KONPAS",
     "estilo": "Elegância haitiana para dançar em groove hipnótico",
@@ -464,7 +406,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__170.mp3",
     "titulo": "KONPAS",
     "estilo": "Elegância haitiana é dança em groove hipnótico",
@@ -472,7 +413,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__171.mp3",
     "titulo": "LO-FI",
     "estilo": "Imperfeições sonoras reinventadas como conforto emocional",
@@ -480,7 +420,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__174.mp3",
     "titulo": "LO-FI",
     "estilo": "Imperfeições sonoras transformadas em conforto emocional",
@@ -488,7 +427,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__175.mp3",
     "titulo": "MAMBO",
     "estilo": "Metais explosivos animam dança tropical sem freio",
@@ -496,7 +434,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__178.mp3",
     "titulo": "MAMBO",
     "estilo": "Metais explosivos impulsam dança tropical sem freio",
@@ -504,7 +441,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__179.mp3",
     "titulo": "MANGUEBEAT",
     "estilo": "Movimento urbano de Recife dos anos 90, misturando ritmos regionais com rock e música eletrônica",
@@ -512,7 +448,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__182.mp3",
     "titulo": "MANGUEBEAT",
     "estilo": "Movimento urbano de Recife dos anos 90, misturando ritmos regionais com rock e música eletrônica",
@@ -520,7 +455,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__183.mp3",
     "titulo": "MERENGUE",
     "estilo": "Música dominicana impossível de ouvir parado",
@@ -528,7 +462,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__186.mp3",
     "titulo": "MERENGUE",
     "estilo": "Um ritmo dominicano impossível de ouvir parado",
@@ -536,7 +469,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__189.mp3",
     "titulo": "MPB 60s",
     "estilo": "Música engajada de contestação e forte crítica social na ditadura",
@@ -544,7 +476,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__190.mp3",
     "titulo": "MPB 60s",
     "estilo": "Música engajada de contestação e forte crítica social na ditadura",
@@ -552,7 +483,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__191.mp3",
     "titulo": "MPB ANOS 70",
     "estilo": "Poesia urbana brasileira com sofisticação harmônica dos anos 70",
@@ -560,7 +490,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__192.mp3",
     "titulo": "MPB ANOS 70",
     "estilo": "Poesia urbana brasileira com sofisticação harmônica dos anos 70",
@@ -568,7 +497,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__193.mp3",
     "titulo": "PARTIDO-ALTO",
     "estilo": "Improviso, desafio poético, resposta coletiva, humor e esperteza",
@@ -576,7 +504,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__196.mp3",
     "titulo": "PARTIDO-ALTO",
     "estilo": "Improviso, desafio poético, resposta coletiva, humor e malandragem",
@@ -584,7 +511,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__197.mp3",
     "titulo": "RUMBA",
     "estilo": "Percussão afro-caribenha cheia de sedução e balanço",
@@ -592,7 +518,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__200.mp3",
     "titulo": "RUMBA",
     "estilo": "Percussão afro-caribenha repleta de sedução e balanço",
@@ -600,7 +525,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__201.mp3",
     "titulo": "SAMBA DE BREQUE",
     "estilo": "Teatral, humorístico, narrativo, com pausas dramáticas",
@@ -608,7 +532,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__202.mp3",
     "titulo": "SAMBA DE BREQUE",
     "estilo": "Teatral, humorístico, narrativo, com pausas dramáticas",
@@ -616,7 +539,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__203.mp3",
     "titulo": "SAMBA DE GAFIEIRA",
     "estilo": "Elegante, sofisticado, dançante, urbano",
@@ -624,7 +546,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__206.mp3",
     "titulo": "SAMBA DE GAFIEIRA",
     "estilo": "Elegante, refinado, dançante, urbano",
@@ -632,7 +553,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__207.mp3",
     "titulo": "SAMBA DE RAIZ",
     "estilo": "amor, boemia, ancestralidade, malandragem elegante e vida popular",
@@ -640,7 +560,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__210.mp3",
     "titulo": "SAMBA DE RAIZ",
     "estilo": "orgânico, comunitário, espiritualizado e cotidiano feliz",
@@ -648,7 +567,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__211.mp3",
     "titulo": "SAMBA DE RODA",
     "estilo": "Ancestral, baiano, coletivo, tribal e festivo.",
@@ -656,7 +574,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__214.mp3",
     "titulo": "SAMBA DE RODA",
     "estilo": "Ancestral, soteropolitano, coletivo, tribal e festivo",
@@ -664,7 +581,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__215.mp3",
     "titulo": "SAMBA PAULISTANO",
     "estilo": "Crônica musical da vida com humor e melancolia - dores, amores e desventuras.",
@@ -672,7 +588,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__218.mp3",
     "titulo": "SAMBA PAULISTANO",
     "estilo": "Uso do dialeto ítalo-paulista e linguagem coloquial das ruas paulistas",
@@ -680,7 +595,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__219.mp3",
     "titulo": "SAMBA-CANÇÃO",
     "estilo": "a 'música de fossa' ou 'dor de cotovelo' brasileira, focada em temas amorosos intensos e dramáticos",
@@ -688,7 +602,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__222.mp3",
     "titulo": "SAMBA-CANÇÃO",
     "estilo": "Misto de batuque do samba com a melodia estruturada da canção para ser dançado agarradinho",
@@ -696,7 +609,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__223.mp3",
     "titulo": "SAMBA-ENREDO",
     "estilo": "Grandioso, épico, carnavalesco, descritivo e evolutivo.",
@@ -704,7 +616,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__226.mp3",
     "titulo": "SAMBA-ENREDO",
     "estilo": "Grandioso, épico, carnavalesco, narrativo e evolutivo",
@@ -712,7 +623,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__227.mp3",
     "titulo": "SAMBA-EXALTAÇÃO",
     "estilo": "Patriótico, emotivo, grandioso, celebratório.",
@@ -720,7 +630,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__230.mp3",
     "titulo": "SAMBA-EXALTAÇÃO",
     "estilo": "Patriótico, emotivo, majestoso, celebratório",
@@ -728,7 +637,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__231.mp3",
     "titulo": "SAMBA-ROCK",
     "estilo": "Swing urbano, balanço dançante, mescla samba+soul+Funk",
@@ -736,7 +644,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__234.mp3",
     "titulo": "SAMBA-ROCK",
     "estilo": "Swing urbano, groove dançante, mistura samba+soul+funk",
@@ -744,7 +651,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__235.mp3",
     "titulo": "SERTANEJO CAIPIRA",
     "estilo": "Minas Gerais em cordas, montanhas e canto de terreiro",
@@ -752,7 +658,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__236.mp3",
     "titulo": "SERTANEJO CAIPIRA",
     "estilo": "É Minas Gerais em cordas, montanhas e canto de terreiro",
@@ -760,7 +665,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__237.mp3",
     "titulo": "SERTANEJO MODÃO",
     "estilo": "Sofrência chora o amor perdido e a viola consola a alma",
@@ -768,7 +672,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__238.mp3",
     "titulo": "SERTANEJO MODÃO",
     "estilo": "Sofrência clássica-amor perdido e viola a consolar a alma",
@@ -776,7 +679,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__239.mp3",
     "titulo": "SERTANEJO RAIZ",
     "estilo": "Viola, estrada de terra e paixão cantadas da roça brasileira",
@@ -784,7 +686,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__240.mp3",
     "titulo": "SERTANEJO RAIZ",
     "estilo": "Viola, estrada de terra e paixão nascidas na roça brasileira",
@@ -792,7 +693,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__241.mp3",
     "titulo": "SERTANEJO UNIVERSITÁRIO",
     "estilo": "A moçada juntou a balada à pegada do Funk e da paixão",
@@ -800,7 +700,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__242.mp3",
     "titulo": "SERTANEJO UNIVERSITÁRIO",
     "estilo": "O sertão juntou a balada à pegada do Funk e da paixão",
@@ -808,7 +707,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__243.mp3",
     "titulo": "SON CUBANO",
     "estilo": "A elegância rítmica que emoldurou a música cubana",
@@ -816,7 +714,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__246.mp3",
     "titulo": "SON CUBANO",
     "estilo": "A elegância rítmica que plasmou a música cubana",
@@ -824,7 +721,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__249.mp3",
     "titulo": "SYNTHWAVE",
     "estilo": "O futuro visionado pelos anos 80 em neon e sintetizadores",
@@ -832,7 +728,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__250.mp3",
     "titulo": "SYNTHWAVE",
     "estilo": "O futuro imaginado pelos anos 80 em neon e sintetizadores",
@@ -840,7 +735,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__251.mp3",
     "titulo": "TAMBÚ",
     "estilo": "Ritmo ancestral de resistência cultural afro-caribenha",
@@ -848,7 +742,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__254.mp3",
     "titulo": "TAMBÚ",
     "estilo": "Ritmo de cultura ancestral da resistência afro-curaçalense",
@@ -856,7 +749,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__255.mp3",
     "titulo": "TOADA",
     "estilo": "Música vibrante a comemorar lendas indígenas e rituais dos bois-bumbá",
@@ -864,7 +756,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__258.mp3",
     "titulo": "TOADA",
     "estilo": "Música vibrante que celebra lendas indígenas e rituais dos bois-bumbá",
@@ -872,7 +763,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__259.mp3",
     "titulo": "TRAP ACÚSTICO",
     "estilo": "Batidas graves e confissões da era digital.",
@@ -880,7 +770,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__262.mp3",
     "titulo": "TRAP ACÚSTICO",
     "estilo": "Beats graves e revelações da era digital",
@@ -888,7 +777,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__263.mp3",
     "titulo": "TROPICÁLIA",
     "estilo": "Nova estética uniu cultura popular com vanguarda da música erudita",
@@ -896,7 +784,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__266.mp3",
     "titulo": "TROPICÁLIA",
     "estilo": "Devorou influências estrangeiras botando na panela do samba, do baião e da bossa",
@@ -904,7 +791,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__267.mp3",
     "titulo": "TUMBA",
     "estilo": "Celebração afro-caribenha agitada por tambores e metais de Curaçao",
@@ -912,7 +798,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__270.mp3",
     "titulo": "TUMBA",
     "estilo": "Celebração afro-caribenha guiada por tambores e metais de Korsou",
@@ -920,7 +805,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__271.mp3",
     "titulo": "TWIST",
     "estilo": "Ritmo acelerado, alegre, dançante e energético.",
@@ -928,7 +812,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__274.mp3",
     "titulo": "TWIST",
     "estilo": "Ritmo acelerado, alegre, dançante e intensivo",
@@ -936,7 +819,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__275.mp3",
     "titulo": "VALLENATO",
     "estilo": "Acordeon colombiano narrando paixões e caminhos caribenhos",
@@ -944,7 +826,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__278.mp3",
     "titulo": "VALLENATO",
     "estilo": "Acordeon colombiano narrando paixões e caminhos",
@@ -952,7 +833,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__279.mp3",
     "titulo": "ZOUK",
     "estilo": "Romance de Guadalupe embalado por sintetizadores suaves",
@@ -960,7 +840,6 @@
     "descricao": ""
   },
   {
-    "lista": "BV",
     "arquivo": "BV__282.mp3",
     "titulo": "ZOUK",
     "estilo": "É romance tropical embalado por sintetizadores suaves",
