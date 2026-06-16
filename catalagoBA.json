@@ -11,7 +11,7 @@
     "tituloID": "BA__007",
     "titulo": "Ode ao Centro do Mundo",
     "autor": "Zeca Berlange",
-    "estilo": ""
+    "estilo": "",
     "descricao": "Praieiras",
     "imagem": ""
   },
@@ -115,7 +115,7 @@
     "tituloID": "BA__015",
     "titulo": "Pula no Meu Peito Morena",
     "autor": "Zeca Berlange & Wagner Sávio",
-    "estilo": "Guarãnia",
+    "estilo": "Guarânia",
     "descricao": "Pantaneiras",
     "imagem": ""
   },
@@ -123,8 +123,8 @@
     "tituloID": "BA__016",
     "titulo": "Divinding Street na Beira do Madeira",
     "autor": "Zeca Berlange",
-    "estilo": ""
-    "descricao": ""
+    "estilo": "",
+    "descricao": "",
     "imagem": ""
   },
   {
@@ -139,7 +139,7 @@
     "tituloID": "BA__019",
     "titulo": "Filho é Rock and Roll",
     "autor": "Antônio D'Amaral Basinho & Zeca Berlange",
-    "estilo": ""
+    "estilo": "",
     "descricao": "Beradeiras",
     "imagem": ""
   },
@@ -147,8 +147,8 @@
     "tituloID": "BA__020",
     "titulo": "Por do Sol Carmim",
     "autor": "Zeca Berlange",
-    "estilo": ""
-    "descricao": ""
+    "estilo": "",
+    "descricao": "",
     "imagem": ""
   }
  ]
