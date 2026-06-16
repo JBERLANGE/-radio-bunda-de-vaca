@@ -754,22 +754,7 @@ function animarRabo() {
 
 let tempoTooltip;
 
-function mostrarTooltipRadio(titulo, descricao) {
-  const tooltip = document.getElementById("tooltipRadio");
-  const tooltipTitulo = document.getElementById("tooltipTitulo");
-  const tooltipDescricao = document.getElementById("tooltipDescricao");
 
-  tooltipTitulo.textContent = titulo || "Tocando agora";
-  tooltipDescricao.textContent = descricao || "Sem descrição  cadastrada.";
-
-  tooltip.classList.add("visivel");
-
-  clearTimeout(tempoTooltip);
-
-  tempoTooltip = setTimeout(() => {
-    tooltip.classList.remove("visivel");
-  }, 3000);
-}
 
 document.querySelector(".painel-radio").addEventListener("mouseenter", () => {
   const titulo = document.getElementById("musicaAtual").textContent;
