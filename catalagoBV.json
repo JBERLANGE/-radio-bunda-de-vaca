@@ -1,0 +1,849 @@
+﻿[
+  {
+    "tituloID": "BV__002",
+    "titulo": "VACA DA BALSA",
+    "estilo": "Vaca com harmonia e percussão interagindo sem precisar de palavras",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__007",
+    "titulo": "PAGODE AMBIENTE",
+    "estilo": "Churrasco, cerveja  e samba correndo solto na varanda,",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__008",
+    "titulo": "PAGODE AMBIENTE",
+    "estilo": "Churrasco, cerveja  e samba correndo solto na varanda",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__011",
+    "titulo": "PAGODE DE RAIZ",
+    "estilo": "Samba de mesa, amizade e batucada nascida no subúrbio carioca",
+    "autor": "",
+    "descricao": ""
+  },
+ {
+    "tituloID": "BV__012",
+    "titulo": "PAGODE DE RAIZ",
+    "estilo": "Samba de raiz, amizade e batucada nascida no subúrbio do Rio",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__025",
+    "titulo": "PAGODE ROMÂNTICO",
+    "estilo": "Amor, refrão marcante e samba com perfume pop anos 90",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__026",
+    "titulo": "PAGODE ROMÂNTICO",
+    "estilo": "Amor, refrão marcante e samba com perfume pop dos anos 90",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__062",
+    "titulo": "AFRO- SAMBA",
+    "estilo": "Místico, afro-brasileiro, litúrgico e meditativo.",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__065",
+    "titulo": "AFRO- SAMBA",
+    "estilo": "Místico, afro-brasileiro, ritualístico e contemplativo",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__066",
+    "titulo": "AXÉ MUSIC",
+    "estilo": "Movimento musical dos anos 80, mix de ritmos: frevo, samba, reggae, salsa e merengue",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__069",
+    "titulo": "AXÉ MUSIC",
+    "estilo": "Movimento musical dos anos 80, mix de ritmos: frevo, samba, reggae, salsa e merengue",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__070",
+    "titulo": "BACHATA",
+    "estilo": "Romantismo caribenho a ser degustado com guitarra e saudade",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__073",
+    "titulo": "BACHATA",
+    "estilo": "Romantismo caribenho servido com guitarra e saudade",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__074",
+    "titulo": "BLACK RIO",
+    "estilo": "Fusão de samba, soul e funk norte-americano com o groove carioca",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__079",
+    "titulo": "BLACK RIO",
+    "estilo": "Fusão de samba, soul e funk norte-americano com o groove carioca",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__080",
+    "titulo": "BLUES",
+    "estilo": "Dor, alma e guitarra juntadas nos vales do Mississippi-EUA",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__083",
+    "titulo": "BLUES",
+    "estilo": "É dor, alma e guitarra nascidas no Sul dos EUA",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__084",
+    "titulo": "BOLERO",
+    "estilo": "Romance lento cubano onde o coração sempre perde a discussão",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__085",
+    "titulo": "BOLERO",
+    "estilo": "Romance lento latino onde o coração sempre perde a discussão",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__088",
+    "titulo": "BOSSA NOVA",
+    "estilo": "Funde a batida sincopada do samba carioca com a harmonia sofisticada do jazz.",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__091",
+    "titulo": "BOSSA NOVA",
+    "estilo": "Revolucionou ao introduzir canto falado - uma forma de cantar baixinho, intimista e sensual",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__092",
+    "titulo": "CALYPSO",
+    "estilo": "Humor, festa e tambores ecoando de Trinidad Tobago",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__095",
+    "titulo": "CALYPSO",
+    "estilo": "Humor, festa e tambores vindos de Trinidad & Tobago",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__096",
+    "titulo": "CARIMBÓ",
+    "estilo": "Dança de roda paraense com origens afro-indígenas e europeias",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__099",
+    "titulo": "CARIMBÓ",
+    "estilo": "Dança de roda paraense com raízes na hiléia e rios amazônicos",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__100",
+    "titulo": "SERTANEJO CAIPIRA",
+    "estilo": "Minas Gerais atracada em cordas, montanhas e canto da terra",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__102",
+    "titulo": "SERTANEJO MODÃO",
+    "estilo": "Sofrência clássica é amor perdido e viola consolando a alma",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__103",
+    "titulo": "CHA-CHA-CHÁ",
+    "estilo": "O salão cubano ensinando os pés a sorrirem",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__106",
+    "titulo": "CHA-CHA-CHÁ",
+    "estilo": "É o salão cubano ensinando os pés a sorrirem",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__107",
+    "titulo": "CHILLOUT PRAIANO",
+    "estilo": "Música para respirar devagar curtindo o azul do mar",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__110",
+    "titulo": "CHILLOUT PRAIANO",
+    "estilo": "Música para respirar devagar relaxando na  beira mar",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__111",
+    "titulo": "CHORINHO",
+    "estilo": "Música instrumental rápida e alegre, com improvisos e virtuosismo",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__114",
+    "titulo": "CHORINHO",
+    "estilo": "Música instrumental rápida e alegre, com improvisos e virtuosismo",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__115",
+    "titulo": "CINE ORQUESTRAL",
+    "estilo": "Música  para tocar o emocionar antes mesmo das palavras",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__118",
+    "titulo": "CINE ORQUESTRAL",
+    "estilo": "Música tocada para emocionar antes mesmo das palavras",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__119",
+    "titulo": "CLUBE DA ESQUINA",
+    "estilo": "Sons mineiros que unem MPB, jazz, rock e música erudita",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__122",
+    "titulo": "CLUBE DA ESQUINA",
+    "estilo": "Sons mineiros que unem MPB, jazz, rock e música erudita",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__123",
+    "titulo": "COUNTRY",
+    "estilo": "Estradas, amores e violões da América rural",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__126",
+    "titulo": "COUNTRY",
+    "estilo": "Estradas, amores e violões da América rural",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__127",
+    "titulo": "DISCO- FUNK 70s",
+    "estilo": "Brilho e suingue energético nas pistas de danças vibrantes",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__130",
+    "titulo": "DISCO- FUNK 70s",
+    "estilo": "Glitter e groove energético nas pistas de danças vibrantes",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__131",
+    "titulo": "FADO",
+    "estilo": "A saudade lusitana cantada à meia-luz",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__134",
+    "titulo": "FADO",
+    "estilo": "A saudade portuguesa encantando à meia-luz",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__135",
+    "titulo": "FLAMENCO",
+    "estilo": "Andaluzia arde em chamas, palmas e guitarras dramáticas",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__138",
+    "titulo": "FLAMENCO",
+    "estilo": "Andaluzia põe mundo em chamas, palmas e guitarras dramáticas",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__139",
+    "titulo": "FORRÓ",
+    "estilo": "Sanfona, suor e alegria do Nordeste brasileiro",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__142",
+    "titulo": "FORRÓ",
+    "estilo": "Sanfona, suor e alegria do Nordeste brasileiro",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__143",
+    "titulo": "FUNK CARIOCA",
+    "estilo": "Periférico do Rio com raízes no Miami bass: a realidade das favelas com dança, cultura e resistência",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__150",
+    "titulo": "FUNK CARIOCA",
+    "estilo": "Periférico do Rio com raízes no Miami bass: a realidade das favelas com dança, cultura e resistência",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__151",
+    "titulo": "FUNK MELODY",
+    "estilo": "Mistura a batida do funk com melodias românticas e dançantes",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__154",
+    "titulo": "FUNK MELODY",
+    "estilo": "Mistura a batida do funk com melodias românticas e dançantes",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__155",
+    "titulo": "GOSPEL",
+    "estilo": "Fé cantada em incrementos emocionais e corais vibrantes",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__158",
+    "titulo": "GOSPEL",
+    "estilo": "Fé cantada em amplificações  emocionais e corais vibrantes",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__159",
+    "titulo": "IÊ-IÊ-IÊ",
+    "estilo": "Influência de The Beatles adaptada por RC e Jovem Guarda",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__162",
+    "titulo": "IÊ-IÊ-IÊ",
+    "estilo": "Mistura inocência, romantismo adolescente e rebeldia leve",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__163",
+    "titulo": "JOVEM GUARDA",
+    "estilo": "Consolidou o uso de guitarras elétricas e bateria na música popular brasileira",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__166",
+    "titulo": "JOVEM GUARDA",
+    "estilo": "Foco no entretenimento, o ‘bicho’ e a ‘mina’ abordavam temas do cotidiano adolescente",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__167",
+    "titulo": "KONPAS",
+    "estilo": "Elegância haitiana para dançar em groove hipnótico",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__170",
+    "titulo": "KONPAS",
+    "estilo": "Elegância haitiana é dança em groove hipnótico",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__171",
+    "titulo": "LO-FI",
+    "estilo": "Imperfeições sonoras reinventadas como conforto emocional",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__174",
+    "titulo": "LO-FI",
+    "estilo": "Imperfeições sonoras transformadas em conforto emocional",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__175",
+    "titulo": "MAMBO",
+    "estilo": "Metais explosivos animam dança tropical sem freio",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__178",
+    "titulo": "MAMBO",
+    "estilo": "Metais explosivos impulsam dança tropical sem freio",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__179",
+    "titulo": "MANGUEBEAT",
+    "estilo": "Movimento urbano de Recife dos anos 90, misturando ritmos regionais com rock e música eletrônica",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__182",
+    "titulo": "MANGUEBEAT",
+    "estilo": "Movimento urbano de Recife dos anos 90, misturando ritmos regionais com rock e música eletrônica",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__183",
+    "titulo": "MERENGUE",
+    "estilo": "Música dominicana impossível de ouvir parado",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__186",
+    "titulo": "MERENGUE",
+    "estilo": "Um ritmo dominicano impossível de ouvir parado",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__189",
+    "titulo": "MPB 60s",
+    "estilo": "Música engajada de contestação e forte crítica social na ditadura",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__190",
+    "titulo": "MPB 60s",
+    "estilo": "Música engajada de contestação e forte crítica social na ditadura",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__191",
+    "titulo": "MPB ANOS 70",
+    "estilo": "Poesia urbana brasileira com sofisticação harmônica dos anos 70",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__192",
+    "titulo": "MPB ANOS 70",
+    "estilo": "Poesia urbana brasileira com sofisticação harmônica dos anos 70",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__193",
+    "titulo": "PARTIDO-ALTO",
+    "estilo": "Improviso, desafio poético, resposta coletiva, humor e esperteza",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__196",
+    "titulo": "PARTIDO-ALTO",
+    "estilo": "Improviso, desafio poético, resposta coletiva, humor e malandragem",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__197",
+    "titulo": "RUMBA",
+    "estilo": "Percussão afro-caribenha cheia de sedução e balanço",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__200",
+    "titulo": "RUMBA",
+    "estilo": "Percussão afro-caribenha repleta de sedução e balanço",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__201",
+    "titulo": "SAMBA DE BREQUE",
+    "estilo": "Teatral, humorístico, narrativo, com pausas dramáticas",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__202",
+    "titulo": "SAMBA DE BREQUE",
+    "estilo": "Teatral, humorístico, narrativo, com pausas dramáticas",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__203",
+    "titulo": "SAMBA DE GAFIEIRA",
+    "estilo": "Elegante, sofisticado, dançante, urbano",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__206",
+    "titulo": "SAMBA DE GAFIEIRA",
+    "estilo": "Elegante, refinado, dançante, urbano",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__207",
+    "titulo": "SAMBA DE RAIZ",
+    "estilo": "amor, boemia, ancestralidade, malandragem elegante e vida popular",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__210",
+    "titulo": "SAMBA DE RAIZ",
+    "estilo": "orgânico, comunitário, espiritualizado e cotidiano feliz",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__211",
+    "titulo": "SAMBA DE RODA",
+    "estilo": "Ancestral, baiano, coletivo, tribal e festivo.",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__214",
+    "titulo": "SAMBA DE RODA",
+    "estilo": "Ancestral, soteropolitano, coletivo, tribal e festivo",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__215",
+    "titulo": "SAMBA PAULISTANO",
+    "estilo": "Crônica musical da vida com humor e melancolia - dores, amores e desventuras.",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__218",
+    "titulo": "SAMBA PAULISTANO",
+    "estilo": "Uso do dialeto ítalo-paulista e linguagem coloquial das ruas paulistas",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__219",
+    "titulo": "SAMBA-CANÇÃO",
+    "estilo": "a 'música de fossa' ou 'dor de cotovelo' brasileira, focada em temas amorosos intensos e dramáticos",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__222",
+    "titulo": "SAMBA-CANÇÃO",
+    "estilo": "Misto de batuque do samba com a melodia estruturada da canção para ser dançado agarradinho",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__223",
+    "titulo": "SAMBA-ENREDO",
+    "estilo": "Grandioso, épico, carnavalesco, descritivo e evolutivo.",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__226",
+    "titulo": "SAMBA-ENREDO",
+    "estilo": "Grandioso, épico, carnavalesco, narrativo e evolutivo",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__227",
+    "titulo": "SAMBA-EXALTAÇÃO",
+    "estilo": "Patriótico, emotivo, grandioso, celebratório.",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__230",
+    "titulo": "SAMBA-EXALTAÇÃO",
+    "estilo": "Patriótico, emotivo, majestoso, celebratório",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__231",
+    "titulo": "SAMBA-ROCK",
+    "estilo": "Swing urbano, balanço dançante, mescla samba+soul+Funk",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__234",
+    "titulo": "SAMBA-ROCK",
+    "estilo": "Swing urbano, groove dançante, mistura samba+soul+funk",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__235",
+    "titulo": "SERTANEJO CAIPIRA",
+    "estilo": "Minas Gerais em cordas, montanhas e canto de terreiro",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__236",
+    "titulo": "SERTANEJO CAIPIRA",
+    "estilo": "É Minas Gerais em cordas, montanhas e canto de terreiro",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__237",
+    "titulo": "SERTANEJO MODÃO",
+    "estilo": "Sofrência chora o amor perdido e a viola consola a alma",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__238",
+    "titulo": "SERTANEJO MODÃO",
+    "estilo": "Sofrência clássica-amor perdido e viola a consolar a alma",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__239",
+    "titulo": "SERTANEJO RAIZ",
+    "estilo": "Viola, estrada de terra e paixão cantadas da roça brasileira",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__240",
+    "titulo": "SERTANEJO RAIZ",
+    "estilo": "Viola, estrada de terra e paixão nascidas na roça brasileira",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__241",
+    "titulo": "SERTANEJO UNIVERSITÁRIO",
+    "estilo": "A moçada juntou a balada à pegada do Funk e da paixão",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__242",
+    "titulo": "SERTANEJO UNIVERSITÁRIO",
+    "estilo": "O sertão juntou a balada à pegada do Funk e da paixão",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__243",
+    "titulo": "SON CUBANO",
+    "estilo": "A elegância rítmica que emoldurou a música cubana",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__246",
+    "titulo": "SON CUBANO",
+    "estilo": "A elegância rítmica que plasmou a música cubana",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__249",
+    "titulo": "SYNTHWAVE",
+    "estilo": "O futuro visionado pelos anos 80 em neon e sintetizadores",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__250",
+    "titulo": "SYNTHWAVE",
+    "estilo": "O futuro imaginado pelos anos 80 em neon e sintetizadores",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__251",
+    "titulo": "TAMBÚ",
+    "estilo": "Ritmo ancestral de resistência cultural afro-caribenha",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__254",
+    "titulo": "TAMBÚ",
+    "estilo": "Ritmo de cultura ancestral da resistência afro-curaçalense",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__255",
+    "titulo": "TOADA",
+    "estilo": "Música vibrante a comemorar lendas indígenas e rituais dos bois-bumbá",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__258",
+    "titulo": "TOADA",
+    "estilo": "Música vibrante que celebra lendas indígenas e rituais dos bois-bumbá",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__259",
+    "titulo": "TRAP ACÚSTICO",
+    "estilo": "Batidas graves e confissões da era digital.",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__262",
+    "titulo": "TRAP ACÚSTICO",
+    "estilo": "Beats graves e revelações da era digital",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__263",
+    "titulo": "TROPICÁLIA",
+    "estilo": "Nova estética uniu cultura popular com vanguarda da música erudita",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__266",
+    "titulo": "TROPICÁLIA",
+    "estilo": "Devorou influências estrangeiras botando na panela do samba, do baião e da bossa",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__267",
+    "titulo": "TUMBA",
+    "estilo": "Celebração afro-caribenha agitada por tambores e metais de Curaçao",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__270",
+    "titulo": "TUMBA",
+    "estilo": "Celebração afro-caribenha guiada por tambores e metais de Korsou",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__271",
+    "titulo": "TWIST",
+    "estilo": "Ritmo acelerado, alegre, dançante e energético.",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__274",
+    "titulo": "TWIST",
+    "estilo": "Ritmo acelerado, alegre, dançante e intensivo",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__275",
+    "titulo": "VALLENATO",
+    "estilo": "Acordeon colombiano narrando paixões e caminhos caribenhos",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__278",
+    "titulo": "VALLENATO",
+    "estilo": "Acordeon colombiano narrando paixões e caminhos",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__279",
+    "titulo": "ZOUK",
+    "estilo": "Romance de Guadalupe embalado por sintetizadores suaves",
+    "autor": "",
+    "descricao": ""
+  },
+  {
+    "tituloID": "BV__282",
+    "titulo": "ZOUK",
+    "estilo": "É romance tropical embalado por sintetizadores suaves",
+    "autor": "",
+    "descricao": ""
+  }
+]
