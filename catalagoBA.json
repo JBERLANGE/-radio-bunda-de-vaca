@@ -19,7 +19,7 @@
     "tituloID": "BA__008",
     "titulo": "Gratidão Gaya",
     "autor": "Zeca Berlange",
-    "estilo": "Instrumental gospel pop",
+    "estilo": "Gospel pop",
     "descricao": "Praieiras",
     "imagem": ""
   },
@@ -123,7 +123,7 @@
     "tituloID": "BA__016",
     "titulo": "Divinding Street na Beira do Madeira",
     "autor": "Zeca Berlange",
-    "estilo": "",
+    "estilo": "Reggae + Toada bumbá",
     "descricao": "",
     "imagem": ""
   },
@@ -131,7 +131,7 @@
     "tituloID": "BA__017",
     "titulo": "Vida de Vivente das Estradas",
     "autor": "Paulo Brum & Zeca Berlange",
-    "estilo": "vanerao gaúcho",
+    "estilo": "Chamamé",
     "descricao": "Pantaneiras",
     "imagem": ""
   },
@@ -139,7 +139,7 @@
     "tituloID": "BA__019",
     "titulo": "Filho é Rock and Roll",
     "autor": "Antônio D'Amaral Basinho & Zeca Berlange",
-    "estilo": "",
+    "estilo": "Rock",
     "descricao": "Beradeiras",
     "imagem": ""
   },
@@ -147,7 +147,7 @@
     "tituloID": "BA__020",
     "titulo": "Por do Sol Carmim",
     "autor": "Zeca Berlange",
-    "estilo": "",
+    "estilo": "MPB",
     "descricao": "",
     "imagem": ""
   }
