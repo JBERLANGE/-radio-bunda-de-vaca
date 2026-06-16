@@ -65,14 +65,6 @@
   },
   {
     "lista": "BV",
-    "arquivo": "BV__063.mp3",
-    "titulo": "AFRO- SAMBA",
-    "estilo": "Místico, afro-brasileiro, litúrgico e meditativo",
-    "autor": "José Berlange Andrade",
-    "descricao": ""
-  },
-  {
-    "lista": "BV",
     "arquivo": "BV__064.mp3",
     "titulo": "AFRO- SAMBA",
     "estilo": "Místico, afro-brasileiro, ritualístico e contemplativo.",
@@ -97,22 +89,6 @@
   },
   {
     "lista": "BV",
-    "arquivo": "BV__067.mp3",
-    "titulo": "AXÉ MUSIC",
-    "estilo": "2vF",
-    "autor": "José Berlange Andrade",
-    "descricao": ""
-  },
-  {
-    "lista": "BV",
-    "arquivo": "BV__068.mp3",
-    "titulo": "AXÉ MUSIC",
-    "estilo": "3vM",
-    "autor": "José Berlange Andrade",
-    "descricao": ""
-  },
-  {
-    "lista": "BV",
     "arquivo": "BV__069.mp3",
     "titulo": "AXÉ MUSIC",
     "estilo": "4vM",
@@ -129,22 +105,6 @@
   },
   {
     "lista": "BV",
-    "arquivo": "BV__071.mp3",
-    "titulo": "BACHATA",
-    "estilo": "Romantismo caribenho curtido com guitarra e saudade",
-    "autor": "José Berlange Andrade",
-    "descricao": ""
-  },
-  {
-    "lista": "BV",
-    "arquivo": "BV__072.mp3",
-    "titulo": "BACHATA",
-    "estilo": "Romantismo caribenho entregue com guitarra e saudade",
-    "autor": "José Berlange Andrade",
-    "descricao": ""
-  },
-  {
-    "lista": "BV",
     "arquivo": "BV__073.mp3",
     "titulo": "BACHATA",
     "estilo": "Romantismo caribenho servido com guitarra e saudade",
@@ -156,22 +116,6 @@
     "arquivo": "BV__074.mp3",
     "titulo": "BLACK RIO",
     "estilo": "1vF",
-    "autor": "José Berlange Andrade",
-    "descricao": ""
-  },
-  {
-    "lista": "BV",
-    "arquivo": "BV__075.mp3",
-    "titulo": "BLACK RIO",
-    "estilo": "2vF",
-    "autor": "José Berlange Andrade",
-    "descricao": ""
-  },
-  {
-    "lista": "BV",
-    "arquivo": "BV__076.mp3",
-    "titulo": "BLACK RIO",
-    "estilo": "3vF",
     "autor": "José Berlange Andrade",
     "descricao": ""
   },
@@ -204,22 +148,6 @@
     "arquivo": "BV__080.mp3",
     "titulo": "BLUES",
     "estilo": "Dor, alma e guitarra juntadas nos vales do Mississippi- EUA",
-    "autor": "José Berlange Andrade",
-    "descricao": ""
-  },
-  {
-    "lista": "BV",
-    "arquivo": "BV__081.mp3",
-    "titulo": "BLUES",
-    "estilo": "Dor, alma e guitarra nascidas no sul dos EUA",
-    "autor": "José Berlange Andrade",
-    "descricao": ""
-  },
-  {
-    "lista": "BV",
-    "arquivo": "BV__082.mp3",
-    "titulo": "BLUES",
-    "estilo": "Dor, alma e guitarra nascidas nos valses do  sul dos EUA",
     "autor": "José Berlange Andrade",
     "descricao": ""
   },
@@ -300,14 +228,6 @@
     "arquivo": "BV__100.mp3",
     "titulo": "CERTANEJO CAIPIRA",
     "estilo": "Minas Gerais atracada em cordas, montanhas e canto de ter",
-    "autor": "José Berlange Andrade",
-    "descricao": ""
-  },
-  {
-    "lista": "BV",
-    "arquivo": "BV__101.mp3",
-    "titulo": "CERTANEJO MODÃO",
-    "estilo": "Sofrência clássica - amor perdido e viola consolando a alma",
     "autor": "José Berlange Andrade",
     "descricao": ""
   },
