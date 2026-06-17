@@ -142,13 +142,109 @@
     "estilo": "Rock",
     "descricao": "Beradeiras",
     "imagem": ""
-  },
+  }, 
   {
     "tituloID": "BA__020",
     "titulo": "Por do Sol Carmim",
     "autor": "Zeca Berlange",
     "estilo": "MPB",
     "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__021",
+    "titulo": "Ainda Há Verão No Coração",
+    "autor": "Zeca Berlange",
+    "estilo": "Pagode",
+    "descricao": "Beradeiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__022",
+    "titulo": "Colosso Desconhecido",
+    "autor": "Zé Maria Ortiz & Zeca Berlange",
+    "estilo": "Toada",
+    "descricao": "Beradeiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__023",
+    "titulo": "Metade Do Que Sou",
+    "autor": "Antônio D'Amaral Basinho & Zeca Berlange",
+    "estilo": "MPB",
+    "descricao": "Beradeiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__024",
+    "titulo": "O Boi no Tacacá",
+    "autor": "Zeca Berlange",
+    "estilo": "Forró",
+    "descricao": "Beradeiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__025",
+    "titulo": "O Boi no Tacacá I",
+    "autor": "Zeca Berlange",
+    "estilo": "Toada",
+    "descricao": "Beradeiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__026",
+    "titulo": "Guerreira do Coração",
+    "autor": "Zeca Berlange",
+    "estilo": "Sertanejo",
+    "descricao": "Beradeiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__027",
+    "titulo": "Coração de Portas Abertas",
+    "autor": "Zeca Berlange",
+    "estilo": "Sertanejo",
+    "descricao": "Beradeiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__028",
+    "titulo": "My brother JKK",
+    "autor": "Zeca Berlange",
+    "estilo": "Rock",
+    "descricao": "Beradeiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__029",
+    "titulo": "Jorge Meu Maninho",
+    "autor": "Zeca Berlange",
+    "estilo": "Rock",
+    "descricao": "Beradeiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__030",
+    "titulo": "eliz Aniversário Néia",
+    "autor": "Zeca Berlange",
+    "estilo": "Rock",
+    "descricao": "Beradeiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__031",
+    "titulo": "Cintus Melody Cintruen",
+    "autor": "Zeca Berlange",
+    "estilo": "Rock",
+    "descricao": "Beradeiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__032",
+    "titulo": "Cintus Melody Citruans",
+    "autor": "Zeca Berlange",
+    "estilo": "Rock",
+    "descricao": "Beradeiras",
     "imagem": ""
   }
  ]
