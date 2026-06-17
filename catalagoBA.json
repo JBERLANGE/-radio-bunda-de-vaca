@@ -1,0 +1,250 @@
+[
+  {
+    "tituloID": "BA__001",
+    "titulo": "Meditação Cósmica",
+    "autor": "Zeca Berlange",
+    "estilo": "Goslpel Pop",
+    "descricao": "Praieiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__007",
+    "titulo": "Ode ao Centro do Mundo",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "Praieiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__008",
+    "titulo": "Gratidão Gaya",
+    "autor": "Zeca Berlange",
+    "estilo": "Gospel pop",
+    "descricao": "Praieiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__009",
+    "titulo": " Vaca da Balsa",
+    "autor": "Zeca Berlange",
+    "estilo": "Samba beradeiro",
+    "descricao": "Beradeiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__012",
+    "titulo": "Yara",
+    "autor": "Raul Andrade",
+    "estilo": "Valsa",
+    "descricao": "Pioneiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__002",
+    "titulo": "O Amor Paira no Ar",
+    "autor": "Zeca Berlange & Zé Maria Ortiz",
+    "estilo": "MPB",
+    "descricao": "Beradeiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__003",
+    "titulo": "Travessia Musical",
+    "autor": "Hélio Machado & Zeca Berlange",
+    "estilo": "MPB",
+    "descricao": "Panataneiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__004",
+    "titulo": "Uma Alma Livre na Dança",
+    "autor": "Jorge M Batista & Zeca Berlange",
+    "estilo": "Sertanejo",
+    "descricao": "Pantaneiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__005",
+    "titulo": "Volta ao Lar",
+    "autor": "Antônio D'Amaral Basinho",
+    "estilo": "Samba Canção",
+    "descricao": "Beradeiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__006",
+    "titulo": "Volta Conquistador",
+    "autor": "Zeca Berlange",
+    "estilo": "Sertanejo",
+    "descricao": "Beradeiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__010",
+    "titulo": "Poesia de Cada Dia",
+    "autor": "Antônio D'Amaral Basinho",
+    "estilo": "Valsa Pop",
+    "descricao": "Beradeiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__011",
+    "titulo": "A Sexta Vez",
+    "autor": "Zé Maria Ortiz",
+    "estilo": "MPB",
+    "descricao": "Beradeiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__013",
+    "titulo": "Grito Solidão",
+    "autor": "Heitor Almeida",
+    "estilo": "MPB",
+    "descricao": "Beradeiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__014",
+    "titulo": "Ipê Dourado",
+    "autor": "Pedro Batistote & Zeca Berlange",
+    "estilo": "Sertanejo douradense",
+    "descricao": "Pantaneiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__015",
+    "titulo": "Pula no Meu Peito Morena",
+    "autor": "Zeca Berlange & Wagner Sávio",
+    "estilo": "Guarânia",
+    "descricao": "Pantaneiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__016",
+    "titulo": "Divinding Street na Beira do Madeira",
+    "autor": "Zeca Berlange",
+    "estilo": "Reggae + Toada bumbá",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__017",
+    "titulo": "Vida de Vivente das Estradas",
+    "autor": "Paulo Brum & Zeca Berlange",
+    "estilo": "Chamamé",
+    "descricao": "Pantaneiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__019",
+    "titulo": "Filho é Rock and Roll",
+    "autor": "Antônio D'Amaral Basinho & Zeca Berlange",
+    "estilo": "Rock",
+    "descricao": "Beradeiras",
+    "imagem": ""
+  }, 
+  {
+    "tituloID": "BA__020",
+    "titulo": "Por do Sol Carmim",
+    "autor": "Zeca Berlange",
+    "estilo": "MPB",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__021",
+    "titulo": "Ainda Há Verão No Coração",
+    "autor": "Zeca Berlange",
+    "estilo": "Pagode",
+    "descricao": "Beradeiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__022",
+    "titulo": "Colosso Desconhecido",
+    "autor": "Zé Maria Ortiz & Zeca Berlange",
+    "estilo": "Toada",
+    "descricao": "Beradeiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__023",
+    "titulo": "Metade Do Que Sou",
+    "autor": "Antônio D'Amaral Basinho & Zeca Berlange",
+    "estilo": "MPB",
+    "descricao": "Beradeiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__024",
+    "titulo": "O Boi no Tacacá",
+    "autor": "Zeca Berlange",
+    "estilo": "Forró",
+    "descricao": "Beradeiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__025",
+    "titulo": "O Boi no Tacacá I",
+    "autor": "Zeca Berlange",
+    "estilo": "Toada",
+    "descricao": "Beradeiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__026",
+    "titulo": "Guerreira do Coração",
+    "autor": "Zeca Berlange",
+    "estilo": "Sertanejo",
+    "descricao": "Beradeiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__027",
+    "titulo": "Coração de Portas Abertas",
+    "autor": "Zeca Berlange",
+    "estilo": "Sertanejo",
+    "descricao": "Beradeiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__028",
+    "titulo": "My brother JKK",
+    "autor": "Zeca Berlange",
+    "estilo": "Rock",
+    "descricao": "Beradeiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__029",
+    "titulo": "Jorge Meu Maninho",
+    "autor": "Zeca Berlange",
+    "estilo": "Rock",
+    "descricao": "Beradeiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__030",
+    "titulo": "Feliz Aniversário Néia",
+    "autor": "Zeca Berlange",
+    "estilo": "Rock",
+    "descricao": "Beradeiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__031",
+    "titulo": "Cintus Melody Cintruen",
+    "autor": "Zeca Berlange",
+    "estilo": "Rock",
+    "descricao": "Beradeiras",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__032",
+    "titulo": "Cintus Melody Citruans",
+    "autor": "Zeca Berlange",
+    "estilo": "Rock",
+    "descricao": "Beradeiras",
+    "imagem": ""
+  }
+ ]
