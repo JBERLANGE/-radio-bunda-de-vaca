@@ -649,6 +649,8 @@ function criarPlayerCatalogo(item, destino) {
 
   audio.addEventListener("play", () => {
     
+    console.log("LISTA:", item.lista);
+    
     if (item.lista === "BD") {
 
   mostrarCapa(
