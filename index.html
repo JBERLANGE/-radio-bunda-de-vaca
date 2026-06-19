@@ -811,17 +811,17 @@ function mostrarCapa(mp3, elementoImagem) {
 
     onSuccess: function(tag) {
 
-      const picture = tag.tags.picture;
+  console.log("TAGS:", tag.tags);
 
-      if (!picture) return;
+  const picture = tag.tags.picture;
 
-      let base64String = "";
+  if (!picture) {
+    console.log("SEM CAPA");
+    return;
+  }
 
-      for (let i = 0; i < picture.data.length; i++) {
-        base64String += String.fromCharCode(
-          picture.data[i]
-        );
-      }
+  console.log("CAPA ENCONTRADA");
+      
 
       const imageUri =
         "data:" +
