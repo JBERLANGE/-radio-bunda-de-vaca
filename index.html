@@ -807,6 +807,8 @@ document.querySelector(".painel-radio")
 
 function mostrarCapa(mp3, elementoImagem) {
 
+  console.log("MOSTRAR CAPA CHAMADA:", mp3);
+
   jsmediatags.read(mp3, {
 
     onSuccess: function(tag) {
