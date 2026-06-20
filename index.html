@@ -651,20 +651,14 @@ function criarPlayerCatalogo(item, destino) {
     
     console.log("LISTA:", item.lista);
     
-    if (item.lista === "BD") {
+if (item.lista === "BD" && item.capa) {
+  document.getElementById("capaEsquerda").src =
+    "capas/" + item.capa;
+}
 
-  mostrarCapa(
-    source.src,
-    document.getElementById("capaEsquerda")
-  );
-
-} else if (item.lista === "BV") {
-
-  mostrarCapa(
-    source.src,
-    document.getElementById("capaDireita")
-  );
-
+if (item.lista === "BV" && item.capa) {
+  document.getElementById("capaDireita").src =
+    "capas/" + item.capa;
 }
     
     audioAbertura.pause();
