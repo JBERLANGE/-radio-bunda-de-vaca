@@ -4,8 +4,8 @@
     "titulo": "Ode ao Centro do Mundo",
     "autor": "Zeca Berlange",
     "estilo": "Gospel pop",
-    "descricao": "",
-    "imagem": "José Berlange Andrade & José Maria Ortiz de Carvalho"
+    "descricao": "José Berlange Andrade",
+    "capa": "BD__042.jpg"
   },
   {
     "tituloID": "BD__023",
@@ -13,7 +13,7 @@
     "autor": "Zeca Berlange",
     "estilo": "Gospel Pop",
     "descricao": "",
-    "imagem": ""
+    "capa": "BD__023.jpg"
   },
   {
     "tituloID": "BD__061",
@@ -21,7 +21,7 @@
     "autor": "Zeca Berlange",
     "estilo": "",
     "descricao": "",
-    "imagem": ""
+    "capa": "BD__061.jpg"
   },
   {
     "tituloID": "BD__017",
@@ -29,7 +29,7 @@
     "autor": "Antônio D'Amaral Basinho",
     "estilo": "",
     "descricao": "",
-    "imagem": ""
+    "capa": "BD__017.jpg"
  },
  {
     "tituloID": "BD__071",
@@ -37,7 +37,7 @@
     "autor": " Zé Maria Ortiz",
     "estilo": "Samba Exaltação",
     "descricao": "",
-    "imagem": ""
+    "capa": "BD__071.jpg"
 },
  {
     "tituloID": "BD__033",
@@ -45,7 +45,7 @@
     "autor": "Igor Lucena",
     "estilo": "MPB beradeira",
     "descricao": "",
-    "imagem": ""
+    "capa": "BD__033.jpg"
  },
  {
     "tituloID": "BD__024",
@@ -53,7 +53,7 @@
     "autor": "Heitor Almeida",
     "estilo": "MPB beradeira",
     "descricao": "",
-    "imagem": ""
+    "capa": "BD__024.jpg"
  },
  {
     "tituloID": "BD__026",
@@ -61,7 +61,7 @@
     "autor": "Pedro Batistote Jr & Zeca Berlange",
     "estilo": "Sertanejo universtiário",
     "descricao": "",
-    "imagem": ""
+    "capa": "BD__026.jpg"
  },
  {
     "tituloID": "BD__032",
@@ -69,7 +69,7 @@
     "autor": "Zeca Berlange & Zé Maria Ortiz",
     "estilo": "MPB",
     "descricao": "",
-    "imagem": ""
+    "capa": "BD__032.jpg"
 },
 {
   "tituloID": "BD__068",
@@ -77,7 +77,7 @@
   "autor": "Antônio D'amaral Basinho",
   "estilo": "Caribenha",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__068.jpg"
 },
 {
   "tituloID": "BD__030",
@@ -85,7 +85,7 @@
   "autor": "Zeca Berlange",
   "estilo": "Rock beradeiro",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__030.jpg"
  },
 {
   "tituloID": "BD__020",
@@ -93,7 +93,7 @@
   "autor": "Antônio D'Amaral Basinho & Zeca Berlange",
   "estilo": "",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__020.jpg"
 },
  {
     "tituloID": "BD__038",
@@ -101,7 +101,7 @@
     "autor": "Zé Maria Ortiz & Zeca Berlange",
     "estilo": "Samba-Canção",
     "descricao": "",
-    "imagem": ""
+    "capa": "BD__038.jpg"
   },
   {
     "tituloID": "BD__005",
@@ -109,7 +109,7 @@
     "autor": "Zeca Berlange & Zé Maria Ortiz",
     "estilo": "MPB",
     "descricao": "",
-    "imagem": "José Berlange Andrade & José Maria Ortiz de Carvalho"
+    "capa": "BD__005.jpg"
   },
   {
     "tituloID": "BD__003",
@@ -117,7 +117,7 @@
     "autor": "Zeca Berlange",
     "estilo": "",
     "descricao": "",
-    "imagem": ""
+    "capa": "BD__003.jpg"
   },
   {
     "tituloID": "BD__016",
@@ -125,7 +125,7 @@
     "autor": "Zeca Berlange",
     "estilo": "",
     "descricao": "",
-    "imagem": ""
+    "capa": "BD__016.jpg"
   },
   {
     "tituloID": "BD__070",
@@ -133,7 +133,7 @@
     "autor": "Zeca Berlange",
     "estilo": "Pagode Romântico",
     "descricao": "",
-    "imagem": ""
+    "capa": "BD__070.jpg"
  },
  {
     "tituloID": "BD__022",
@@ -141,7 +141,7 @@
     "autor": "Zé Maria Ortiz",
     "estilo": "MPB",
     "descricao": "",
-    "imagem": ""
+    "capa": "BD__022.jpg"
  },
  {
     "tituloID": "BD__040",
@@ -149,7 +149,7 @@
     "autor": "Antônio D'Amaral Basinho & Zeca Berlange",
     "estilo": "Folk NE",
     "descricao": "",
-    "imagem": ""
+    "capa": "BD__040.jpg"
 },
 {
   "tituloID": "BD__006",
@@ -157,7 +157,7 @@
   "autor": "Zé Maria Ortiz",
   "estilo": "",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__006.jpg"
 },
 {
 "tituloID": "BD__082",
@@ -165,7 +165,7 @@
   "autor": "Antônio D'Amaral Basinho ",
   "estilo": "Samba",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__082.jpg"
 },
 {
   "tituloID": "BD__007",
@@ -173,7 +173,7 @@
   "autor": "Antônio D'Amaral Basinho & Zeca Berlange",
   "estilo": "",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__007.jpg"
 },
 {
   "tituloID": "BD__065",
@@ -181,7 +181,7 @@
   "autor": "Darkiana",
   "estilo": "Sertanejo sofrência",
   "descricao": "Autoria de Zeca Berlange",
-  "imagem": ""
+  "capa": "BD__065.jpg"
 },
 {
   "tituloID": "BD__077",
@@ -189,7 +189,7 @@
   "autor": "Zeca Berlange",
   "estilo": "",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__077.jpg"
 },
 {
   "tituloID": "BD__009",
@@ -197,7 +197,7 @@
   "autor": "Antônio D'Amaral Basinho",
   "estilo": "",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__009.jpg"
 },
 {
 "tituloID": "BD__083",
@@ -205,7 +205,7 @@
   "autor": "Antônio D'Amaral Basinho",
   "estilo": "Pagode para Joana",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__083.jpg"
 },
 {
   "tituloID": "BD__010",
@@ -213,7 +213,7 @@
   "autor": "Zé Maria Ortiz",
   "estilo": "",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__010.jpg"
 },
 {
   "tituloID": "BD__011",
@@ -221,7 +221,7 @@
   "autor": "Antônio D'Amaral Basinho & Zeca Berlange",
   "estilo": "",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__011.jpg""
 },
 {
   "tituloID": "BD__012",
@@ -229,7 +229,7 @@
   "autor": "Antônio D'Amaral Basinho & Zeca Berlabnge",
   "estilo": "",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__012.jpg"
 },
 {
   "tituloID": "BD__013",
@@ -237,7 +237,7 @@
   "autor": "Zé Maria Ortiz",
   "estilo": "",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__013.jpg"
 },
 {
   "tituloID": "BD__014",
@@ -245,7 +245,7 @@
   "autor": "Antônio D'Amaral Basinho & Zeca Berlange",
   "estilo": "",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__014.jpg"
 },
 {
   "tituloID": "BD__015",
@@ -253,15 +253,7 @@
   "autor": "Zeca Berlange",
   "estilo": "Toadarimbó+Reggae",
   "descricao": "",
-  "imagem": "Mistura de Carimbó, Toada de Boi-Bumbá e Reggae"
-},
-{
-  "tituloID": "BD__039",
-  "titulo": "¿Dónde está tu, Berlange?",
-  "autor": "Antônio D'Amaral Basinho",
-  "estilo": "",
-  "descricao": "",
-  "imagem": ""
+  "capa": "BD__015.jpg"
 },
 {
   "tituloID": "BD__018",
@@ -269,7 +261,7 @@
   "autor": "Zeca Berlange & Antônio D'Amaral Basinho",
   "estilo": "",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__018.jpg"
 },
 {
   "tituloID": "BD__019",
@@ -277,7 +269,7 @@
   "autor": "Zeca Berlange",
   "estilo": "Bossa Nova",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__019.jpg"
 },
 {
   "tituloID": "BD__027",
@@ -285,7 +277,7 @@
   "autor": "Antônio D'Amaral Basinho",
   "estilo": "",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__027.jpg"
 },
 {
   "tituloID": "BD__031",
@@ -293,7 +285,7 @@
   "autor": "Antony Medina Zeca Berlange",
   "estilo": "MPB",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__031.jpg"
 },
 {
 "tituloID": "BD__081",
@@ -301,7 +293,7 @@
   "autor": "Zeca Berlange",
   "estilo": "Rock beradeiro",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__081.jpg"
 },
 {
   "tituloID": "BD__035",
@@ -309,7 +301,7 @@
   "autor": "Antônio D'Amaral Basinho & Zeca Berlange",
   "estilo": "",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__035.jpg"
 },
 {
   "tituloID": "BD__037",
@@ -317,7 +309,7 @@
   "autor": "Antônio D'Amaral Basinho, Zeca Berlange & Dimes Braga",
   "estilo": "MPB mix Toada-bumbá",
   "descricao": "",
-  "imagem": "Antônio Serpa do Amaral Filho + José Berlange Andrade + Dimes Braga"
+  "capa": "BD__037.jpg" 
 },
 {
   "tituloID": "BD__069",
@@ -325,7 +317,7 @@
   "autor": "Zé Maria Ortiz & Zeca Berlange",
   "estilo": "",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__069.jpg"
 },
 {
   "tituloID": "BD__041",
@@ -333,7 +325,7 @@
   "autor": "Zé Maria Ortiz & Zeca Berlange",
   "estilo": "Axé music",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__041.jpg"
 },
 {
   "tituloID": "BD__043",
@@ -341,7 +333,7 @@
   "autor": "Zeca Berlange",
   "estilo": "Forró",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__043.jpg"
 },
 {
   "tituloID": "BD__044",
@@ -349,7 +341,7 @@
   "autor": "Antônio D'Amaral Basinho & Zeca Berlange",
   "estilo": "Pantaneira",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__044.jpg"
 },
 {
   "tituloID": "BD__080",
@@ -357,7 +349,7 @@
   "autor": "Zé Maria Ortiz",
   "estilo": "Sertanejo",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__080.jpg"
 },
 {
   "tituloID": "BD__045",
@@ -365,7 +357,7 @@
   "autor": "Zeca Berlange",
   "estilo": "MPB",
   "descricao": "",
-  "imagem": "autoria: Jose Berlange Andrade"
+  "capa": "BD__045.jpg" 
 },
 {
   "tituloID": "BD__046",
@@ -373,7 +365,7 @@
   "autor": "Zeca Berlange & Wagner Sávio",
   "estilo": "Guarânia+Toada",
   "descricao": "",
-  "imagem": "José Berlange Andrade & Wagner Sávio Severino"
+  "capa": "BD__046.jpg" 
 },
 {
   "tituloID": "BD__047",
@@ -381,7 +373,7 @@
   "autor": "Antônio D'Amaral Basinho",
   "estilo": "Samba",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__047.jpg"
 },
 {
   "tituloID": "BD__048",
@@ -389,7 +381,7 @@
   "autor": "Zeca Berlange",
   "estilo": "",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__048.jpg"
 },
 {
   "tituloID": "BD__049",
@@ -397,7 +389,7 @@
   "autor": "Zé Maria Ortiz",
   "estilo": "Samba",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__049.jpg"
 },
 {
   "tituloID": "BD__050",
@@ -405,7 +397,7 @@
   "autor": "Zé Maria Ortiz",
   "estilo": "Samba",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__050.jpg"
 },
 {
   "tituloID": "BD__051",
@@ -413,7 +405,7 @@
   "autor": "Marcos Capu & Zeca Berlange",
   "estilo": "Gospel pop",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__051.jpg"
 },
 {
   "tituloID": "BD__052",
@@ -421,7 +413,7 @@
   "autor": "Hamilton M Batista & Zeca Berlange",
   "estilo": "MPB",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__052.jpg"
 },
 {
   "tituloID": "BD__053",
@@ -429,7 +421,7 @@
   "autor": "Zé Maria Ortiz",
   "estilo": "Samba",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__053.jpg"
 },
 {
   "tituloID": "BD__054",
@@ -437,7 +429,7 @@
   "autor": "Antônio D'Amaral Basinho & Zeca Berlange",
   "estilo": "MPB",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__054.jpg"
 },
 {
   "tituloID": "BD__056",
@@ -445,7 +437,7 @@
   "autor": "Zeca Berlange",
   "estilo": "Reggae beradeiro",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__056.jpg"
 },
 {
   "tituloID": "BD__057",
@@ -453,7 +445,7 @@
   "autor": "Hélio D'Rosa Machado & Zeca Berlange",
   "estilo": "MPB mineira",
   "descricao": "",
-  "imagem": "Letra inspirada num texto de Hélio Machado e melodia de Zeca Berlange"
+  "capa": "BD__057.jpg" 
 },
 {
   "tituloID": "BD__058",
@@ -461,7 +453,7 @@
   "autor": "Jorge M Batista & Zeca Berlange",
   "estilo": "Certanejo pantaneira",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__058.jpg"
 },
 {
   "tituloID": "BD__060",
@@ -469,7 +461,7 @@
   "autor": "Zeca Berlange & Paulo Brum",
   "estilo": "Chamamé",
   "descricao": "",
-  "imagem": "José Berlange Andade & Paulo Roberto Brum"
+  "capa": "BD__060.jpg" 
 },
 {
   "tituloID": "BD__061",
@@ -477,7 +469,7 @@
   "autor": "Zeca Berlange",
   "estilo": "Guarânia pantaneira",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__061.jpg"
 },
 {
   "tituloID": "BD__062",
@@ -485,7 +477,7 @@
   "autor": "Antônio D'Amaral Basinho",
   "estilo": "Samba-Canção",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__062.jpg"
 },
 {
   "tituloID": "BD__063",
@@ -493,7 +485,7 @@
   "autor": "Zeca Berlange & Edgley Queiroz",
   "estilo": "Samba-Canção",
   "descricao": "",
-  "imagem": "Letra inspirada num texto de Hélio Machado e melodia de Zeca Berlange"
+  "capa": "BD__063.jpg"
 },
 {
   "tituloID": "BD__064",
@@ -501,7 +493,7 @@
   "autor": "Zeca Berlange",
   "estilo": "Bolero",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__064.jpg"
 },
 {
   "tituloID": "BD__066",
@@ -509,7 +501,7 @@
   "autor": "Antônio D'Amaral Basinho",
   "estilo": "Samba",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__066.jpg"
 },
 {
   "tituloID": "BD__067",
@@ -517,7 +509,7 @@
   "autor": "Zeca Berlange",
   "estilo": "MPB beradeira",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__067.jpg"
 },
 {
     "tituloID": "BD__068",
@@ -525,7 +517,7 @@
     "autor": "Zeca Berlange",
     "estilo": "",
     "descricao": "",
-    "imagem": ""
+    "capa": "BD__068.jpg"
  },
  {
     "tituloID": "BD__004",
@@ -533,7 +525,7 @@
     "autor": "Zeca Berlange",
     "estilo": "",
     "descricao": "",
-    "imagem": ""
+    "capa": "BD__004.jpg"
  },
  {
   "tituloID": "BD__021",
@@ -541,7 +533,7 @@
   "autor": "Zeca Berlange",
   "estilo": "Forró",
   "descricao": "",
-  "imagem": "Homenagem aos 70 anos da irmã Vânia"
+  "capa": "BD__021.jpg"
 },
 {
   "tituloID": "BD__008",
@@ -549,7 +541,7 @@
   "autor": "Zeca Berlange & Zé Maria Ortiz",
   "estilo": "",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__008.jpg"
 },
 {
   "tituloID": "BD__025",
@@ -557,7 +549,7 @@
   "autor": "Zé Maria Ortiz & Zeca Berlange",
   "estilo": "Infantojuvenil",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__025.jpg"
 },
 {
   "tituloID": "BD__029",
@@ -565,7 +557,7 @@
   "autor": "Zé Maria Ortiz & Zeca Berlange",
   "estilo": "Infantojuvenil",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__029.jpg"
 },
 {
   "tituloID": "BD__055",
@@ -573,7 +565,7 @@
   "autor": "Zeca Berlange",
   "estilo": "",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__055.jpg"
 },
 {
   "tituloID": "BD__059",
@@ -581,7 +573,7 @@
   "autor": "Antônio D'Amaral Basinho & Zeca Berlange",
   "estilo": "Valsa",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__059.jpg"
 },
 {
   "tituloID": "BD__072",
@@ -589,7 +581,7 @@
   "autor": "Zeca Berlange",
   "estilo": "",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__072.jpg"
 },
 {
   "tituloID": "BD__073",
@@ -597,7 +589,7 @@
   "autor": "Zeca Berlange",
   "estilo": "",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__073.jpg"
 },
 {
   "tituloID": "BD__074",
@@ -605,7 +597,7 @@
   "autor": "Zeca Berlange",
   "estilo": "",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__074.jpg"
 },
 {
   "tituloID": "BD__028",
@@ -613,7 +605,7 @@
   "autor": "Zeca Berlange",
   "estilo": "Bossa Nova",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__028.jpg"
 },
 {
   "tituloID": "BD__075",
@@ -621,7 +613,7 @@
   "autor": "Zeca Berlange",
   "estilo": "",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__075.jpg"
 },
 {
   "tituloID": "BD__076",
@@ -629,7 +621,7 @@
   "autor": "Zeca Berlange",
   "estilo": "",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__076.jpg"
 },
 {
   "tituloID": "BD__078",
@@ -637,7 +629,7 @@
   "autor": "Zeca Berlange",
   "estilo": "",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__078.jpg"
 },
 {
   "tituloID": "BD__079",
@@ -645,7 +637,7 @@
   "autor": "Zeca Berlange",
   "estilo": "",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__079.jpg"
 },
 {
   "tituloID": "BD__036",
@@ -653,7 +645,6 @@
   "autor": "Edgley Queiroz",
   "estilo": "Samba",
   "descricao": "",
-  "imagem": ""
+  "capa": "BD__036.jpg"
 }
-
 ]
