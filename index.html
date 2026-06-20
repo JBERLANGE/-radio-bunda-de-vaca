@@ -653,12 +653,12 @@ function criarPlayerCatalogo(item, destino) {
     
     console.log("CAPA:", item.capa);
     
-if (item.lista === "BD" && item.capa) {
+if (item.tituloID.startsWith("BD__") && item.capa) {
   document.getElementById("capaEsquerda").src =
     "capas/" + item.capa;
 }
 
-if (item.lista === "BV" && item.capa) {
+if (item.tituloID.startsWith("BV__") && item.capa) {
   document.getElementById("capaDireita").src =
     "capas/" + item.capa;
 }
