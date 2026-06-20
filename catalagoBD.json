@@ -86,7 +86,7 @@
   "estilo": "Rock beradeiro",
   "descricao": "",
   "capa": "BD__030.jpg"
- },
+},
 {
   "tituloID": "BD__020",
   "titulo": "Filho é Rock and Roll",
@@ -95,7 +95,7 @@
   "descricao": "",
   "capa": "BD__020.jpg"
 },
- {
+{
     "tituloID": "BD__038",
     "titulo": "Nosso Amor é Diferente",
     "autor": "Zé Maria Ortiz & Zeca Berlange",
@@ -200,8 +200,8 @@
   "capa": "BD__009.jpg"
 },
 {
-"tituloID": "BD__083",
- "titulo": "Calamengau ",
+  "tituloID": "BD__083",
+  "titulo": "Calamengau ",
   "autor": "Antônio D'Amaral Basinho",
   "estilo": "Pagode para Joana",
   "descricao": "",
@@ -221,7 +221,7 @@
   "autor": "Antônio D'Amaral Basinho & Zeca Berlange",
   "estilo": "",
   "descricao": "",
-  "capa": "BD__011.jpg""
+  "capa": "BD__011.jpg"
 },
 {
   "tituloID": "BD__012",
