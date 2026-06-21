@@ -656,6 +656,8 @@ function criarPlayerCatalogo(item, destino) {
 if (item.tituloID.startsWith("BD__") && item.capa) {
   document.getElementById("capaEsquerda").src =
     "capas/" + item.capa;
+  document.getElementById("capaEsquerda").alt = item.desc;
+  
 }
 
 if (item.tituloID.startsWith("BV__") && item.capa) {
