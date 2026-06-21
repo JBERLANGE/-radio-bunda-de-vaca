@@ -333,7 +333,7 @@ small {
   <div class="tocando-agora">
     <h2>🎙️ Tocando agora</h2>
     <h3 id="musicaAtual">Nenhuma música em execução</h3>
-    <p id="descricaoAtual">
+    <p id="ricaoAtual">
       acervo musical autoral amazônida-beradeiro
     </p>
 
@@ -418,7 +418,7 @@ function limparTitulo(nomeArquivo) {
   let nome = nomeArquivo.replace(/\.[^/.]+$/, "");
   let partes = nome.split("__");
 
-  let estilo = partes[1] || "Desconhecido";
+  let estilo = partes[1] || "onhecido";
   let descricao = partes[2] || "";
 
   estilo = estilo.replace(/_/g, " ");
@@ -656,7 +656,7 @@ function criarPlayerCatalogo(item, destino) {
 if (item.tituloID.startsWith("BD__") && item.capa) {
   document.getElementById("capaEsquerda").src =
     "capas/" + item.capa;
-  document.getElementById("capaEsquerda").alt = item.desc;
+  document.getElementById("capaEsquerda").alt = item.descricao;
   
 }
 
