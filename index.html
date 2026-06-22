@@ -649,15 +649,13 @@ function criarPlayerCatalogo(item, destino) {
 
   audio.addEventListener("play", () => {
     
-    console.log("DESCRICAO:", item.descricao);
-    
+       
     console.log("CAPA:", item.capa);
     
 if (item.tituloID.startsWith("BD__") && item.capa) {
   document.getElementById("capaEsquerda").src =
     "capas/" + item.capa;
-  document.getElementById("capaEsquerda").alt = item.descricao;
-  
+   
 }
 
 if (item.tituloID.startsWith("BV__") && item.capa) {
