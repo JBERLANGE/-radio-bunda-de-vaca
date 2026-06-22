@@ -86,7 +86,7 @@
   "estilo": "Rock beradeiro",
   "descricao": "",
   "capa": "BD__030.jpg"
-},
+ },
 {
   "tituloID": "BD__020",
   "titulo": "Filho é Rock and Roll",
@@ -95,7 +95,7 @@
   "descricao": "",
   "capa": "BD__020.jpg"
 },
-{
+ {
     "tituloID": "BD__038",
     "titulo": "Nosso Amor é Diferente",
     "autor": "Zé Maria Ortiz & Zeca Berlange",
@@ -200,8 +200,8 @@
   "capa": "BD__009.jpg"
 },
 {
-  "tituloID": "BD__083",
-  "titulo": "Calamengau ",
+"tituloID": "BD__083",
+ "titulo": "Calamengau ",
   "autor": "Antônio D'Amaral Basinho",
   "estilo": "Pagode para Joana",
   "descricao": "",
@@ -221,7 +221,7 @@
   "autor": "Antônio D'Amaral Basinho & Zeca Berlange",
   "estilo": "",
   "descricao": "",
-  "capa": "BD__011.jpg"
+  "capa": "BD__011.jpg""
 },
 {
   "tituloID": "BD__012",
@@ -254,6 +254,14 @@
   "estilo": "Toadarimbó+Reggae",
   "descricao": "",
   "capa": "BD__015.jpg"
+},
+{
+  "tituloID": "BD__086"
+  "titulo": "A Dor Consome",
+  "autor": "Antônio D'Amaral Basinho",
+  "estilo": "",
+  "descricao": "",
+  "capa": "BD__086.jpg"
 },
 {
   "tituloID": "BD__018",
@@ -432,6 +440,14 @@
   "capa": "BD__054.jpg"
 },
 {
+  "tituloID": "BD__084",
+  "titulo": "Tamarineira Chorou",
+  "autor": "Antônio D'Amaral Basinho",
+  "estilo": "Samba",
+  "descricao": "Homenagem a Arlindo Cruz",
+  "capa": "BD__084.jpg"
+},
+{
   "tituloID": "BD__056",
   "titulo": "Terra Rara e Caos Alaranjado",
   "autor": "Zeca Berlange",
@@ -495,6 +511,15 @@
   "descricao": "",
   "capa": "BD__066.jpg"
 },
+{
+  "tituloID": "BD__085",
+  "titulo": "Zumbi Gritou",
+  "autor": "Antônio D'Amaral Basinho",
+  "estilo": "Samba",
+  "descricao": "",
+  "capa": "BD__085.jpg"
+},
+
 {
   "tituloID": "BD__067",
   "titulo": "Yolanda e as Três Marias",
