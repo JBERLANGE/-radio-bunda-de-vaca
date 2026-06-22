@@ -248,14 +248,22 @@
     "capa": "BD__014.jpg"
   },
   {
+  "tituloID": "BD__087",
+  "titulo": "Deus Criou o Mundo",
+  "autor": "Antônio Neno",
+  "estilo": "Gospel",
+  "descricao": "",
+  "capa": "BD__087.jpg"
+ },
+ {
     "tituloID": "BD__015",
     "titulo": "Divinding Street  Na Beira do Madeira",
     "autor": "Zeca Berlange",
     "estilo": "Toadarimbó+Reggae",
     "descricao": "",
     "capa": "BD__015.jpg"
-  },
-  {
+ },
+ {
     "tituloID": "BD__086",
     "titulo": "A Dor Consome",
     "autor": "Antônio D'Amaral Basinho",
@@ -296,6 +304,14 @@
     "capa": "BD__031.jpg"
   },
   {
+   "tituloID": "BD__090",
+   "titulo": "Mar de Aquário",
+   "autor": "Antônio Neno",
+   "estilo": "Gospel",
+   "descricao": "",
+   "capa": "BD__090.jpg"
+ },
+ {
     "tituloID": "BD__081",
     "titulo": "Mata o Pium",
     "autor": "Zeca Berlange",
@@ -432,6 +448,14 @@
     "capa": "BD__053.jpg"
   },
   {
+   "tituloID": "BD__088",
+   "titulo": "Solidão",
+   "autor": "Antônio Neno",
+   "estilo": "Gospel",
+   "descricao": "",
+   "capa": "BD__088.jpg"
+ },
+ {
     "tituloID": "BD__054",
     "titulo": "Solitude é Acalanto",
     "autor": "Antônio D'Amaral Basinho & Zeca Berlange",
