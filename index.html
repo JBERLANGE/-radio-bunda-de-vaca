@@ -308,8 +308,6 @@ small {
  
   <body>
 
- <script src="https://cdn.jsdelivr.net/npm/jsmediatags@3.9.7/dist/jsmediatags.min.js"></script>  
-   
 <div class="painel-radio">  
 
   <header>
@@ -805,40 +803,6 @@ document.querySelector(".painel-radio")
 });
 
 
-function mostrarCapa(mp3, elementoImagem) {
-
-  console.log("MOSTRAR CAPA CHAMADA:", mp3);
-
-  jsmediatags.read(mp3, {
-
-    onSuccess: function(tag) {
-
-  console.log("TAGS:", tag.tags);
-
-  const picture = tag.tags.picture;
-
-  if (!picture) {
-    console.log("SEM CAPA");
-    return;
-  }
-
-  console.log("CAPA ENCONTRADA");
-      
-
-      const imageUri =
-        "data:" +
-        picture.format +
-        ";base64," +
-        btoa(base64String);
-
-      elementoImagem.src = imageUri;
-    },
-
-    onError: function(error) {
-      console.log(error);
-    }
-  });
-}
 
     
 </script>
