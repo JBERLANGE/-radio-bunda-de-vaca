@@ -333,7 +333,7 @@ small {
   <div class="tocando-agora">
     <h2>🎙️ Tocando agora</h2>
     <h3 id="musicaAtual">Nenhuma música em execução</h3>
-    <p id="ricaoAtual">
+    <p id="descricaoAtual">
       acervo musical autoral amazônida-beradeiro
     </p>
 
@@ -647,36 +647,38 @@ function criarPlayerCatalogo(item, destino) {
     audio.play();
   };
 
-  audio.addEventListener("play", () => {
-    
-       
-    console.log("CAPA:", item.capa);
-    
-if (item.tituloID.startsWith("BD__") && item.capa) {
-  document.getElementById("capaEsquerda").src =
-    "capas/" + item.capa;
-   
-}
+ audio.addEventListener("play", () => {
 
-if (item.tituloID.startsWith("BV__") && item.capa) {
-  document.getElementById("capaDireita").src =
-    "capas/" + item.capa;
-}
-    
-    audioAbertura.pause();
-    audioAbertura.currentTime = 0;
-    indiceAtual = indiceMusica;
-
-    document.getElementById("musicaAtual").textContent = item.titulo;
-    document.getElementById("descricaoAtual").textContent =
-      [item.autor, item.estilo, item.descricao]
-        .filter(Boolean)
-        .join(" • ");
-
-    listaAudios.forEach((faixa, i) => {
-      if (i !== indiceAtual) faixa.audio.pause();
-    });
+  listaAudios.forEach((faixa, i) => {
+    if (i !== indiceMusica) {
+      faixa.audio.pause();
+      faixa.audio.currentTime = 0;
+    }
   });
+
+  audioAbertura.pause();
+  audioAbertura.currentTime = 0;
+  audioJingle.pause();
+  audioJingle.currentTime = 0;
+
+  indiceAtual = indiceMusica;
+
+  if (item.tituloID.startsWith("BD__") && item.capa) {
+    document.getElementById("capaEsquerda").src =
+      "capas/" + item.capa;
+  }
+
+  if (item.tituloID.startsWith("BV__") && item.capa) {
+    document.getElementById("capaDireita").src =
+      "capas/" + item.capa;
+  }
+
+  document.getElementById("musicaAtual").textContent = item.titulo;
+  document.getElementById("descricaoAtual").textContent =
+    [item.autor, item.estilo, item.descricao]
+      .filter(Boolean)
+      .join(" • ");
+});
 
   audio.addEventListener("ended", () => {
     contadorMusicas++;
