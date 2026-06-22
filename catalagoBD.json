@@ -39,7 +39,7 @@
     "descricao": "Melodia de José Berlange Andrade; Letra de José Maria Ortiz de Carvalho",
     "capa": "BD__071.jpg"
 },
- {
+{
     "tituloID": "BD__033",
     "titulo": "Madeira Meu Lugar",
     "autor": "Igor Lucena",
@@ -86,7 +86,7 @@
   "estilo": "Rock beradeiro",
   "descricao": "",
   "capa": "BD__030.jpg"
- },
+},
 {
   "tituloID": "BD__020",
   "titulo": "Filho é Rock and Roll",
@@ -95,7 +95,7 @@
   "descricao": "",
   "capa": "BD__020.jpg"
 },
- {
+{
     "tituloID": "BD__038",
     "titulo": "Nosso Amor é Diferente",
     "autor": "Zé Maria Ortiz & Zeca Berlange",
@@ -519,7 +519,6 @@
   "descricao": "",
   "capa": "BD__085.jpg"
 },
-
 {
   "tituloID": "BD__067",
   "titulo": "Yolanda e as Três Marias",
