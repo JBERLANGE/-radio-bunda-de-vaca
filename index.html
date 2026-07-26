@@ -616,7 +616,7 @@
         autor.textContent = item.autor || "";
 
         const desc = document.createElement("p");
-        desc.textContent = item.descricao || item.estilo || "";
+        desc.textContent = item.estilo || item.descricao || "";
 
         const audio = document.createElement("audio");
         audio.controls = true;
