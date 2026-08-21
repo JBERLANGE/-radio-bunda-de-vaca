@@ -480,7 +480,7 @@
         const item = listaAudios[indiceAtual];
 
         document.getElementById("musicaAtual").textContent = item.titulo;
-        document.getElementById("titulo-autor").textContent = "© " + item.descricao;
+        document.getElementById("nomeAutor").textContent = "© " + item.descricao;
         document.getElementById("descricaoAtual").textContent =
           [item.autor, item.descricao]
             .filter(Boolean)
