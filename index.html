@@ -675,6 +675,8 @@
           if (item.tituloID.startsWith("BD__") && item.capa) {
             document.getElementById("capaEsquerda").src =
               "capas/" + item.capa;
+            document.getElementById("nomeAutor").src =
+              "capas/" + item.descricao;
           }
 
           if (item.tituloID.startsWith("BV__") && item.capa) {
@@ -809,7 +811,7 @@
           const descricao =
             document.getElementById("descricaoAtual").textContent;
 
-          mostrarTooltipRadio(titulo, estilo);
+          mostrarTooltipRadio(titulo, descricao);
 
         });
 
