@@ -480,7 +480,7 @@
         const item = listaAudios[indiceAtual];
 
         document.getElementById("musicaAtual").textContent = item.titulo;
-        document.getElementById("titulo-autor").textContent = "© " + item.descricao;
+        document.getElementById("titulo-autor").textContent = "© " && item.descricao;
         document.getElementById("descricaoAtual").textContent =
           [item.autor, item.descricao]
             .filter(Boolean)
@@ -675,8 +675,7 @@
           if (item.tituloID.startsWith("BD__") && item.capa) {
             document.getElementById("capaEsquerda").src =
               "capas/" + item.capa;
-            document.getElementById("nomeAutor").src =
-              "capas/" + item.descricao;
+             
           }
 
           if (item.tituloID.startsWith("BV__") && item.capa) {
