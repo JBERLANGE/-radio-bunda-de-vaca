@@ -351,7 +351,7 @@
         </div>
           <div class="titulo-autor">
            <p id="nomeAutor">
-            "© protegido pelo Direito Autoral"
+            © protegido pelo Direito Autoral
             </p>
           </div>
         
@@ -474,11 +474,13 @@
         document.getElementById("musicaAtual").textContent = "Rádio em pausa";
         document.getElementById("descricaoAtual").textContent =
           "Escolha uma faixa ou avance para continuar.";
+        document.getElementById("nomeAutor").textContent = "© protegido por Direito Autoral"
+        
       }
 
       function tocarMusicaAtual() {
         const item = listaAudios[indiceAtual];
-
+        
         document.getElementById("musicaAtual").textContent = item.titulo;
         document.getElementById("nomeAutor").textContent = "© " + item.descricao;
         document.getElementById("descricaoAtual").textContent =
@@ -540,7 +542,8 @@
 
         document.getElementById("descricaoAtual").textContent =
           "Músicas Instrumentais da lista 'Beradeiras'";
-
+        document.getElementById("nomeAutor").textContent = "© " + item.descricao;
+        
         mostrarTooltipRadio(
           "Abertura da Rádio",
           "Músicas Instrumentais da lista 'Beradeiras'"
@@ -569,7 +572,8 @@
 
         document.getElementById("descricaoAtual").textContent =
           "Vinheta institucional";
-
+        document.getElementById("nomeAutor").textContent = "© " + item.descricao;
+        
         mostrarTooltipRadio(
           "📻 " + item.descricao,
           "Vinheta institucional"
@@ -592,7 +596,9 @@
 
         document.getElementById("musicaAtual").textContent =
           item.titulo;
-
+        
+        document.getElementById("nomeAutor").textContent = "© " + item.descricao;
+        
         document.getElementById("descricaoAtual").textContent =
           [item.autor, item.estilo]
             .filter(Boolean)
@@ -682,7 +688,7 @@
             document.getElementById("capaDireita").src =
               "capas/" + item.capa;
           }
-
+          document.getElementById("nomeAutor").textContent = "© " + item.descricao;
           document.getElementById("musicaAtual").textContent = item.titulo;
           document.getElementById("descricaoAtual").textContent =
             [item.autor, item.estilo]
@@ -796,9 +802,9 @@
 
           const descricao =
             document.getElementById("descricaoAtual").textContent;
-
-          mostrarTooltipRadio(titulo, descricao);
-
+          const autoral = document.getElementById("nomeAutor").textContent;
+          mostrarTooltipRadio(titulo, descricao, autoral);
+    
         });
 
       document.querySelector(".painel-radio")
@@ -809,8 +815,8 @@
 
           const descricao =
             document.getElementById("descricaoAtual").textContent;
-
-          mostrarTooltipRadio(titulo, descricao);
+         const autoral = document.getElementById("nomeAutor").textContent;
+          mostrarTooltipRadio(titulo, descricao,autoral);
 
         });
 
