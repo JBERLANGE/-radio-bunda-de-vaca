@@ -627,9 +627,9 @@
         card.className = "card";
 
         const indiceMusica = listaAudios.length;
-
+        const tituid = document.createElement("h1");
         const titulo = document.createElement("h3");
-        titulo.textContent = "▶ " + item.titulo;
+        titulo.textContent = "▶ " + item.titulo + " " + item.;
         titulo.className = "titulo-musica";
 
         const autor = document.createElement("p");
@@ -655,7 +655,8 @@
           titulo: item.titulo,
           autor: item.autor || "",
           descricao: item.descricao || "",
-          estilo: item.estilo || ""
+          estilo: item.estilo || "",
+          tituid: item.tituid
         });
 
         titulo.onclick = () => {
@@ -711,6 +712,7 @@
         card.appendChild(autor);
         card.appendChild(desc);
         card.appendChild(audio);
+        card.appenChild(tituid);
 
         destino.appendChild(card);
       }
@@ -819,9 +821,6 @@
           mostrarTooltipRadio(titulo, descricao,autoral);
 
         });
-
-
-
 
     </script>
 
