@@ -99,7 +99,7 @@
     "tituloID": "BD__038",
     "titulo": "Nosso Amor é Diferente",
     "autor": "Zé Maria Ortiz",
-    "estilo": "Samba-Canção",
+    "estilo": "MPB",
     "descricao": "Jose Berlange Andrade & Jose Maria Ortiz de Carvalho",
     "capa": "BD__038.jpg"
   },
@@ -122,9 +122,9 @@
   {
     "tituloID": "BD__095",
     "titulo": "O Samba Me Anima e Acalma",
-    "autor": "Ademar dos Santos Silva & Zeca Berlange",
+    "autor": "Ademar S. Silva & Zeca Berlange",
     "estilo": "Samba",
-    "descricao": "Ademar dos Santos Silva, Jose Berlange Andrade & Calixto",
+    "descricao": "Ademar dos Santos Silva, Jose Berlange Andrade",
     "capa": "BD__095.jpg"
   },
   {
@@ -259,7 +259,7 @@
     "tituloID": "BD__011",
     "titulo": "Condicional",
     "autor": "D'Amaral Basinho",
-    "estilo": "Samba-MPB",
+    "estilo": "Samba",
     "descricao": "Antônio Serpa do Amaral Filho & Jose Berlange Andrade",
     "capa": "BD__011.jpg"
   },
@@ -267,7 +267,7 @@
     "tituloID": "BD__012",
     "titulo": "Curador Infante",
     "autor": "D'Amaral Basinho",
-    "estilo": "MPB/Toada",
+    "estilo": "MPB",
     "descricao": "Jose Berlange Andrade e Antônio Serpa do Amaral Filho",
     "capa": "BD__012.jpg"
   },
@@ -299,7 +299,7 @@
     "tituloID": "BD__015",
     "titulo": "Divinding Street  Na Beira do Madeira",
     "autor": "Zeca Berlange",
-    "estilo": "Toadarimbó+Reggae",
+    "estilo": "Toada+Reggae",
     "descricao": "",
     "capa": "BD__015.jpg"
  },
@@ -356,7 +356,7 @@
     "titulo": "Lembranças platávicas",
     "autor": "Antony Medina",
     "estilo": "MPB",
-    "descricao": "Jose Berlange Andrade & Antonio Cesar Medina",
+    "descricao": "Antonio Cesar Medina & Jose Berlange Andrade",
     "capa": "BD__031.jpg"
   },
   {
@@ -380,7 +380,7 @@
     "titulo": "Mata o Pium",
     "autor": "Zeca Berlange",
     "estilo": "Rock beradeiro",
-    "descricao": "Jose Berlange Andrade",
+    "descricao": "Jose Berlange Andrade & Júlio Cesar Castro",
     "capa": "BD__081.jpg"
   },
   {
