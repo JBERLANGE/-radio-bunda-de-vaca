@@ -1,1 +1,1 @@
-Rádio Bunda de Vaca - Da Beira do Rio Madeira para o Centro do Mundo
+Rádio Bunda de Vaca - Da Beira do Madeira para o Celeiro Mundano
