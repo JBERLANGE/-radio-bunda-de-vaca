@@ -281,6 +281,15 @@
       line-height: 1.35;
     }
 
+    .tooltip-radio .info-musica {
+      display: block;
+      font-size: 12px;
+      color: #aaa;
+      margin-top: 6px;
+      padding-top: 6px;
+      border-top: 1px solid #444;
+    }
+
     .topo-radio {
       display: flex;
       justify-content: center;
@@ -321,6 +330,7 @@
     <div id="tooltipRadio" class="tooltip-radio">
       <strong id="tooltipTitulo">Tocando agora</strong>
       <span id="tooltipDescricao">Sem descrição cadastrada.</span>
+      <span class="info-musica" id="tooltipInfo"></span>
     </div>
 
     <header>
@@ -552,7 +562,9 @@
         
         mostrarTooltipRadio(
           "Abertura da Rádio",
-          "Músicas Instrumentais da lista 'Beradeiras'"
+          "Músicas Instrumentais da lista 'Beradeiras'",
+          null,
+          null
         );
 
         document.getElementById("botaoRadio").style.display = "none";
@@ -582,7 +594,9 @@
         
         mostrarTooltipRadio(
           "📻 " + item.descricao,
-          "Vinheta institucional"
+          "Vinheta institucional",
+          null,
+          item.tituloID
         );
 
         audioJingle.play();
@@ -662,7 +676,9 @@
           autor: item.autor || "",
           descricao: item.descricao || "",
           estilo: item.estilo || "",
-          tituid: item.tituid
+          tituid: item.tituloID,
+          posicao: indiceMusica + 1,
+          tituloID: item.tituloID
         });
 
         titulo.onclick = () => {
@@ -781,17 +797,27 @@
 
       let tempoTooltip;
 
-      function mostrarTooltipRadio(titulo, descricao) {
+      function mostrarTooltipRadio(titulo, descricao, posicao, tituloID) {
 
         const tooltip = document.getElementById("tooltipRadio");
         const tooltipTitulo = document.getElementById("tooltipTitulo");
         const tooltipDescricao = document.getElementById("tooltipDescricao");
+        const tooltipInfo = document.getElementById("tooltipInfo");
 
         if (!tooltip || !tooltipTitulo || !tooltipDescricao) return;
 
         tooltipTitulo.textContent = titulo || "Tocando agora";
         tooltipDescricao.textContent =
           descricao || "Sem descrição cadastrada.";
+
+        // Exibir posição e tituloID se disponíveis
+        if (posicao !== null && tituloID !== null) {
+          tooltipInfo.textContent = `📊 ${posicao} / ${tituloID}`;
+        } else if (tituloID !== null) {
+          tooltipInfo.textContent = `📊 ${tituloID}`;
+        } else {
+          tooltipInfo.textContent = "";
+        }
 
         tooltip.classList.add("visivel");
 
@@ -811,7 +837,17 @@
           const descricao =
             document.getElementById("descricaoAtual").textContent;
           const autoral = document.getElementById("nomeAutor").textContent;
-          mostrarTooltipRadio(titulo, descricao, autoral);
+          
+          // Obter posição e tituloID da música atual
+          let posicao = null;
+          let tituloID = null;
+          
+          if (indiceAtual >= 0 && listaAudios[indiceAtual]) {
+            posicao = listaAudios[indiceAtual].posicao;
+            tituloID = listaAudios[indiceAtual].tituloID;
+          }
+          
+          mostrarTooltipRadio(titulo, descricao, posicao, tituloID);
     
         });
 
@@ -823,8 +859,18 @@
 
           const descricao =
             document.getElementById("descricaoAtual").textContent;
-         const autoral = document.getElementById("nomeAutor").textContent;
-          mostrarTooltipRadio(titulo, descricao,autoral);
+          const autoral = document.getElementById("nomeAutor").textContent;
+          
+          // Obter posição e tituloID da música atual
+          let posicao = null;
+          let tituloID = null;
+          
+          if (indiceAtual >= 0 && listaAudios[indiceAtual]) {
+            posicao = listaAudios[indiceAtual].posicao;
+            tituloID = listaAudios[indiceAtual].tituloID;
+          }
+          
+          mostrarTooltipRadio(titulo, descricao, posicao, tituloID);
 
         });
 
