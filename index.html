@@ -403,7 +403,7 @@
       <p><small>© José Berlange Andrade — Rádio Bunda de Vaca</small></p>
       <P><small><I>Esta rádio nasceu do encontro entre imaginação humana, sensibilidade artística e cooperação
             inteligente entre homem e IA.
-            Mais do que tecnologia, aqui existe presença, originalidade e alma criativa.”
+            Mais do que tecnologia, aqui existe presença, originalidade e alma criativa."
             <small></P>
       </I>
     </footer>
@@ -542,7 +542,7 @@
 
         document.getElementById("descricaoAtual").textContent =
           "Músicas Instrumentais da lista 'Beradeiras'";
-        document.getElementById("nomeAutor").textContent = "© " + item.descricao;
+        document.getElementById("nomeAutor").textContent = "© protegido pelo Direito Autoral";
         
         mostrarTooltipRadio(
           "Abertura da Rádio",
@@ -629,7 +629,7 @@
         const indiceMusica = listaAudios.length;
         const tituid = document.createElement("h1");
         const titulo = document.createElement("h3");
-        titulo.textContent = "▶ " + item.titulo + " " + item.;
+        titulo.textContent = "▶ " + item.titulo + " " + item.estilo;
         titulo.className = "titulo-musica";
 
         const autor = document.createElement("p");
@@ -712,7 +712,7 @@
         card.appendChild(autor);
         card.appendChild(desc);
         card.appendChild(audio);
-        card.appenChild(tituid);
+        card.appendChild(tituid);
 
         destino.appendChild(card);
       }
