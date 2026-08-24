@@ -710,6 +710,7 @@
           if (item.tituloID.startsWith("BV__") && item.capa) {
             document.getElementById("capaDireita").src =
               "capas/" + item.capa;
+             document.getElementById("capaDireita").title = item.posicao + "/"" + item.tituloID;
           }
           document.getElementById("nomeAutor").textContent = "© " + item.descricao;
           document.getElementById("musicaAtual").textContent = item.titulo;
