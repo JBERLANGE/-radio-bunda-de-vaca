@@ -818,7 +818,7 @@
           
         } else if (tituloID !== null) {
           tooltipInfo.textContent = `📊 ${numusi}`;
-          document.getElementById("capaEsquerda").title = '📊 p${posicao} / ${numusi}';
+          document.getElementById("capaEsquerda").title = '📊 p${String(posicao.padStart(3, '0')} / ${numusi}';
         } else {
           tooltipInfo.textContent = "";
         }
