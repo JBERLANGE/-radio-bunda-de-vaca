@@ -704,7 +704,7 @@
           if (item.tituloID.startsWith("BD__") && item.capa) {
             document.getElementById("capaEsquerda").src =
               "capas/" + item.capa;
-              document.getElementById("capaEsquerda").title = item.tituloID;
+          document.getElementById("capaEsquerda").title = item.posicao + "/" + item.tituloID.substr(4, 3);
           }
 
           if (item.tituloID.startsWith("BV__") && item.capa) {
