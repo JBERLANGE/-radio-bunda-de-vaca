@@ -809,13 +809,13 @@
         tooltipTitulo.textContent = titulo || "Tocando agora";
         tooltipDescricao.textContent =
           descricao || "Sem descrição cadastrada.";
-         let numusi = ${tituloID};
-         numusi = numusi.substring(4, 3);
+         let numusi = tituloID.substring(4, 3);
+          //${tituloID}
         // Exibir posição e tituloID se disponíveis
         if (posicao !== null && tituloID !== null) {
-          tooltipInfo.textContent = `📊 ${posicao} / numusi`;
+          tooltipInfo.textContent = `📊 ${posicao} / ${numusi}`;
         } else if (tituloID !== null) {
-          tooltipInfo.textContent = `📊 numusi`;
+          tooltipInfo.textContent = `📊 ${numusi}`;
         } else {
           tooltipInfo.textContent = "";
         }
