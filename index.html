@@ -810,15 +810,16 @@
         tooltipDescricao.textContent =
         descricao || "Sem descrição cadastrada.";
         let numusi = tituloID.substring(4, 7);
+        let positi = String(posicao).padStart(3, '0');
           //${tituloID}
         // Exibir posição e tituloID se disponíveis
         if (posicao !== null && tituloID !== null) {
           //tooltipInfo.textContent = `📊 ${posicao} / ${numusi}`;
-        document.getElementById("capaEsquerda").title = '📊' + posicao + "||" + '🎙️' + numusi;
+        document.getElementById("capaEsquerda").title = '📊' + positi + "||" + '🎙️' + numusi;
           
         } else if (tituloID !== null) {
           tooltipInfo.textContent = `📊 ${numusi}`;
-          document.getElementById("capaEsquerda").title = '📊 p${String(posicao.padStart(3, '0')} / ${numusi}';
+          document.getElementById("capaEsquerda").title = '📊 p${positi} / ${numusi}';
         } else {
           tooltipInfo.textContent = "";
         }
