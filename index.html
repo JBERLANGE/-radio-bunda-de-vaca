@@ -813,7 +813,7 @@
           //${tituloID}
         // Exibir posição e tituloID se disponíveis
         if (posicao !== null && tituloID !== null) {
-          tooltipInfo.textContent = `📊 ${posicao} / ${numusi}`;
+          //tooltipInfo.textContent = `📊 ${posicao} / ${numusi}`;
         document.getElementById("capaEsquerda").title = '📊' + posicao + "/" + numusi;
           
         } else if (tituloID !== null) {
@@ -823,13 +823,13 @@
           tooltipInfo.textContent = "";
         }
 
-        tooltip.classList.add("visivel");
+      //  tooltip.classList.add("visivel");
 
-        clearTimeout(tempoTooltip);
+      //  clearTimeout(tempoTooltip);
 
-        tempoTooltip = setTimeout(() => {
-          tooltip.classList.remove("visivel");
-        }, 3000);
+       // tempoTooltip = setTimeout(() => {
+         // tooltip.classList.remove("visivel");
+       // }, 3000);
       }
 
       document.querySelector(".painel-radio")
