@@ -497,6 +497,10 @@
       function tocarMusicaAtual() {
         const item = listaAudios[indiceAtual];
         
+        let nummusi = item.tituloID;
+        nummusi = nummusi.substring(4, 7);  
+        document.getElementById("capaEsquerda").title = nummusi;
+        
         document.getElementById("musicaAtual").textContent = item.titulo;
         document.getElementById("nomeAutor").textContent = "© " + item.descricao;
         document.getElementById("descricaoAtual").textContent =
@@ -808,8 +812,8 @@
 
         tooltipTitulo.textContent = titulo || "Tocando agora";
         tooltipDescricao.textContent =
-          descricao || "Sem descrição cadastrada.";
-         let numusi = tituloID.substring(4, 7);
+        descricao || "Sem descrição cadastrada.";
+        let numusi = tituloID.substring(4, 7);
           //${tituloID}
         // Exibir posição e tituloID se disponíveis
         if (posicao !== null && tituloID !== null) {
