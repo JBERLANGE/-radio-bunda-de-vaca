@@ -497,10 +497,6 @@
       function tocarMusicaAtual() {
         const item = listaAudios[indiceAtual];
         
-        let nummusi = item.tituloID;
-        nummusi = nummusi.substring(4, 7);  
-        document.getElementById("capaEsquerda").title = nummusi;
-        
         document.getElementById("musicaAtual").textContent = item.titulo;
         document.getElementById("nomeAutor").textContent = "© " + item.descricao;
         document.getElementById("descricaoAtual").textContent =
@@ -818,8 +814,11 @@
         // Exibir posição e tituloID se disponíveis
         if (posicao !== null && tituloID !== null) {
           tooltipInfo.textContent = `📊 ${posicao} / ${numusi}`;
+        document.getElementById("capaEsquerda").title = '📊 p${posicao} / ${numusi}';
+          
         } else if (tituloID !== null) {
           tooltipInfo.textContent = `📊 ${numusi}`;
+          document.getElementById("capaEsquerda").title = '📊 p${posicao} / ${numusi}';
         } else {
           tooltipInfo.textContent = "";
         }
