@@ -308,6 +308,17 @@
       border: 3px solid #555;
       border-radius: 8px;
     }
+
+    .painel-capa img#capaDireita {
+      cursor: pointer;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .painel-capa img#capaDireita:hover {
+      transform: scale(1.05);
+      box-shadow: 0 0 18px rgba(255, 204, 0, 0.4);
+    }
+
     .titulo-autor {
       display: flex;
       align-items: center;
@@ -375,7 +386,7 @@
       </div>
  
       <div class="painel-capa">
-        <img id="capaDireita" src="assets/capaBV.jpg" alt="Capa direita">
+        <img id="capaDireita" src="assets/capaBV.jpg" alt="Capa direita" title="Clique para abrir o documento PDF">
       </div>
 
     </div>
@@ -832,6 +843,14 @@
          // tooltip.classList.remove("visivel");
        // }, 3000);
       }
+
+      // Função para abrir o PDF ao clicar na capa direita
+      document.addEventListener("DOMContentLoaded", () => {
+        const capaDireita = document.getElementById("capaDireita");
+        capaDireita.addEventListener("click", () => {
+          window.open("Ativos/VACA DA BALSA NA RÁDIO BERADEIRA.pdf", "_blank");
+        });
+      });
 
       document.querySelector(".painel-radio")
         .addEventListener("mouseenter", () => {
