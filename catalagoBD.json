@@ -416,6 +416,22 @@
     "capa": "BD__035.jpg"
   },
   {
+    "tituloID": "BD__104",
+    "titulo": "Mestre Cartola",
+    "autor": "Alcirea Tabosa",
+    "estilo": "Samba",
+    "descricao": "Heitor Almeida",
+    "capa": "BD__104.jpg"
+  }, 
+  {
+    "tituloID": "BD__105",
+    "titulo": "Mistérios e Segredos",
+    "autor": "Alcirea Tabosa",
+    "estilo": "Samba",
+    "descricao": "Heitor Almeida",
+    "capa": "BD__105.jpg"
+  },
+  {
     "tituloID": "BD__037",
     "titulo": "Muiraquitãs",
     "autor": "Berlange & Darkiana",
