@@ -1,11 +1,11 @@
 [
   {
-    "tituloID": "BD__042",
-    "titulo": "Ode ao Centro do Mundo",
-    "autor": "Zeca Berlange",
-    "estilo": "Gospel pop",
-    "descricao": "José Berlange Andrade",
-    "capa": "BD__042.jpg"
+    "tituloID": "BD__111",
+    "titulo": "Povo Moreno",
+    "autor": "Paulinho Rodrigues",
+    "estilo": "Toada",
+    "descricao": "Paulo Rodrigues",
+    "capa": "BD__111.jpg"
   },
   {
     "tituloID": "BD__023",
@@ -35,7 +35,7 @@
     "tituloID": "BD__071",
     "titulo": "Colosso Desconhecido",
     "autor": " Zé Maria Ortiz",
-    "estilo": "Toada",
+    "estilo": "Samba",
     "descricao": "José Berlange Andrade & José Maria Ortiz de Carvalho",
     "capa": "BD__071.jpg"
   },
@@ -80,44 +80,12 @@
     "capa": "BD__101.jpg"
   },
   {
-    "tituloID": "BD__107",
-    "titulo": "O Pó e A Alma",
-    "autor": "Ângelo Arruda",
-    "estilo": "MPB",
-    "descricao": "Ângelo Marcos Arruda",
-    "capa": "BD__107.jpg"
-  },
-   {
-    "tituloID": "BD__110",
-    "titulo": "A Lua e O Rio",
-    "autor": "D'Amaral Basinho",
-    "estilo": "MPB",
-    "descricao": "Antônio Serpa do Amaral Filho",
-    "capa": "BD__110.jpg"
-  },
-  {
-    "tituloID": "BD__111",
-    "titulo": "Povo Moreno",
-    "autor": "Paulinho Rodrigues",
-    "estilo": "Toada",
-    "descricao": "Paulo Rodrigues",
-    "capa": "BD__111.jpg"
-  },
-  {
     "tituloID": "BD__032",
     "titulo": "Lágrimas Sentidas",
     "autor": "Zé Maria Ortiz",
     "estilo": "MPB",
     "descricao": "José Maria Ortiz de Carvalho & José Berlange Andrade",
     "capa": "BD__032.jpg"
-  },
-  {
-    "tituloID": "BD__114",
-    "titulo": "Terra de Gente Decente",
-    "autor": "Amancio de Lima",
-    "estilo": "Forró",
-    "descricao": "Amancio de Lima",
-    "capa": "BD__114.jpg"
   },
   {
     "tituloID": "BD__068",
@@ -156,7 +124,7 @@
     "titulo": "O Amor",
     "autor": "Antônio Neno",
     "estilo": "MPB",
-    "descricao": "Antônio Raimundo dos Santos",
+    "descricao": "Antônio Santos",
     "capa": "BD__089.jpg"
   },
   {
@@ -218,8 +186,8 @@
   {
     "tituloID": "BD__040",
     "titulo": "O Barqueiro Encantado",
-    "autor": "Darkiana",
-    "estilo": "MPB",
+    "autor": "D'Amaral Basinho",
+    "estilo": "Folk NE",
     "descricao": "Antônio Serpa do Amaral Filho & Jose Berlange Andrade",
     "capa": "BD__040.jpg"
   },
@@ -340,7 +308,7 @@
   "titulo": "Deus Criou o Mundo",
   "autor": "Antônio Neno",
   "estilo": "Gospel",
-  "descricao": "Antônio Raimundo dos Santos",
+  "descricao": "Antônio Santos",
   "capa": "BD__087.jpg"
  },
  {
@@ -360,20 +328,12 @@
     "capa": "BD__086.jpg"
   },
   {
-    "tituloID": "BD__108",
-    "titulo": "Emboscada do Pensamento",
-    "autor": "Ângelo Arruda",
+    "tituloID": "BD__115",
+    "titulo": "Estação e Trem",
+    "autor": "Zeca Berlange",
     "estilo": "MPB",
-    "descricao": "Ângelo Marcos Arruda",
-    "capa": "BD__108.jpg"
-  },
-  {
-    "tituloID": "BD__109",
-    "titulo": "Eu Preciso Falar Com Deus",
-    "autor": "Ângelo Arruda",
-    "estilo": "MPB",
-    "descricao": "JÂngelo Marcos Arruda",
-    "capa": "BD__109.jpg"
+    "descricao": "Jose Berlange Andrade & Jorge Marques Batista",
+    "capa": "BD__115.jpg"
   },
   {
     "tituloID": "BD__018",
@@ -444,7 +404,7 @@
    "titulo": "Mar de Aquário",
    "autor": "Antônio Neno",
    "estilo": "MPB",
-   "descricao": "Antônio Raimundo dos Santos",
+   "descricao": "Antônio Santos",
    "capa": "BD__090.jpg"
  },
  {
@@ -568,18 +528,10 @@
     "capa": "BD__048.jpg"
   },
   {
-    "tituloID": "BD__106",
-    "titulo": "Amada Rubi",
-    "autor": "Antônio Neno",
-    "estilo": "Blue",
-    "descricao": "Antônio Raimundo dos Santos",
-    "capa": "BD__106.jpg"
-  },
-  {
     "tituloID": "BD__049",
     "titulo": "Quem Apanha Nunca Esquece",
     "autor": "Zé Maria Ortiz",
-    "estilo": "Sertanejo",
+    "estilo": "Samba",
     "descricao": "Jose Maria Ortiz de Carvalho & Jose Berlange Andrade",
     "capa": "BD__049.jpg"
   },
@@ -620,7 +572,7 @@
    "titulo": "Solidão",
    "autor": "Antônio Neno",
    "estilo": "Forró",
-   "descricao": "Antônio Raimundo dos Santos",
+   "descricao": "Antônio Santos",
    "capa": "BD__088.jpg"
  },
  {
