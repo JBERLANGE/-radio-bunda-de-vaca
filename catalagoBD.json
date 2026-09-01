@@ -576,14 +576,6 @@
     "capa": "BD__048.jpg"
   },
   {
-    "tituloID": "BD__106",
-    "titulo": "Amada Rubi",
-    "autor": "Antônio Neno",
-    "estilo": "Blue",
-    "descricao": "Antônio Raimundo dos Santos",
-    "capa": "BD__106.jpg"
-  },
-  {
     "tituloID": "BD__049",
     "titulo": "Quem Apanha Nunca Esquece",
     "autor": "Zé Maria Ortiz",
@@ -798,6 +790,14 @@
     "estilo": "Toada+MPB",
     "descricao": "Jose Berlange Andrade",
     "capa": "BD__055.jpg"
+  },
+    {
+    "tituloID": "BD__106",
+    "titulo": "Amada Rubi",
+    "autor": "Antônio Neno",
+    "estilo": "Blue",
+    "descricao": "Antônio Raimundo dos Santos",
+    "capa": "BD__106.jpg"
   },
   {
     "tituloID": "BD__059",
