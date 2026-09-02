@@ -104,6 +104,14 @@
     "capa": "BD__111.jpg"
   },
   {
+    "tituloID": "BD__116",
+    "titulo": "Beiradão",
+    "autor": "Waldison Pinheiro",
+    "estilo": "Toada",
+    "descricao": "Waldison Pinheiro",
+    "capa": "BD__116.jpg"
+  },
+  {
     "tituloID": "BD__032",
     "titulo": "Lágrimas Sentidas",
     "autor": "Zé Maria Ortiz",
@@ -380,7 +388,7 @@
     "titulo": "Eu Preciso Falar Com Deus",
     "autor": "Ângelo Arruda",
     "estilo": "MPB",
-    "descricao": "JÂngelo Marcos Arruda",
+    "descricao": "Ângelo Marcos Arruda",
     "capa": "BD__109.jpg"
   },
   {
