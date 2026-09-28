@@ -8,12 +8,12 @@
     "capa": "BD__042.jpg"
   },
   {
-    "tituloID": "BD__121",
-    "titulo": "Mãe do Brasil Soberano",
-    "autor": "D'Amaral Basinho",
-    "estilo": "Gospel Pop",
-    "descricao": "Antônio Serpa do Amaral Filho & José Berlange Andrade",
-    "capa": "BD__121.jpg"
+    "tituloID": "BD__122",
+    "titulo": "Minha Esperança",
+    "autor": "Alzira Andrade",
+    "estilo": "Balada",
+    "descricao": "Alzira Andrade (in memorian) & José Berlange Andrade",
+    "capa": "BD__122.jpg"
   },
   {
     "tituloID": "BD__023",
@@ -150,6 +150,14 @@
     "estilo": "Forró",
     "descricao": "Amancio Bento de Lima",
     "capa": "BD__114.jpg"
+  },
+  {
+    "tituloID": "BD__121",
+    "titulo": "Mãe do Brasil Soberano",
+    "autor": "D'Amaral Basinho",
+    "estilo": "Gospel Pop",
+    "descricao": "Antônio Serpa do Amaral Filho & José Berlange Andrade",
+    "capa": "BD__121.jpg"
   },
   {
     "tituloID": "BD__068",
