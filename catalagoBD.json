@@ -8,14 +8,14 @@
     "capa": "BD__042.jpg"
   },
   {
-    "tituloID": "BD__122",
-    "titulo": "Minha Esperança",
-    "autor": "Alzira Andrade",
-    "estilo": "Balada",
-    "descricao": "Alzira Andrade (in memorian) & José Berlange Andrade",
-    "capa": "BD__122.jpg"
+    "tituloID": "BD__123",
+    "titulo": "Bella Tchau à Lula,
+    "autor": "D'Amaral Basinho",
+    "estilo": "Folk",
+    "descricao": "Antônio Serpa do Amaral Filho",
+    "capa": "BD__123.jpg"
   },
-  {
+   {
     "tituloID": "BD__023",
     "titulo": "Gratidão Gaya",
     "autor": "Zeca Berlange",
@@ -486,6 +486,14 @@
     "estilo": "Sertanejo",
     "descricao": "Jose Maria Ortiz de Carvalho",
     "capa": "BD__091.jpg"
+  },
+   {
+    "tituloID": "BD__122",
+    "titulo": "Minha Esperança",
+    "autor": "Alzira Andrade",
+    "estilo": "Balada",
+    "descricao": "Alzira Andrade (in memorian) & José Berlange Andrade",
+    "capa": "BD__122.jpg"
   },
   {
    "tituloID": "BD__090",
