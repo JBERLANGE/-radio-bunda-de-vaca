@@ -176,6 +176,14 @@
     "imagem": ""
   },
   {
+    "tituloID": "BA__108",
+    "titulo": "Emboscada do Pensamento" ,
+    "autor": "Ângelo Arruda",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
     "tituloID": "BA__020",
     "titulo": "Engenheiro do Forró ",
     "autor": "Zeca Berlange",
@@ -195,6 +203,14 @@
     "tituloID": "BA__022",
     "titulo": "Estrela do Amanhecer",
     "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+ {
+    "tituloID": "BA__109",
+    "titulo": "Eu Preciso Falar Com Deus",
+    "autor": "Ângelo Arrudae",
     "estilo": "",
     "descricao": "",
     "imagem": ""
@@ -1006,6 +1022,14 @@
     "tituloID": "BA__044",
     "titulo": "O Barqueiro Encantado",
     "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  }
+  {
+    "tituloID": "BA__107",
+    "titulo": "O Pó e a Alma",
+    "autor": "Ângelo Arruda",
     "estilo": "",
     "descricao": "",
     "imagem": ""
