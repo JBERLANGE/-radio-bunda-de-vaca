@@ -1,4 +1,663 @@
 [
+ {
+    "tituloID": "BA__038",
+    "titulo": "MEDITAÇÃO CÓSMICA",
+    "autor": "Zeca Berlange",
+    "estilo": "Instrumental Goslpel Pop",
+    "descricao": "jose Berlange Andrade;",
+    "imagem": ""
+  },
+   {
+    "tituloID": "BA__046",
+    "titulo": "ODE AO CENTRO DO MUNDO",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "Inspirada nas meditações matinais à beira-mar",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__027",
+    "titulo": "GRATIDÃO GAYA INSTRUMENTAL",
+    "autor": "Zeca Berlange",
+    "estilo": "Gospel pop",
+    "descricao": "inspirado nas meditações matinais de interação com o Sol",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__091",
+    "titulo": "YARA",
+    "autor": "Raul Andrade",
+    "estilo": "Valsa",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__011",
+    "titulo": "Vaca da Balsa",
+    "autor": "Zeca Berlange",
+    "estilo": "Samba maneiro",
+    "descricao": "Inspirada numa correria de bugg pela praia de Lucena",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__002",
+    "titulo": "ADNALOY",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__003",
+    "titulo": "DAS VASTIDÕES DA SELVA",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__004",
+    "titulo": "AMIGOS DOS BONS TEMPOS",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__005",
+    "titulo": "DIZ PRA MIM",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__006",
+    "titulo": "EX AMADA",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__007",
+    "titulo": "Ayete, Caminho de Graça",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__008",
+    "titulo": "O AMOR PAIRA NO AR",
+    "autor": "Zé Maria Ortiz",
+    "estilo": "MPB",
+    "descricao": "Inspirada numa postagem de Nakuxe",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__009",
+    "titulo": "UMA ALMA LIVRE NA DANÇA",
+    "autor": "Jorge M Batista",
+    "estilo": "Sertanejo",
+    "descricao": "autoria: Jorge Marques Batista & José Berlange Andrade",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__010",
+    "titulo": "BOTECO",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__012",
+    "titulo": "Caboco Peregrino do Norte",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__013",
+    "titulo": "Canto Para Tia Isinha  ",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__014",
+    "titulo": "Cartinha ao Mano Velho  ",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__015",
+    "titulo": "concentre  mas não sai   ",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__016",
+    "titulo": "Condicional  ",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__017",
+    "titulo": "Curador Infante  ",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__018",
+    "titulo": "DECISAO (instr)",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__019",
+    "titulo": "Dividing Street na Beira do Madeira" ,
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__020",
+    "titulo": "Engenheiro do Forró ",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__021",
+    "titulo": "ESTAÇAÇÃO BERADEIRA ",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__022",
+    "titulo": "Estrela do Amanhecer",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__023",
+    "titulo": "Farol Da Madrugada",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__024",
+    "titulo": "FILHO É ROCK AND ROLL INSTA",
+    "autor": "Antônio D'Amaral Basinho",
+    "estilo": "",
+    "descricao": "Inspirada no sentimento de conforto de uma mãe de filho autista.",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__025",
+    "titulo": "Forró Da Vania Rita",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__026",
+    "titulo": "A SEXTA VEZ",
+    "autor": "Zé Maria Ortiz",
+    "estilo": "MPB",
+    "descricao": "autoria de José Maria Ortiz de Carvalho",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__028",
+    "titulo": "GRITO DE SOLIDÃO",
+    "autor": "Heitor Almeida",
+    "estilo": "MPB",
+    "descricao": "Inspirada na paisagem beiradeira da velha Candelária",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__029",
+    "titulo": "Helena, Alma Gêmea do Amor",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__030",
+    "titulo": "IPÊ DOURADO",
+    "autor": "Pedro Batistote",
+    "estilo": "Sertanejo douradense",
+    "descricao": "Pedro Batistote Jr & Jose Berlange Andrade",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__031",
+    "titulo": "IRACEMA EU VI O MAR",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__032",
+    "titulo": "Irmão da Estrada",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__033",
+    "titulo": "Joana, Luz e Poesia.",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__034",
+    "titulo": "Karapanã Infernal",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__035",
+    "titulo": "Lembranças platávicas ",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__036",
+    "titulo": "Lágrimas Sentidas",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+   {
+    "tituloID": "BA__001",
+    "titulo": "A Poesia Nossa de Cada Dia ",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__037",
+    "titulo": "Madeira Meu Lugar",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__039",
+    "titulo": "Metade Do Que Sou",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__040",
+    "titulo": "MITSUEr",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__041",
+    "titulo": "MUIRAQUITÃS",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__042",
+    "titulo": "Nosso Amor é Diferente",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__043",
+    "titulo": "Calamengau - um pagode para Joana  ",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__044",
+    "titulo": "O Barqueiro Encantado",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__045",
+    "titulo": "O SOL DA LIBERDADE",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__046",
+    "titulo": "ODE AO CENTRO DO MUNDO",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "Inspirada nas meditações matinais à beira-mar",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__047",
+    "titulo": "Onde o Sol Chega Primeiro ",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__048",
+    "titulo": "Por do Sol Carmim",
+    "autor": "JOSE B ANDRADE",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__049",
+    "titulo": "Pula no Meu Peito Morena",
+    "autor": "Jose Berlange Andrade",
+    "estilo": "Guarãnia",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__050",
+    "titulo": "Puxou a Cortina do Sol",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__051",
+    "titulo": "Que fazer?",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__052",
+    "titulo": "QUEM APANHA NUNCA ESQUECE",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__053",
+    "titulo": "Refletir  é Bom",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__054",
+    "titulo": "Sentimentos transformam vidas ",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__055",
+    "titulo": "Soberba",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__056",
+    "titulo": "SOLIDÃO É ACALANTO",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__057",
+    "titulo": "Tamos Juntos, Irmão",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__058",
+    "titulo": "Terra rara é o nome do Caos",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__059",
+    "titulo": "TRAVESSIA MUSICAL",
+    "autor": "Hélio Machado",
+    "estilo": "MPB",
+    "descricao": "José Berlange Andrade & Hélio da Rosa Machado",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__060",
+    "titulo": "VALSA PARA VO NEGRINHA",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__061",
+    "titulo": "Vida de Vivente das Estradas",
+    "autor": "Paulo Brum",
+    "estilo": "Vanerao gaúcho",
+    "descricao": "José Berlange Andrade & Paulo Roberto Brum",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__062",
+    "titulo": "VOLTA AO LAR INSTRUMENTAL",
+    "autor": "Antônio D'Amaral Basinho",
+    "estilo": "Samba Canção",
+    "descricao": "augtoria: Antônio Serpa do Amaral Filho",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__063",
+    "titulo": "Volta Pro Jogo",
+    "autor": "Zeca Berlange & Edgley Queiroz",
+    "estilo": "Smba-canção",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__064",
+    "titulo": "VOLTA, CONQUISTADOR",
+    "autor": "Zeca Berlange",
+    "estilo": "Sertanejo",
+    "descricao": "autoria: José Berlange Andrade; ",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__065",
+    "titulo": "VOZ QUE VOA",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__066",
+    "titulo": "Yolanda e as Três Marias",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__067",
+    "titulo": "Musa Inspiradora",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__068",
+    "titulo": "AINDA HÁ VERÃO NO CORAÇÃO DE TELMA ",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__069",
+    "titulo": "Colosso Desconhecido",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__070",
+    "titulo": "Feliz Aniversário Néia ",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__071",
+    "titulo": "O Boi no tacacá",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__072",
+    "titulo": "TAMARINEIRA CHOROU ",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__073",
+    "titulo": "ZUMBI GRITOU",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__074",
+    "titulo": "A DOR CONSOME",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__075",
+    "titulo": "JOÃO NICOLETTI DE NOVO",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__076",
+    "titulo": "GUARDEM O MEU JEITO DE AMAR",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__077",
+    "titulo": "SUSTENTA-ME",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__078",
+    "titulo": "MEU CAIARI, MINHA VIDA",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__079",
+    "titulo": "LEVANTA E AVANÇA",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__080",
+    "titulo": "ESTAÇÕES E TRENS",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__081",
+    "titulo": "SOFRIMENTO SERTANJ[
   {
     "tituloID": "BA__001",
     "titulo": "A Poesia Nossa de Cada Dia ",
@@ -360,14 +1019,6 @@
     "imagem": ""
   },
   {
-    "tituloID": "BA__046",
-    "titulo": "ODE AO CENTRO DO MUNDO",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Inspirada nas meditações matinais à beira-mar",
-    "imagem": ""
-  },
-  {
     "tituloID": "BA__047",
     "titulo": "Onde o Sol Chega Primeiro ",
     "autor": "Zeca Berlange",
@@ -706,6 +1357,116 @@
   {
     "tituloID": "BA__089",
     "titulo": "TÔ NA TUA PRAIA (EDIT)",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__090",
+    "titulo": "Güyrá-purú-HylaIa",
+    "autor": "Zeca Berlange",
+    "estilo": "Instrumental",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__092",
+    "titulo": "ENTRE O DESEJO EO ADEUS  ",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__093",
+    "titulo": "O BEIJO QUE NÃO DEMOS  ",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__094",
+    "titulo": "QUASE NÓS  ",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__095",
+    "titulo": "Uirapuru Hylaía",
+    "autor": "Zeca Berlange",
+    "estilo": "Instrumental",
+    "descricao": "",
+    "imagem": ""
+  }
+]EO  ",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__082",
+    "titulo": "LULA GIGANTE ERREIRO  ",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__083",
+    "titulo": "DE NA MAGRELA PRO SERTÃO  ",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__084",
+    "titulo": "Minha Esperança Alzira  ",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__085",
+    "titulo": "HERÓIS CHINFRINS  ",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__086",
+    "titulo": "A Poesia Nossa de Cada Dia (instr)",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__087",
+    "titulo": ".Diz Pra Mim",
+    "autor": "D'Amaral Basinho",
+    "estilo": "Samba Canção",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__088",
+    "titulo": "TERRA SANTA A VENCER  ",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__089",
+    "titulo": "TÔ NA TUA PRAIA",
     "autor": "Zeca Berlange",
     "estilo": "",
     "descricao": "",
