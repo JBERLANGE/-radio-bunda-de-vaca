@@ -1,39 +1,7 @@
-﻿[
+[
   {
     "tituloID": "BV__001",
     "titulo": " ORQUESTRA I",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Harmonia e percussão conversando sem precisar de palavra",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__002",
-    "titulo": " ORQUESTRAL II",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Harmonia e percussão conversando sem precisar de palavra",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__003",
-    "titulo": " ORQUESTRAL II",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Harmonia e percussão conversando sem precisar de palavra",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__004",
-    "titulo": " ORQUESTRAL III",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Harmonia e percussão conversando sem precisar de palavra",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__005",
-    "titulo": " ORQUESTRAL III",
     "autor": "Zeca Berlange",
     "estilo": "",
     "descricao": "Harmonia e percussão conversando sem precisar de palavra",
@@ -85,22 +53,6 @@
     "autor": "Zeca Berlange",
     "estilo": "",
     "descricao": "Harmonia e percussão dialogando sem precisar de palavra",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__012",
-    "titulo": " PAGODE RAIZ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Samba de mesa, amizade e batucada nascida no subúrbio do Rio",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__013",
-    "titulo": " PAGODE RAIZ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Samba de raiz, amizade e batucada nascida no subúrbio carioca",
     "imagem": ""
   },
   {
@@ -216,14 +168,6 @@
     "imagem": ""
   },
   {
-    "tituloID": "BV__028",
-    "titulo": "BOSSA NOVA_INSTRUMENTAL",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "orquestral inspirada em trilhas sonoras emotivas",
-    "imagem": ""
-  },
-  {
     "tituloID": "BV__029",
     "titulo": "BOSSA NOVA_INSTRUMENTAL",
     "autor": "Zeca Berlange",
@@ -264,531 +208,11 @@
     "imagem": ""
   },
   {
-    "tituloID": "BV__034",
-    "titulo": " ORQUESTRAL",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Harmonia e percussão conversando sem precisar de palav",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__035",
-    "titulo": " PAGODE AMBIENTE",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Churrasco, cerveja  e samba correndo solto na varanda,",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__036",
-    "titulo": " PAGODE AMBIENTE",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Churrasco, cerveja  e samba correndo solto na varanda",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__037",
-    "titulo": " PAGODE AMBIENTE",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Churrasco, cerveja  e samba rolando solto na varanda.",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__038",
-    "titulo": " PAGODE AMBIENTE",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Churrasco, cerveja  gelada e samba rolando solto na vida",
-    "imagem": ""
-  },
-  {
     "tituloID": "BV__039",
     "titulo": " PAGODE DE RAIZ",
     "autor": "Zeca Berlange",
     "estilo": "",
     "descricao": "Samba de mesa, amizade e batucada nascida no subúrbio cario",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__040",
-    "titulo": " PAGODE DE RAIZ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Samba de raiz, amizade e batucada nascida no subúrbio d Rio",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__041",
-    "titulo": " PAGODE INSTRUMENTAL",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "vI",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__042",
-    "titulo": " PAGODE INSTRUMENTAL",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "vI",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__043",
-    "titulo": " PAGODE INSTRUMENTAL",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Harmonia e percussão dialogando sem precisar de palavr",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__044",
-    "titulo": " PAGODE INSTRUMENTAL",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Harmonia e percussão conversando sem precisar de palav",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__045",
-    "titulo": " PAGODE INSTRUMENTAL",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Harmonia e percussão dialogando sem precisar de palavr",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__046",
-    "titulo": " PAGODE INSTRUMENTAL",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Harmonia e percussão dialogando sem precisar de palavr",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__047",
-    "titulo": " PAGODE INSTRUMENTAL",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Harmonia e percussão dialogando sem precisar de palavr",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__048",
-    "titulo": " PAGODE INSTRUMENTAL",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Harmonia e percussão dialogando sem precisar de palavr",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__049",
-    "titulo": " PAGODE INSTRUMENTAL",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Harmonia e percussão dialogando sem precisar de palavr",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__050",
-    "titulo": " PAGODE INSTRUMENTAL",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Harmonia e percussão dialogando sem precisar de palavr",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__051",
-    "titulo": " PAGODE RAIZ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Samba de mesa, amizade e batucada nascida no subúrbio do Rio",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__052",
-    "titulo": " PAGODE RAIZ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Samba de raiz, amizade e batucada nascida no subúrbio carioc",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__053",
-    "titulo": " PAGODE ROMÂNTICO",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Amor, refrão marcante e samba com perfume pop anos 90.",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__054",
-    "titulo": " PAGODE ROMÂNTICO",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Amor, refrão marcante e samba com perfume pop dos anos 90",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__055",
-    "titulo": " PAGODE ROMÂNTICO",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Amor, refrém marcante e samba com perfume pop anos 90",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__056",
-    "titulo": " PAGODE ROMÂNTICO",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Amor, refrém marcante e samba com perfume pop dos anos 90",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__057",
-    "titulo": " ORQUESTRAL I",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Harmonia e percussão conversando sem precisar de palav",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__058",
-    "titulo": " ORQUESTRAL I",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Harmonia e percussão conversando sem precisar de palav",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__059",
-    "titulo": " ORQUESTRAL I",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Harmonia e percussão conversando sem precisar de palav",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__060",
-    "titulo": " ORQUESTRAL I",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Harmonia e percussão conversando sem precisar de palav",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__061",
-    "titulo": " ORQUESTRAL",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Harmonia e percussão conversando sem precisar de palav",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__062",
-    "titulo": "AFRO- SAMBA  ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "vM",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__063",
-    "titulo": "AFRO- SAMBA  ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Místico, afro-brasileiro, litúrgico e meditativo",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__064",
-    "titulo": "AFRO- SAMBA  ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Místico, afro-brasileiro, ritualístico e contemplativo.",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__065",
-    "titulo": "AFRO- SAMBA  ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Místico, afro-brasileiro, ritualístico e contemplativo",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__066",
-    "titulo": "AXÉ MUSIC",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "vF",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__067",
-    "titulo": "AXÉ MUSIC",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "vF",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__068",
-    "titulo": "AXÉ MUSIC",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "vM",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__069",
-    "titulo": "AXÉ MUSIC",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "vM",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__070",
-    "titulo": "BACHATA ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Romantismo caribenho a ser degustado com guitarra e saudade",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__071",
-    "titulo": "BACHATA ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Romantismo caribenho curtido com guitarra e saudade",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__072",
-    "titulo": "BACHATA ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Romantismo caribenho entregue com guitarra e saudade",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__073",
-    "titulo": "BACHATA ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Romantismo caribenho servido com guitarra e saudade",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__074",
-    "titulo": "BLACK RIO",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "vF",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__075",
-    "titulo": "BLACK RIO",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "vF",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__076",
-    "titulo": "BLACK RIO",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "vF",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__077",
-    "titulo": "BLACK RIO",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "vF",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__078",
-    "titulo": "BLACK RIO",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "vM",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__079",
-    "titulo": "BLACK RIO",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "vM",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__080",
-    "titulo": "BLUES",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Dor, alma e guitarra juntadas nos vales do Mississippi- EUA",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__081",
-    "titulo": "BLUES",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Dor, alma e guitarra nascidas no sul dos EUA",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__082",
-    "titulo": "BLUES",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Dor, alma e guitarra nascidas nos valses do  sul dos EUA",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__083",
-    "titulo": "BLUES",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "É dor, alma e guitarra nascidas no sul de os EUA",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__084",
-    "titulo": "BOLERO",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Romance lento cubano onde o coração sempre perde a discussão",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__085",
-    "titulo": "BOLERO",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Romance lento latino onde o coração sempre perde a discussão",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__086",
-    "titulo": "BOSSA NOVA_INSTRUMENTAL",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "orquestral inspirada em trilhas sonoras emotivas",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__087",
-    "titulo": "BOSSA NOVA_INSTRUMENTAL",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "orquestral inspirada em trilhas sonoras emotivas.",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__088",
-    "titulo": "BOSSA NOVA",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "vM",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__089",
-    "titulo": "BOSSA NOVA",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "vF",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__090",
-    "titulo": "BOSSA NOVA",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "vM",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__091",
-    "titulo": "BOSSA NOVA",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "vF",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__092",
-    "titulo": "CALYPSO ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Humor, festa e tambores ecoando de Trinidad Tobago",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__093",
-    "titulo": "CALYPSO ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Humor, festa e tambores ecoando de Trinidad",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__094",
-    "titulo": "CALYPSO ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Humor, festa e tambores vindo de Trinidad Tobago",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__095",
-    "titulo": "CALYPSO ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Humor, festa e tambores vindos de Trinidad",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__096",
-    "titulo": "CARIMBÓ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "ança de roda paraense com origens afro-indígenas e europeias",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__097",
-    "titulo": "CARIMBÓ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Dança de roda paraense com raízes afro-indígenas e europeias",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__098",
-    "titulo": "CARIMBÓ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Dança de roda paraense com raízes na floresta e rios amazônicos",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__099",
-    "titulo": "CARIMBÓ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Dança de roda paraense com raízes na hiléia e rios amazônicos",
     "imagem": ""
   },
   {
@@ -832,22 +256,6 @@
     "imagem": ""
   },
   {
-    "tituloID": "BV__105",
-    "titulo": "CHA-CHA-CHÁ ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Sobre o salão cubano ensinando os pés a sorrirem",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__106",
-    "titulo": "CHA-CHA-CHÁ ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "É o salão cubano ensinando os pés a sorrirem",
-    "imagem": ""
-  },
-  {
     "tituloID": "BV__107",
     "titulo": "CHILLOUT PRAIANO",
     "autor": "Zeca Berlange",
@@ -864,22 +272,6 @@
     "imagem": ""
   },
   {
-    "tituloID": "BV__109",
-    "titulo": "CHILLOUT PRAIANO",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Música para respirar devagar meditando na  beira mar",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__110",
-    "titulo": "CHILLOUT PRAIANO",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Música para respirar devagar relaxando na  beira mar",
-    "imagem": ""
-  },
-  {
     "tituloID": "BV__111",
     "titulo": "CHORINHO",
     "autor": "Zeca Berlange",
@@ -889,22 +281,6 @@
   },
   {
     "tituloID": "BV__112",
-    "titulo": "CHORINHO",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "vF",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__113",
-    "titulo": "CHORINHO",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "vF",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__114",
     "titulo": "CHORINHO",
     "autor": "Zeca Berlange",
     "estilo": "",
@@ -928,22 +304,6 @@
     "imagem": ""
   },
   {
-    "tituloID": "BV__117",
-    "titulo": "CINE ORQUESTRAL",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Música feita para emocionar antes mesmo das palavras",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__118",
-    "titulo": "CINE ORQUESTRAL",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Música tocada para emocionar antes mesmo das palavras",
-    "imagem": ""
-  },
-  {
     "tituloID": "BV__119",
     "titulo": "CLUBE DA ESQUINA",
     "autor": "Zeca Berlange",
@@ -960,22 +320,6 @@
     "imagem": ""
   },
   {
-    "tituloID": "BV__121",
-    "titulo": "CLUBE DA ESQUINA",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "vM",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__122",
-    "titulo": "CLUBE DA ESQUINA",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "vM",
-    "imagem": ""
-  },
-  {
     "tituloID": "BV__123",
     "titulo": "COUNTRY",
     "autor": "Zeca Berlange",
@@ -985,22 +329,6 @@
   },
   {
     "tituloID": "BV__124",
-    "titulo": "COUNTRY",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": " Estradas, amores e violões da América rural",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__125",
-    "titulo": "COUNTRY",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": " Estradas, amores e violões da América rural",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__126",
     "titulo": "COUNTRY",
     "autor": "Zeca Berlange",
     "estilo": "",
@@ -1024,22 +352,6 @@
     "imagem": ""
   },
   {
-    "tituloID": "BV__129",
-    "titulo": "DISCO- FUNK 70s",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Brilho e suingue energético nas pistas de danças vibrantes",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__130",
-    "titulo": "DISCO- FUNK 70s",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Glitter e groove energético nas pistas de danças vibrantes",
-    "imagem": ""
-  },
-  {
     "tituloID": "BV__131",
     "titulo": "FADO ",
     "autor": "Zeca Berlange",
@@ -1053,22 +365,6 @@
     "autor": "Zeca Berlange",
     "estilo": "",
     "descricao": "A saudade lusitana encantada à meia-luz",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__133",
-    "titulo": "FADO ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "A saudade portuguesa cantando à meia-luz",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__134",
-    "titulo": "FADO ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "A saudade portuguesa encantando à meia-luz",
     "imagem": ""
   },
   {
@@ -1088,22 +384,6 @@
     "imagem": ""
   },
   {
-    "tituloID": "BV__137",
-    "titulo": "FLAMENCO",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Andaluzia em chamas, palmas e guitarras dramáticas",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__138",
-    "titulo": "FLAMENCO",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Andaluzia põe mundo em chamas, palmas e guitarras dramáticas",
-    "imagem": ""
-  },
-  {
     "tituloID": "BV__139",
     "titulo": "FORRÓ",
     "autor": "Zeca Berlange",
@@ -1113,22 +393,6 @@
   },
   {
     "tituloID": "BV__140",
-    "titulo": "FORRÓ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": " Sanfona, suor e alegria do Nordeste brasileiro",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__141",
-    "titulo": "FORRÓ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": " Sanfona, suor e alegria do Nordeste brasileiro",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__142",
     "titulo": "FORRÓ",
     "autor": "Zeca Berlange",
     "estilo": "",
@@ -1160,46 +424,6 @@
     "imagem": ""
   },
   {
-    "tituloID": "BV__146",
-    "titulo": "FUNK CARIOCA",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "vM",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__147",
-    "titulo": "FUNK CARIOCA",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "vM",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__148",
-    "titulo": "FUNK CARIOCA",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "vM",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__149",
-    "titulo": "FUNK CARIOCA",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "vM",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__150",
-    "titulo": "FUNK CARIOCA",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "vF",
-    "imagem": ""
-  },
-  {
     "tituloID": "BV__151",
     "titulo": "FUNK MELODY",
     "autor": "Zeca Berlange",
@@ -1213,22 +437,6 @@
     "autor": "Zeca Berlange",
     "estilo": "",
     "descricao": "vF",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__153",
-    "titulo": "FUNK MELODY",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "vM",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__154",
-    "titulo": "FUNK MELODY",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "vM",
     "imagem": ""
   },
   {
@@ -1280,22 +488,6 @@
     "imagem": ""
   },
   {
-    "tituloID": "BV__161",
-    "titulo": "IÊ-IÊ-IÊ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Mistura inocência, romantismo adolescente e rebeldia leve",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__162",
-    "titulo": "IÊ-IÊ-IÊ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Mistura inocência, romantismo adolescente e rebeldia leve",
-    "imagem": ""
-  },
-  {
     "tituloID": "BV__163",
     "titulo": "JOVEM GUARDA",
     "autor": "Zeca Berlange",
@@ -1312,22 +504,6 @@
     "imagem": ""
   },
   {
-    "tituloID": "BV__165",
-    "titulo": "JOVEM GUARDA",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "vF",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__166",
-    "titulo": "JOVEM GUARDA",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "vM",
-    "imagem": ""
-  },
-  {
     "tituloID": "BV__167",
     "titulo": "KONPAS ",
     "autor": "Zeca Berlange",
@@ -1341,22 +517,6 @@
     "autor": "Zeca Berlange",
     "estilo": "",
     "descricao": "Elegância haitiana dançando em groove hipnótico",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__169",
-    "titulo": "KONPAS ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Elegância haitiana produz dança em groove hipnótico",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__170",
-    "titulo": "KONPAS",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Elegância haitiana é dança em groove hipnótico",
     "imagem": ""
   },
   {
@@ -1384,22 +544,6 @@
     "imagem": ""
   },
   {
-    "tituloID": "BV__174",
-    "titulo": "LO-FI",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Imperfeições sonoras transformadas em conforto emocional.",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__175",
-    "titulo": "MAMBO ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Metais explosivos animam dança tropical sem freio",
-    "imagem": ""
-  },
-  {
     "tituloID": "BV__176",
     "titulo": "MAMBO ",
     "autor": "Zeca Berlange",
@@ -1413,14 +557,6 @@
     "autor": "Zeca Berlange",
     "estilo": "",
     "descricao": "Metais explosivos energizam dança tropical sem freio",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__178",
-    "titulo": "MAMBO ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Metais explosivos impulsam dança tropical sem freio",
     "imagem": ""
   },
   {
@@ -1440,22 +576,6 @@
     "imagem": ""
   },
   {
-    "tituloID": "BV__181",
-    "titulo": "Manguebeat ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "vF",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__182",
-    "titulo": "Manguebeat ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "vF",
-    "imagem": ""
-  },
-  {
     "tituloID": "BV__183",
     "titulo": "MERENGUE ",
     "autor": "Zeca Berlange",
@@ -1472,22 +592,6 @@
     "imagem": ""
   },
   {
-    "tituloID": "BV__185",
-    "titulo": "MERENGUE ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Ritmo dominicano impossível de ouvir parado",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__186",
-    "titulo": "MERENGUE ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Um ritmo dominicano impossível de ouvir parado",
-    "imagem": ""
-  },
-  {
     "tituloID": "BV__187",
     "titulo": "MPB 60s",
     "autor": "Zeca Berlange",
@@ -1501,22 +605,6 @@
     "autor": "Zeca Berlange",
     "estilo": "",
     "descricao": "vF",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__189",
-    "titulo": "MPB 60s",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "vM",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__190",
-    "titulo": "MPB 60s",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "vM",
     "imagem": ""
   },
   {
@@ -1552,22 +640,6 @@
     "imagem": ""
   },
   {
-    "tituloID": "BV__195",
-    "titulo": "PARTIDO-ALTO_Improviso, desafio poético, resposta coletiva, humor e malandra",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Improviso, desafio poético, resposta coletiva, humor e malandra",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__196",
-    "titulo": "PARTIDO-ALTO",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Improviso, desafio poético, resposta coletiva, humor e maland",
-    "imagem": ""
-  },
-  {
     "tituloID": "BV__197",
     "titulo": "RUMBA ",
     "autor": "Zeca Berlange",
@@ -1584,22 +656,6 @@
     "imagem": ""
   },
   {
-    "tituloID": "BV__199",
-    "titulo": "RUMBA ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Percussão afro-caribenha provoca sedução e balanço",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__200",
-    "titulo": "RUMBA ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Percussão afro-caribenha repleta de sedução e balanço",
-    "imagem": ""
-  },
-  {
     "tituloID": "BV__201",
     "titulo": "SAMBA DE BREQUE",
     "autor": "Zeca Berlange",
@@ -1613,22 +669,6 @@
     "autor": "Zeca Berlange",
     "estilo": "",
     "descricao": "Teatral, humorístico, narrativo, com pausas dramáticas",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__203",
-    "titulo": "SAMBA DE GAFIEIRA_vElegante, sofisticado, dançante, urbano",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Elegante, sofisticado, dançante, urbano",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__204",
-    "titulo": "SAMBA DE GAFIEIRA",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "vM",
     "imagem": ""
   },
   {
@@ -1664,22 +704,6 @@
     "imagem": ""
   },
   {
-    "tituloID": "BV__209",
-    "titulo": "SAMBA DE RAIZ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "vm",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__210",
-    "titulo": "SAMBA DE RAIZ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "orgânico, comunitário, espiritualizado e cotidiano .",
-    "imagem": ""
-  },
-  {
     "tituloID": "BV__211",
     "titulo": "SAMBA DE RODA",
     "autor": "Zeca Berlange",
@@ -1693,22 +717,6 @@
     "autor": "Zeca Berlange",
     "estilo": "",
     "descricao": "Ancestral, baiano, coletivo, tribal e festivo",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__213",
-    "titulo": "SAMBA DE RODA",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Ancestral, soteropolitano, coletivo, tribal e festivo.",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__214",
-    "titulo": "SAMBA DE RODA",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Ancestral, soteropolitano, coletivo, tribal e festivo",
     "imagem": ""
   },
   {
@@ -1733,14 +741,6 @@
     "autor": "Zeca Berlange",
     "estilo": "",
     "descricao": "vF",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__218",
-    "titulo": "SAMBA PAULISTANO",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "vM",
     "imagem": ""
   },
   {
@@ -1792,22 +792,6 @@
     "imagem": ""
   },
   {
-    "tituloID": "BV__225",
-    "titulo": "SAMBA-ENREDO",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Grandioso, épico, carnavalesco, narrativo e coletivo.",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__226",
-    "titulo": "SAMBA-ENREDO",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Grandioso, épico, carnavalesco, narrativo e evolutivo",
-    "imagem": ""
-  },
-  {
     "tituloID": "BV__227",
     "titulo": "SAMBA-EXALTAÇÃO",
     "autor": "Zeca Berlange",
@@ -1824,22 +808,6 @@
     "imagem": ""
   },
   {
-    "tituloID": "BV__229",
-    "titulo": "SAMBA-EXALTAÇÃO",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Patriótico, emotivo, majestoso, celebratório.",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__230",
-    "titulo": "SAMBA-EXALTAÇÃO",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Patriótico, emotivo, majestoso, celebratório",
-    "imagem": ""
-  },
-  {
     "tituloID": "BV__231",
     "titulo": "SAMBA-ROCK ",
     "autor": "Zeca Berlange",
@@ -1853,22 +821,6 @@
     "autor": "Zeca Berlange",
     "estilo": "",
     "descricao": "Swing urbano, balanço dançante, mescla samba + sou",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__233",
-    "titulo": "SAMBA-ROCK ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Swing urbano, groove dançante, mescla samba + soul + funk",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__234",
-    "titulo": "SAMBA-ROCK ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Swing urbano, groove dançante, mescla samba + soul + funk.",
     "imagem": ""
   },
   {
@@ -1952,22 +904,6 @@
     "imagem": ""
   },
   {
-    "tituloID": "BV__245",
-    "titulo": "SON CUBANO ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "A elegância rítmica que moldou a música cubana",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__246",
-    "titulo": "SON CUBANO ",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "A elegância rítmica que plasmou a música cubana",
-    "imagem": ""
-  },
-  {
     "tituloID": "BV__247",
     "titulo": "SYNTHWAVE",
     "autor": "Zeca Berlange",
@@ -1981,22 +917,6 @@
     "autor": "Zeca Berlange",
     "estilo": "",
     "descricao": " O futuro imaginado pelos anos 80 by neon e sintetizadores",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__249",
-    "titulo": "SYNTHWAVE",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": " O futuro visionado pelos anos 80 em neon e sintetizadores",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__250",
-    "titulo": "SYNTHWAVE",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "O futuro imaginado pelos anos 80 em neon e sintetizadores",
     "imagem": ""
   },
   {
@@ -2048,22 +968,6 @@
     "imagem": ""
   },
   {
-    "tituloID": "BV__257",
-    "titulo": "TOADA",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Música vibrante a festejar lendas indígenas e rituais dos bois-bumbá",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__258",
-    "titulo": "TOADA",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Música vibrante que celebra lendas indígenas e rituais dos bois-bumbá",
-    "imagem": ""
-  },
-  {
     "tituloID": "BV__259",
     "titulo": "TRAP ACÚSTICO",
     "autor": "Zeca Berlange",
@@ -2077,22 +981,6 @@
     "autor": "Zeca Berlange",
     "estilo": "",
     "descricao": "Batidas graves e confissões da era digital",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__261",
-    "titulo": "TRAP ACÚSTICO",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Beats graves e confissões da era digital",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__262",
-    "titulo": "TRAP ACÚSTICO",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Beats graves e revelações da era digital",
     "imagem": ""
   },
   {
@@ -2144,22 +1032,6 @@
     "imagem": ""
   },
   {
-    "tituloID": "BV__269",
-    "titulo": "TUMBA",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Celebração afro-caribenha guiada por tambores e metais de Curaçao",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__270",
-    "titulo": "TUMBA",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Celebração afro-caribenha guiada por tambores e metais de Korsou",
-    "imagem": ""
-  },
-  {
     "tituloID": "BV__271",
     "titulo": "TWIST",
     "autor": "Zeca Berlange",
@@ -2173,22 +1045,6 @@
     "autor": "Zeca Berlange",
     "estilo": "",
     "descricao": "Ritmo acelerado, alegre, dançante e energético",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__273",
-    "titulo": "TWIST",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Ritmo acelerado, alegre, dançante e intensivo.",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__274",
-    "titulo": "TWIST",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Ritmo acelerado, alegre, dançante e intensivo",
     "imagem": ""
   },
   {
@@ -2208,22 +1064,6 @@
     "imagem": ""
   },
   {
-    "tituloID": "BV__277",
-    "titulo": "VALLENATO",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Acordeon colombiano narrando paixões e caminhos do mar",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__278",
-    "titulo": "VALLENATO",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Acordeon colombiano narrando paixões e caminhos",
-    "imagem": ""
-  },
-  {
     "tituloID": "BV__279",
     "titulo": "ZOUK",
     "autor": "Zeca Berlange",
@@ -2237,22 +1077,6 @@
     "autor": "Zeca Berlange",
     "estilo": "",
     "descricao": "Romance de Martinica embalado por sintetizadores suaves",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__281",
-    "titulo": "ZOUK",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Romance tropical embalado por sintetizadores suaves",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__282",
-    "titulo": "ZOUK",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "É romance tropical embalado por sintetizadores suaves",
     "imagem": ""
   },
   {
