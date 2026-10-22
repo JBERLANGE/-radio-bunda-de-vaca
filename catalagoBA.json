@@ -1,30 +1,30 @@
  [
  {
-    "tituloID": "BA__038",
-    "titulo": "BA__038.mp3",
+    "tituloID": "BA__001",
+    "titulo": "MEDITAÇÃO CÓSMICA",
     "autor": "Zeca Berlange",
     "estilo": "Instrumental Goslpel Pop",
     "descricao": "jose Berlange Andrade;",
     "imagem": ""
   },
    {
-    "tituloID": "BA__046",
-    "titulo": "BA__046.mp3",
+    "tituloID": "BA__002",
+    "titulo": "ODE AO CENTRO DO MUNDO",
     "autor": "Zeca Berlange",
     "estilo": "",
     "descricao": "Inspirada nas meditações matinais à beira-mar",
     "imagem": ""
   },
   {
-    "tituloID": "BA__027",
-    "titulo": "BA__027,mp3",
+    "tituloID": "BA__003",
+    "titulo": "GRATIDÃO GAYA",
     "autor": "Zeca Berlange",
     "estilo": "Gospel pop",
     "descricao": "inspirado nas meditações matinais de interação com o Sol",
     "imagem": ""
   },
   {
-    "tituloID": "BA__091",
+    "tituloID": "BA__004",
     "titulo": "YARA",
     "autor": "Raul Andrade",
     "estilo": "Valsa",
@@ -32,7 +32,7 @@
     "imagem": ""
   },
   {
-    "tituloID": "BA__011",
+    "tituloID": "BA__005",
     "titulo": "Vaca da Balsa",
     "autor": "Zeca Berlange",
     "estilo": "Samba maneiro",
