@@ -752,22 +752,6 @@
     "imagem": ""
   },
   {
-    "tituloID": "BA__777",
-    "titulo": "Güyrá-purú-HylaIa",
-    "autor": "Zeca Berlange",
-    "estilo": "MPB",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__888",
-    "titulo": "YARA",
-    "autor": "Raul Andrade",
-    "estilo": "Valsa",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
     "tituloID": "BA__996",
     "titulo": "ENTRE O DESEJO EO ADEUS",
     "autor": "Zeca Berlange",
@@ -793,7 +777,7 @@
   },
   {
     "tituloID": "BA__999",
-    "titulo": "Güira-PurÚ-Hylaya",
+    "titulo": "Güyra-Purú-Hylaya",
     "autor": "Zeca Berlange",
     "estilo": "MPB",
     "descricao": "Instrumental",
