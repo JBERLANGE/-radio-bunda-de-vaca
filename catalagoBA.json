@@ -1,793 +1,801 @@
 [
   {
-    "tituloID": "BA__001",
-    "titulo": "Meditação Cósmica",
+    "tituloID": "BA__001.mp3",
+    "titulo": "MEDITAÇÃO CÓSMICA",
     "autor": "Zeca Berlange",
-    "estilo": "Ode Gospel Pop",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__002",
-    "titulo": "Adnaloy",
+    "tituloID": "BA__002.mp3",
+    "titulo": "ODE AO CENTRO DO MUNDO",
     "autor": "Zeca Berlange",
-    "estilo": "Sertanejo",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__003",
-    "titulo": "Amigos Dos Bons Tempos",
+    "tituloID": "BA__003.mp3",
+    "titulo": "GRATIDÃO GAYA INSTRUMENTAL",
     "autor": "Zeca Berlange",
-    "estilo": "Samba",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__004",
-    "titulo": "Ayete, Caminho de Graça",
+    "tituloID": "BA__004.mp3",
+    "titulo": "Yara",
+    "autor": "Raul Andrade",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__005.mp3",
+    "titulo": "Balsa da Vaca",
     "autor": "Zeca Berlange",
-    "estilo": "Forró",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__005",
-    "titulo": "O Amor Paira No Ar",
-    "autor": "Zeca Berlange & Zé Maria Ortiz",
-    "estilo": "MPB",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__006",
+    "tituloID": "BA__006.mp3",
     "titulo": "O AMOR PAIRA NO AR",
     "autor": "Zé Maria Ortiz",
-    "estilo": "Marchinha",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__007",
+    "tituloID": "BA__007.mp3",
     "titulo": "Caboco Peregrino do Norte",
-    "autor": "D'amaral Basinho & Zeca Berlange",
-    "estilo": "Forró",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__008",
-    "titulo": "Canto Para Tia Isinha",
-    "autor": "Zeca Berlange & Zé Maria",
-    "estilo": "Valsinha",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__009",
-    "titulo": "Cartinha ao Mano Velho",
     "autor": "D'Amaral Basinho",
-    "estilo": "MPB",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__010",
+    "tituloID": "BA__008.mp3",
+    "titulo": "Canto Para Tia Isinha",
+    "autor": "Zeca Berlange",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__009.mp3",
+    "titulo": "Cartinha ao Mano Velho",
+    "autor": "Zeca Berlange",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__010.mp3",
     "titulo": "Concentra Mas Não Sai",
     "autor": "Zé Maria Ortiz",
-    "estilo": "Marchinha",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__011",
+    "tituloID": "BA__011.mp3",
     "titulo": "Condicional",
-    "autor": "D'Amaral Basinho & Zeca Berlange",
-    "estilo": "Samba",
+    "autor": "D'Amaral Basinho",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__012",
+    "tituloID": "BA__012.mp3",
     "titulo": "Curador Infante",
-    "autor": "'Damaral Basinho & Zeca Berlange",
-    "estilo": "Forró",
+    "autor": "D'Amaral Basinho",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__013",
-    "titulo": "Decisão",
+    "tituloID": "BA__013.mp3",
+    "titulo": "DECISÃO",
     "autor": "Zé Maria Ortiz",
-    "estilo": "Samba",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__015",
+    "tituloID": "BA__014.mp3",
+    "titulo": "Forró Da Vania Rita",
+    "autor": "Zeca Berlange",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__015.mp3",
     "titulo": "Dividing Street na Beira do Madeira",
     "autor": "Zeca Berlange",
-    "estilo": "Toada+Reggae",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__016",
+    "tituloID": "BA__016.mp3",
     "titulo": "Engenheiro do Forró",
     "autor": "Zeca Berlange",
-    "estilo": "Forró",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__017",
-    "titulo": "Estação Beradeira",
+    "tituloID": "BA__017.mp3",
+    "titulo": "ESTAÇÃO BERADEIRA",
     "autor": "D'Amaral Basinho",
-    "estilo": "MPB",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__018",
+    "tituloID": "BA__018.mp3",
     "titulo": "Estrela do Amanhecer",
     "autor": "Zeca Berlange",
-    "estilo": "Bossa Nova",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__019",
+    "tituloID": "BA__019.mp3",
     "titulo": "Farol Da Madrugada",
     "autor": "Zeca Berlange",
-    "estilo": "Bossa Nova",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__020",
-    "titulo": "Filho é Rock and Roll",
-    "autor": "D'Amaral Basinho & Zeca Berlange",
-    "estilo": "Rock",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__014",
-    "titulo": "Forró da Vania Rita",
-    "autor": "Zeca Berlange",
-    "estilo": "Forró",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__021",
-    "titulo": "Ainda É Verão no Coração de Telma",
-    "autor": "Zeca Berlange",
-    "estilo": "Pagode Romântico",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__022",
-    "titulo": "A Sexta Vez",
-    "autor": "Ze Maria Ortiz",
-    "estilo": "MPB",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__023",
-    "titulo": "Gratidão Gaya",
-    "autor": "Zeca Berlange",
-    "estilo": "Gospel Pop",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__024",
-    "titulo": "Grito de Solidão",
-    "autor": "Heitor Almeida",
-    "estilo": "MPB",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__025",
-    "titulo": "Helena, Alma Gêmea do Amor",
-    "autor": "D'Amaral Basinho",
-    "estilo": "MPB",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__026",
-    "titulo": "Ipê Dourado",
-    "autor": "Batistote Júnior",
-    "estilo": "Sertaneja",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__027",
-    "titulo": "Iracema Eu Vi o Mar",
-    "autor": "D'Amaral Basinho",
-    "estilo": "Forró",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__028",
-    "titulo": "Irmão da Estrada",
-    "autor": "Zeca Berlange",
-    "estilo": "Bossa Nova",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__029",
-    "titulo": "Joana, Luz e Poesia",
-    "autor": "D'Amaral Basinho",
-    "estilo": "MPB",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__030",
-    "titulo": "Karapanã Infernal",
-    "autor": "Zeca Berlange",
-    "estilo": "Rock beradeiro",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__031",
-    "titulo": "Lembranças Platávicas",
-    "autor": "Antonio Medina & Zeca Berlange",
-    "estilo": "MPB",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__032",
-    "titulo": "Lágrimas Sentidas",
-    "autor": "D'Amaral Basinho & Zeca Berlange",
-    "estilo": "MPB",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__033",
-    "titulo": "Madeira Meu Lugar",
-    "autor": "Igor Lucena",
-    "estilo": "MBP",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__034",
-    "titulo": "Meditação Cósmica",
-    "autor": "Zeca Berlange",
-    "estilo": "Ode Gospel Pop",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__035",
-    "titulo": "Metade do Que Sou",
-    "autor": "D'Amaral Basinho & Zeca Berlange",
-    "estilo": "Samba Canção",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__036",
-    "titulo": "Mitsue",
-    "autor": "Edgley Queiroz",
-    "estilo": "Samba",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__037",
-    "titulo": "Muiraquitãs",
-    "autor": "Zeca Berlange & Jô Darkiana",
-    "estilo": "Toada do norte",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__038",
-    "titulo": "Nosso Amor é Diferente",
-    "autor": "Zé Maria & Zeca Berlange",
-    "estilo": "MPB",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__039",
-    "titulo": "Calamengau - um pagode para Joana",
-    "autor": "D'Amaral Basinho",
-    "estilo": "Samba",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__040",
-    "titulo": "O Barqueiro Encantado",
-    "autor": "D'Amaral Basinho e Zeca Berlange",
-    "estilo": "MPB",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__041",
-    "titulo": "O Sol da Liberdade",
-    "autor": "Zé Maria & Zeca Berlange",
-    "estilo": "Samba",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__042",
-    "titulo": "Ode Ao Centro Do Mundo",
-    "autor": "Zeca Berlange",
-    "estilo": "Gospel pop",
-    "descricao": "Autoria Jose Berlange Andrade",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__043",
-    "titulo": "Onde o Sol Chega Primeiro",
-    "autor": "D'Amaral Basinho",
-    "estilo": "Samba",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__045",
+    "tituloID": "BA__020.mp3",
     "titulo": "Pôr do Sol Carmim",
     "autor": "Zeca Berlange",
-    "estilo": "Latina",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__046",
-    "titulo": "Pula no Meu Peito Morena",
+    "tituloID": "BA__021.mp3",
+    "titulo": "Ainda Há Verão no Coração",
     "autor": "Zeca Berlange",
-    "estilo": "Guarânia+Toada",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__047",
-    "titulo": "Puxou a Cortina do Sol",
-    "autor": "D'Amaral Basinho",
-    "estilo": "Samba",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__048",
-    "titulo": "Que fazer?",
-    "autor": "Zeca Berlange",
-    "estilo": "Latina",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__049",
-    "titulo": "Quem Apanha Nunca Esquece",
-    "autor": "Zé Maria Ortiz",
-    "estilo": "Forró",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__050",
-    "titulo": "Refletir é Bom",
-    "autor": "Zé Maria Ortiz",
-    "estilo": "Samba",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__051",
-    "titulo": "Sentimentos Transformam Vidas",
-    "autor": "Marcos Capu",
-    "estilo": "Gospel",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__052",
-    "titulo": "Semear em Terra Seca",
-    "autor": "Hamilton Batista",
-    "estilo": "MPB",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__053",
-    "titulo": "Soberba",
-    "autor": "Zé Maria Ortiz",
-    "estilo": "Samba",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__054",
-    "titulo": "Solitude é Acalanto",
-    "autor": "Zsca Berlange & D'amaral Basinho",
-    "estilo": "MPB",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__055",
-    "titulo": "Tamos Juntos, Irmão",
-    "autor": "Zsca Berlange",
-    "estilo": "Toada",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__056",
-    "titulo": "Terra Rara e Caos",
-    "autor": "Zsca Berlange",
-    "estilo": "Caribenha",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__057",
-    "titulo": "Travessia Musical",
-    "autor": "Zeca Berlange & Hélio Machado",
-    "estilo": "MPB",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__058",
-    "titulo": "Uma Alma Livre na Dança",
-    "autor": "Zeca Berlange & Jorge M Batista",
-    "estilo": "Pantaneira",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__059",
-    "titulo": "Valsa Pra Vó Negrinha",
-    "autor": "Zsca Berlange",
-    "estilo": "Valsinha",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__060",
-    "titulo": "Vida de Vvivente da Estradas",
-    "autor": "Zeca Berlange",
-    "estilo": "Gauchesca",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__062",
-    "titulo": "Volta ao Lar",
-    "autor": "Zeca Berlange",
-    "estilo": "Samba Canção",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__063",
-    "titulo": "Volta pro Jogo",
-    "autor": "Edgley Queiroz",
-    "estilo": "Samba-Canção",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__065",
-    "titulo": "Volta, Conquistador",
-    "autor": "Zeca Berlange",
-    "estilo": "Sertaneja",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__066",
-    "titulo": "Voz Que Voa",
-    "autor": "D'Amaral Basinho",
-    "estilo": "Samba",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__067",
-    "titulo": "Yolanda e As Três Marias",
-    "autor": "Zeca Berlange",
-    "estilo": "Samba",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__068",
-    "titulo": "BOTECO",
-    "autor": "D'Amaral Basinho",
-    "estilo": "Caribenha",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__069",
-    "titulo": "Musa Inspiradora",
-    "autor": "Zé Maria Ortiz",
-    "estilo": "Latina",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__070",
-    "titulo": "Ainda É Verão No Coração de Telma",
-    "autor": "Zeca Berlange",
-    "estilo": "Pagode Romântico",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__071",
+    "tituloID": "BA__022.mp3",
     "titulo": "Colosso Desconhecido",
     "autor": "Zé Maria Ortiz",
-    "estilo": "Toada à Samba",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__072",
-    "titulo": "Feliz Aniver Néia",
-    "autor": "Zeca Berlange",
-    "estilo": "Pantaneira",
+    "tituloID": "BA__023.mp3",
+    "titulo": "Metade Do Que Sou",
+    "autor": "D'Amaral Basinho",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__073",
-    "titulo": "Guerreira do Coração",
-    "autor": "Zeca Berlange",
-    "estilo": "Pantaneira",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__077",
+    "tituloID": "BA__024.mp3",
     "titulo": "O Boi no Tacacá",
     "autor": "Zeca Berlange",
-    "estilo": "Toada",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__084",
-    "titulo": "Tamarineira Chorou",
-    "autor": "D'Amaral Basinho",
-    "estilo": "Samba",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__085",
-    "titulo": "Zumbi Gritou",
-    "autor": "D'Amaral Basinho",
-    "estilo": "",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__086",
-    "titulo": "A Dor Consome",
-    "autor": "D'Amaral Basinho",
-    "estilo": "Samba",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__088",
-    "titulo": "Solidão",
-    "autor": "Antônio Neno",
-    "estilo": "Gospel",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__089",
-    "titulo": "Amor",
-    "autor": "Antônio Neno",
-    "estilo": "Gospel",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__090",
-    "titulo": "Mar de Aquários",
-    "autor": "Antônio Neno",
-    "estilo": "Gospel",
-    "descricao": "Instrumental",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__092",
-    "titulo": "Ex-Amada",
+    "tituloID": "BA__025.mp3",
+    "titulo": "Helena, Alma Gêmea do Amor",
     "autor": "Zé Maria Ortiz",
-    "estilo": "Samba",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__093",
-    "titulo": "João Nicoletti de Novo",
+    "tituloID": "BA__026.mp3",
+    "titulo": "IPÊ DOURADO",
+    "autor": "Pedro Batistote",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__027.mp3",
+    "titulo": "IRACEMA EU VI O MAR",
+    "autor": "D'Amaral Basinho",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__028.mp3",
+    "titulo": "Irmão da Estrada",
     "autor": "Zeca Berlange",
-    "estilo": "Toada beradeira",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__094",
-    "titulo": "As Meninas e o Meu Jeito de Amar",
+    "tituloID": "BA__029.mp3",
+    "titulo": "Joana, Luz e Poesia.",
+    "autor": "Zé Maria Ortiz",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__030.mp3",
+    "titulo": "Karapanã Infernal",
+    "autor": "Zeca Berlange",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__031.mp3",
+    "titulo": "Lembranças Platávicas",
+    "autor": "Zeca Berlange",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__032.mp3",
+    "titulo": "Lágrimas Sentidas",
+    "autor": "Zeca Berlange",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__033.mp3",
+    "titulo": "Madeira Meu Lugar",
+    "autor": "Igor Lucena",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__034.mp3",
+    "titulo": "EX AMADA",
+    "autor": "Zé Maria Ortiz",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__035.mp3",
+    "titulo": "Metade Do Que Sou",
+    "autor": "D'Amaral Basinho",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__036.mp3",
+    "titulo": "MITSUE",
+    "autor": "Zeca Berlange",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__037.mp3",
+    "titulo": "MUIRAQUITÃS",
+    "autor": "D'Amaral Basinho",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__038.mp3",
+    "titulo": "Nosso Amor é Diferente",
+    "autor": "Zé Maria Ortiz",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__039.mp3",
+    "titulo": "Calamengau - um pagode para Joana",
+    "autor": "D'Amaral Basinho",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__040.mp3",
+    "titulo": "O Barqueiro Encantado",
+    "autor": "D'Amaral Basinho",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__041.mp3",
+    "titulo": "O SOL DA LIBERDADE",
+    "autor": "Zé Maria Ortiz",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__042.mp3",
+    "titulo": "ODE AO CENTRO DO MUNDO",
+    "autor": "Zeca Berlange",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__043.mp3",
+    "titulo": "Onde o Sol Chega Primeiro",
+    "autor": "Zeca Berlange",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__045.mp3",
+    "titulo": "Por do Sol Carmim",
+    "autor": "Zeca Berlange",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__046.mp3",
+    "titulo": "Pula no Meu Peito Morena",
+    "autor": "Zeca Berlange",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__047.mp3",
+    "titulo": "Puxou a Cortina do Sol",
+    "autor": "D'Amaral Basinho",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__048.mp3",
+    "titulo": "Que fazer?",
+    "autor": "Zeca Berlange",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__049.mp3",
+    "titulo": "QUEM APANHA NUNCA ESQUECE",
+    "autor": "Zé Maria Ortiz",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__050.mp3",
+    "titulo": "Refletir  é Bom",
+    "autor": "Zé Maria Ortiz",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__051.mp3",
+    "titulo": "Sentimentos Transformam Vdas",
+    "autor": "Capu",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__052.mp3",
+    "titulo": "Uirapuru Hylaía",
+    "autor": "Zeca Berlange",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__053.mp3",
+    "titulo": "Soberba",
+    "autor": "Zé Maria Ortiz",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__054.mp3",
+    "titulo": "SOLIDÃO É ACALANTO",
+    "autor": "D'Amaral Basinho",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__055.mp3",
+    "titulo": "Tamos Juntos, Irmão",
+    "autor": "Zeca Berlange",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__056.mp3",
+    "titulo": "Terra rara é o nome do Caos",
+    "autor": "Zeca Berlange",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__057.mp3",
+    "titulo": "TRAVESSIA MUSICAL",
+    "autor": "Hélio Machado",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__059.mp3",
+    "titulo": "VALSA PARA VO NEGRINHA",
+    "autor": "D'Amaral Basinho",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__060.mp3",
+    "titulo": "Vida de Vivente das Estradas",
+    "autor": "Paulo Brum",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__062.mp3",
+    "titulo": "VOLTA AO LAR",
+    "autor": "D'Amaral Basinho",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__063.mp3",
+    "titulo": "Volta Pro Jogo",
+    "autor": "Edgley Queiroz",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__065.mp3",
+    "titulo": "VOLTA, CONQUISTADOR",
+    "autor": "Zeca Berlange",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__066.mp3",
+    "titulo": "VOZ QUE VOA",
+    "autor": "D'Amaral Basinho",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__067.mp3",
+    "titulo": "Yolanda e as Três Marias",
+    "autor": "Zeca Berlange",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__068.mp3",
+    "titulo": "BOTECO",
+    "autor": "Zé Maria Ortiz",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__069.mp3",
+    "titulo": "Musa Inspiradora",
+    "autor": "Zé Maria Ortiz",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__070.mp3",
+    "titulo": "AINDA HÁ VERÃO NO CORAÇÃO DE TELMA",
+    "autor": "Zeca Berlange",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__071.mp3",
+    "titulo": "Colosso Desconhecido",
+    "autor": "Zé Maria Ortiz",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__072.mp3",
+    "titulo": "Feliz Aniver Néia",
+    "autor": "Zeca Berlange",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__073.mp3",
+    "titulo": "ADNALOY",
+    "autor": "Zeca Berlange",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__077.mp3",
+    "titulo": "O Boi no tacacá",
+    "autor": "Zeca Berlange",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__084.mp3",
+    "titulo": "TAMARINEIRA CHOROU",
+    "autor": "D'Amaral Basinho",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__085.mp3",
+    "titulo": "ZUMBI GRITOU",
+    "autor": "D'Amaral Basinho",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__086.mp3",
+    "titulo": "A DOR CONSOME",
+    "autor": "D'Amaral Basinho",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__088.mp3",
+    "titulo": "Deus Cirou o MUndo",
+    "autor": "Antonio Neno",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__089.mp3",
+    "titulo": "O AMOR",
+    "autor": "Antonio Neno",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__090.mp3",
+    "titulo": "RUBI",
+    "autor": "Antonio Neno",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__092.mp3",
+    "titulo": "EX AMADA",
+    "autor": "Zé Maria Ortiz",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__093.mp3",
+    "titulo": "JOÃO NICOLETTI DE NOVO",
+    "autor": "Zeca Berlange",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__094.mp3",
+    "titulo": "GUARDEM O MEU JEITO DE AMAR",
     "autor": "Heitor Almeida",
-    "estilo": "Infantil",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__096",
-    "titulo": "Sustenta-me",
-    "autor": "Antônio Medina",
-    "estilo": "Gospel pop",
+    "tituloID": "BA__096.mp3",
+    "titulo": "SUSTENTA-ME",
+    "autor": "Antonio Medina",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__101",
-    "titulo": "Meu Caiari, Minha Vida",
+    "tituloID": "BA__101.mp3",
+    "titulo": "MEU CAIARI, MINHA VIDA",
     "autor": "Ernesto Melo",
-    "estilo": "Samba-Xote",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__102",
-    "titulo": "Tombar, Levantar e Sambar",
-    "autor": "Zé Maria Ortiz & Zeca Berlange",
-    "estilo": "Samba",
+    "tituloID": "BA__102.mp3",
+    "titulo": "LEVANTA E AVANÇA",
+    "autor": "Zé Maria Ortiz",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__107",
-    "titulo": "O Pó e A Alma",
+    "tituloID": "BA__107.mp3",
+    "titulo": "O Pó e a Alma",
     "autor": "Ângelo Arruda",
-    "estilo": "MPB",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__108",
+    "tituloID": "BA__108.mp3",
     "titulo": "Emboscada do Pensamento",
     "autor": "Ângelo Arruda",
-    "estilo": "MPB",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__109",
-    "titulo": "Eu Preciso Falar Com Deus",
+    "tituloID": "BA__109.mp3",
+    "titulo": "Eu Preciso Falar com Deus",
     "autor": "Ângelo Arruda",
-    "estilo": "MPB",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__115",
-    "titulo": "Estações e Trens",
+    "tituloID": "BA__115.mp3",
+    "titulo": "ESTAÇÕES E TRENS",
     "autor": "Zeca Berlange",
-    "estilo": "MPB",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__118",
-    "titulo": "Sofrimento Sertanejo",
+    "tituloID": "BA__118.mp3",
+    "titulo": "SOFRIMENTO SERTANJEO",
     "autor": "Zeca Berlange",
-    "estilo": "Forró",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__119",
-    "titulo": "LULA GUERREIRO DO POVO BRASILEIRO",
+    "tituloID": "BA__119.mp3",
+    "titulo": "LULA GIGANTE GUERREIRO",
     "autor": "D'Amaral Basinho",
-    "estilo": "Xote+Reggae",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__120",
-    "titulo": "De Magrela pro Sertão",
+    "tituloID": "BA__120.mp3",
+    "titulo": "DE NA MAGRELA PRO SERTÃO",
     "autor": "Zeca Berlange",
-    "estilo": "Xote",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__122",
+    "tituloID": "BA__122.mp3",
     "titulo": "Minha Esperança",
     "autor": "Alzira Andrade",
-    "estilo": "Balada",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__124",
-    "titulo": "HEROIS CHINFRINS",
+    "tituloID": "BA__124.mp3",
+    "titulo": "HERÓIS CHINFRINS",
     "autor": "D'Amaral Basinho",
-    "estilo": "Samba-Breque",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__128",
+    "tituloID": "BA__128.mp3",
     "titulo": "Poesia Nossa de Cada Dia",
-    "autor": "Antoniio D'Amaral Basinho",
-    "estilo": "Valsinha",
+    "autor": "D'Amaral Basinho",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__129",
+    "tituloID": "BA__129.mp3",
     "titulo": "Diz Pra Mim",
     "autor": "D'Amaral Basinho",
-    "estilo": "MPB",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__131",
+    "tituloID": "BA__131.mp3",
     "titulo": "TÔ NA TUA PRAIA",
     "autor": "Zeca Berlange",
-    "estilo": "Dancing",
-    "descricao": "Comentários",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BA__996",
-    "titulo": "ENTRE O DESEJO E O ADEUS",
-    "autor": "Zeca Berlange",
-    "estilo": "MPB",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__997",
+    "tituloID": "BA__777.mp3",
+    "titulo": "Güyrá-Purú-Hylaya",
+    "autor": "Zeca Berlange",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__888.mp3",
+    "titulo": "YARA",
+    "autor": "Raul Andrade",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__996.mp3",
+    "titulo": "ENTRE O DESEJO EO ADEUS",
+    "autor": "Zeca Berlange",
+    "estilo": "Instrumental",
+    "descricao": "Instrumental",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BA__997.mp3",
     "titulo": "O BEIJO QUE NÃO DEMOS",
     "autor": "Zeca Berlange",
-    "estilo": "MPB",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__998",
+    "tituloID": "BA__998.mp3",
     "titulo": "QUASE NÓS",
     "autor": "Zeca Berlange",
-    "estilo": "MPB",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   },
   {
-    "tituloID": "BA__999",
-    "titulo": "Güyra-Purú-Hylaya",
+    "tituloID": "BA__999.mp3",
+    "titulo": "Uirapuru Hylaía",
     "autor": "Zeca Berlange",
-    "estilo": "MPB",
+    "estilo": "Instrumental",
     "descricao": "Instrumental",
     "imagem": ""
   }
