@@ -224,22 +224,6 @@
     "imagem": ""
   },
   {
-    "tituloID": "BV__101",
-    "titulo": "SERTANEJO MODÃO",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Sofrência clássica - amor perdido e viola consolando a alma",
-    "imagem": ""
-  },
-  {
-    "tituloID": "BV__102",
-    "titulo": "SERTANEJO MODÃO",
-    "autor": "Zeca Berlange",
-    "estilo": "",
-    "descricao": "Sofrência clássica é amor perdido e viola consolando a alm",
-    "imagem": ""
-  },
-  {
     "tituloID": "BV__103",
     "titulo": "CHA-CHA-CHÁ ",
     "autor": "Zeca Berlange",
@@ -885,6 +869,22 @@
     "autor": "Zeca Berlange",
     "estilo": "",
     "descricao": "O sertão juntou a balada à pegada do Funk e apaixon",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BV__101",
+    "titulo": "SERTANEJO MODÃO",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "Sofrência clássica - amor perdido e viola consolando a alma",
+    "imagem": ""
+  },
+  {
+    "tituloID": "BV__102",
+    "titulo": "SERTANEJO MODÃO",
+    "autor": "Zeca Berlange",
+    "estilo": "",
+    "descricao": "Sofrência clássica é amor perdido e viola consolando a alm",
     "imagem": ""
   },
   {
