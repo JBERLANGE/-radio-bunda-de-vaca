@@ -73,7 +73,7 @@
   },
   {
     "tituloID": "BA__010",
-    "titulo": "Comcentra Mas Nao Sai",
+    "titulo": "Concentra Mas Não Sai",
     "autor": "Zé Maria Ortiz",
     "estilo": "Marchinha",
     "descricao": "Instrumental",
@@ -82,7 +82,7 @@
   {
     "tituloID": "BA__011",
     "titulo": "Condicional",
-    "autor": "D'Amaral Basinho & Zeca Beerlange",
+    "autor": "D'Amaral Basinho & Zeca Berlange",
     "estilo": "Samba",
     "descricao": "Instrumental",
     "imagem": ""
@@ -107,7 +107,7 @@
     "tituloID": "BA__015",
     "titulo": "Dividing Street na Beira do Madeira",
     "autor": "Zeca Berlange",
-    "estilo": "Toada Amazônica inflencia  de Reggae",
+    "estilo": "Toada+Reggae",
     "descricao": "Instrumental",
     "imagem": ""
   },
@@ -153,7 +153,7 @@
   },
   {
     "tituloID": "BA__014",
-    "titulo": "Forró da Vânia Rita",
+    "titulo": "Forró da Vania Rita",
     "autor": "Zeca Berlange",
     "estilo": "Forró",
     "descricao": "Instrumental",
@@ -161,7 +161,7 @@
   },
   {
     "tituloID": "BA__021",
-    "titulo": "Ainda É Verão No Coração De Telma",
+    "titulo": "Ainda É Verão no Coração de Telma",
     "autor": "Zeca Berlange",
     "estilo": "Pagode Romântico",
     "descricao": "Instrumental",
@@ -177,7 +177,7 @@
   },
   {
     "tituloID": "BA__023",
-    "titulo": "Gratidão Planeta Terra",
+    "titulo": "Gratidão Gaya",
     "autor": "Zeca Berlange",
     "estilo": "Gospel Pop",
     "descricao": "Instrumental",
@@ -193,7 +193,7 @@
   },
   {
     "tituloID": "BA__025",
-    "titulo": "Helena, Alma Gemea do Amor",
+    "titulo": "Helena, Alma Gêmea do Amor",
     "autor": "D'Amaral Basinho",
     "estilo": "MPB",
     "descricao": "Instrumental",
@@ -201,7 +201,7 @@
   },
   {
     "tituloID": "BA__026",
-    "titulo": "Ipê Dourado (Saudade que Canta)",
+    "titulo": "Ipê Dourado",
     "autor": "Batistote Júnior",
     "estilo": "Sertaneja",
     "descricao": "Instrumental",
@@ -233,7 +233,7 @@
   },
   {
     "tituloID": "BA__030",
-    "titulo": "Karapanã Infernal, Praga Interestadual",
+    "titulo": "Karapanã Infernal",
     "autor": "Zeca Berlange",
     "estilo": "Rock beradeiro",
     "descricao": "Instrumental",
@@ -241,8 +241,8 @@
   },
   {
     "tituloID": "BA__031",
-    "titulo": "Lembranças platávicas",
-    "autor": "Antony Medina & Zeca Berlange",
+    "titulo": "Lembranças Platávicas",
+    "autor": "Antonio Medina & Zeca Berlange",
     "estilo": "MPB",
     "descricao": "Instrumental",
     "imagem": ""
@@ -258,7 +258,7 @@
   {
     "tituloID": "BA__033",
     "titulo": "Madeira Meu Lugar",
-    "autor": "Igor Hiei Lucena",
+    "autor": "Igor Lucena",
     "estilo": "MBP",
     "descricao": "Instrumental",
     "imagem": ""
@@ -385,7 +385,7 @@
   },
   {
     "tituloID": "BA__050",
-    "titulo": "Refletir  é Bom",
+    "titulo": "Refletir é Bom",
     "autor": "Zé Maria Ortiz",
     "estilo": "Samba",
     "descricao": "Instrumental",
@@ -393,7 +393,7 @@
   },
   {
     "tituloID": "BA__051",
-    "titulo": "Sentimentos transformam vidas",
+    "titulo": "Sentimentos Transformam Vidas",
     "autor": "Marcos Capu",
     "estilo": "Gospel",
     "descricao": "Instrumental",
@@ -401,7 +401,7 @@
   },
   {
     "tituloID": "BA__052",
-    "titulo": "Ser é semear em terra seca",
+    "titulo": "Semear em Terra Seca",
     "autor": "Hamilton Batista",
     "estilo": "MPB",
     "descricao": "Instrumental",
@@ -457,7 +457,7 @@
   },
   {
     "tituloID": "BA__059",
-    "titulo": "Valsa Para Vó Negrinha",
+    "titulo": "Valsa Pra Vó Negrinha",
     "autor": "Zsca Berlange",
     "estilo": "Valsinha",
     "descricao": "Instrumental",
@@ -465,7 +465,7 @@
   },
   {
     "tituloID": "BA__060",
-    "titulo": "Vida de Vvivente da sEstradas",
+    "titulo": "Vida de Vvivente da Estradas",
     "autor": "Zeca Berlange",
     "estilo": "Gauchesca",
     "descricao": "Instrumental",
@@ -481,7 +481,7 @@
   },
   {
     "tituloID": "BA__063",
-    "titulo": "Vol.ta pro Jogo",
+    "titulo": "Volta pro Jogo",
     "autor": "Edgley Queiroz",
     "estilo": "Samba-Canção",
     "descricao": "Instrumental",
@@ -489,7 +489,7 @@
   },
   {
     "tituloID": "BA__065",
-    "titulo": "Volta, conquistador",
+    "titulo": "Volta, Conquistador",
     "autor": "Zeca Berlange",
     "estilo": "Sertaneja",
     "descricao": "Instrumental",
@@ -505,7 +505,7 @@
   },
   {
     "tituloID": "BA__067",
-    "titulo": "Yolanda e as Três Marias",
+    "titulo": "Yolanda e As Três Marias",
     "autor": "Zeca Berlange",
     "estilo": "Samba",
     "descricao": "Instrumental",
@@ -513,7 +513,7 @@
   },
   {
     "tituloID": "BA__068",
-    "titulo": "¿Dónde está tu, Berlange",
+    "titulo": "¿Dónde Está Tu, Berlange",
     "autor": "D'Amaral Basinho",
     "estilo": "Caribenha",
     "descricao": "Instrumental",
@@ -545,7 +545,7 @@
   },
   {
     "tituloID": "BA__072",
-    "titulo": "Feliz Aniversário Néia",
+    "titulo": "Feliz Aniver Néia",
     "autor": "Zeca Berlange",
     "estilo": "Pantaneira",
     "descricao": "Instrumental",
@@ -585,7 +585,7 @@
   },
   {
     "tituloID": "BA__086",
-    "titulo": "A dor Consome",
+    "titulo": "A Dor Consome",
     "autor": "D'Amaral Basinho",
     "estilo": "Samba",
     "descricao": "Instrumental",
@@ -601,7 +601,7 @@
   },
   {
     "tituloID": "BA__089",
-    "titulo": "O Amor",
+    "titulo": "Amor",
     "autor": "Antônio Neno",
     "estilo": "Gospel",
     "descricao": "Instrumental",
@@ -737,7 +737,7 @@
   },
   {
     "tituloID": "BA__128",
-    "titulo": "A Poesia Nossa de Cada Dia",
+    "titulo": "Poesia Nossa de Cada Dia",
     "autor": "Antoniio D'Amaral Basinho",
     "estilo": "Valsinha",
     "descricao": "Instrumental",
@@ -761,7 +761,7 @@
   },
   {
     "tituloID": "BA__996",
-    "titulo": "ENTRE O DESEJO EO ADEUS",
+    "titulo": "ENTRE O DESEJO E O ADEUS",
     "autor": "Zeca Berlange",
     "estilo": "MPB",
     "descricao": "Instrumental",
