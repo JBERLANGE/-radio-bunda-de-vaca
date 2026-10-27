@@ -1,19 +1,11 @@
 [
- {
-    "tituloID": "BD__127",
-    "titulo": "Bora Lula, Bora Virar",
-    "autor": "Zeca Berlange",
-    "estilo": "Afro-Eltronica",
-    "descricao": "Jose Berlange Andrade",
-    "capa": "BD__127.jpg"
-  },
- {
-    "tituloID": "BD__125",
-    "titulo": "Bíerefou-Méri",
+  {
+    "tituloID": "BD__132",
+    "titulo": "Por Aqui, Passa Não!",
     "autor": "Zeca Berlange",
     "estilo": "Xote",
     "descricao": "José Berlange Andrade",
-    "capa": "BD__125.jpg"
+    "capa": "BD__131.jpg"
   },
   {
     "tituloID": "BD__042",
@@ -24,44 +16,12 @@
     "capa": "BD__042.jpg"
   },
   {
-    "tituloID": "BD__123",
-    "titulo": "Bella Tchau à Lula",
-    "autor": "D'Amaral Basinho",
-    "estilo": "Folk",
-    "descricao": "Antônio Serpa do Amaral Filho",
-    "capa": "BD__123.jpg"
-  },
-   {
     "tituloID": "BD__023",
     "titulo": "Gratidão Gaya",
     "autor": "Zeca Berlange",
     "estilo": "Gospel Pop",
     "descricao": "José Berlange Andrade",
     "capa": "BD__023.jpg"
-  },
-  {
-    "tituloID": "BD__120",
-    "titulo": "De Magrela pro Sertão",
-    "autor": "Zeca Berlange",
-    "estilo": "Xote",
-    "descricao": "José Berlange Andrade",
-    "capa": "BD__120.jpg"
-  },
-   {
-    "tituloID": "BD__124",
-    "titulo": "Herois Chifrins",
-    "autor": "D'Amaral Basinho",
-    "estilo": "Samba de breque",
-    "descricao": "Antônio Serpa do Amaral Filho",
-    "capa": "BD__124.jpg"
-  },
-  {
-    "tituloID": "BD__119",
-    "titulo": "Lula Guerreiro",
-    "autor": "D'Amaral Basinho",
-    "estilo": "Xote+Reggae",
-    "descricao": "Antonio Serpa do Amaral Filho e José Berlange Andrade",
-    "capa": "BD__119.jpg"
   },
   {
     "tituloID": "BD__061",
@@ -135,7 +95,7 @@
     "descricao": "Ângelo Marcos Arruda",
     "capa": "BD__107.jpg"
   },
-   {
+  {
     "tituloID": "BD__110",
     "titulo": "A Lua e O Rio",
     "autor": "D'Amaral Basinho",
@@ -312,20 +272,36 @@
     "capa": "BD__082.jpg"
   },
   {
+    "tituloID": "BD__123",
+    "titulo": "Bella Tchau à Lula",
+    "autor": "D'Amaral Basinho",
+    "estilo": "Folk",
+    "descricao": "Antônio Serpa do Amaral Filho",
+    "capa": "BD__123.jpg"
+  },
+  {
+    "tituloID": "BD__127",
+    "titulo": "Bora Lula, Bora Virar",
+    "autor": "Zeca Berlange",
+    "estilo": "Afro-Eltronica",
+    "descricao": "Jose Berlange Andrade",
+    "capa": "BD__127.jpg"
+  },
+  {
+    "tituloID": "BD__125",
+    "titulo": "Bíerefou-Méri",
+    "autor": "Zeca Berlange",
+    "estilo": "Xote",
+    "descricao": "José Berlange Andrade",
+    "capa": "BD__125.jpg"
+  },
+  {
     "tituloID": "BD__007",
     "titulo": "Caboco Peregrino do Norte",
     "autor": "D'Amaral Basinho",
     "estilo": "Forró",
     "descricao": "Antônio Serpa do Amaral Filho & Jose Berlange Andrade",
     "capa": "BD__007.jpg"
-  },
-  {
-    "tituloID": "BD__065",
-    "titulo": "Volta, conquistador",
-    "autor": "Darkiana [& Berlange]",
-    "estilo": "Sertanejo sofrência",
-    "descricao": "Jose Berlange Andrade",
-    "capa": "BD__065.jpg"
   },
   {
     "tituloID": "BD__077",
@@ -488,6 +464,14 @@
     "capa": "BD__103.jpg"
   },
   {
+    "tituloID": "BD__124",
+    "titulo": "Herois Chifrins",
+    "autor": "D'Amaral Basinho",
+    "estilo": "Samba de breque",
+    "descricao": "Antônio Serpa do Amaral Filho",
+    "capa": "BD__124.jpg"
+  },
+  {
     "tituloID": "BD__027",
     "titulo": "Iracema Eu Vi o Mar",
     "autor": "D'Amaral Basinho",
@@ -519,6 +503,14 @@
     "descricao": "Jose Maria Ortiz de Carvalho",
     "capa": "BD__091.jpg"
   },
+  {
+    "tituloID": "BD__119",
+    "titulo": "Lula Guerreiro",
+    "autor": "D'Amaral Basinho",
+    "estilo": "Xote+Reggae",
+    "descricao": "Antonio Serpa do Amaral Filho e José Berlange Andrade",
+    "capa": "BD__119.jpg"
+  },
    {
     "tituloID": "BD__122",
     "titulo": "Minha Esperança",
@@ -534,6 +526,14 @@
    "estilo": "MPB",
    "descricao": "Antônio Raimundo dos Santos",
    "capa": "BD__090.jpg"
+ },
+ {
+    "tituloID": "BD__120",
+    "titulo": "De Magrela pro Sertão",
+    "autor": "Zeca Berlange",
+    "estilo": "Xote",
+    "descricao": "José Berlange Andrade",
+    "capa": "BD__120.jpg"
  },
  {
     "tituloID": "BD__081",
@@ -814,6 +814,14 @@
     "estilo": "Samba-Canção",
     "descricao": "Jose Berlange Andrade & Edgley Queiroz",
     "capa": "BD__063.jpg"
+  },
+  {
+    "tituloID": "BD__065",
+    "titulo": "Volta, conquistador",
+    "autor": "Darkiana [& Berlange]",
+    "estilo": "Sertanejo sofrência",
+    "descricao": "Jose Berlange Andrade",
+    "capa": "BD__065.jpg"
   },
   {
     "tituloID": "BD__064",
