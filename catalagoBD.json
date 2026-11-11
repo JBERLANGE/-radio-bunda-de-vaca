@@ -1,13 +1,5 @@
 [
-  {
-    "tituloID": "BD__132",
-    "titulo": "Por Aqui, Passa Não!",
-    "autor": "Zeca Berlange",
-    "estilo": "Xote",
-    "descricao": "José Berlange Andrade",
-    "capa": "BD__131.jpg"
-  },
-  {
+ {
     "tituloID": "BD__042",
     "titulo": "Ode ao Centro do Mundo",
     "autor": "Zeca Berlange",
@@ -302,6 +294,14 @@
     "estilo": "Forró",
     "descricao": "Antônio Serpa do Amaral Filho & Jose Berlange Andrade",
     "capa": "BD__007.jpg"
+  },
+  {
+    "tituloID": "BD__134",
+    "titulo": "Canto à Liberdade",
+    "autor": "Zeca Berlange",
+    "estilo": "MPB",
+    "descricao": "José Berlange Andrade & José Maria Ortiz",
+    "capa": "BD__134.jpg"
   },
   {
     "tituloID": "BD__077",
@@ -654,6 +654,14 @@
     "estilo": "MPB",
     "descricao": "Jose Berlange Andrade",
     "capa": "BD__045.jpg"
+  },
+  {
+    "tituloID": "BD__132",
+    "titulo": "Por Aqui, Passa Não!",
+    "autor": "Zeca Berlange",
+    "estilo": "Xote",
+    "descricao": "José Berlange Andrade",
+    "capa": "BD__131.jpg"
   },
   {
     "tituloID": "BD__046",
